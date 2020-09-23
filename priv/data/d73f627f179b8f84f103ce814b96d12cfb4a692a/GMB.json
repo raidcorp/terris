@@ -1,0 +1,77 @@
+{
+  "alpha2Code": "GM",
+  "alpha3Code": "GMB",
+  "altSpellings": [
+    "GM",
+    "Republic of the Gambia"
+  ],
+  "area": 11295.0,
+  "borders": [
+    "SEN"
+  ],
+  "callingCodes": [
+    "220"
+  ],
+  "capital": "Banjul",
+  "cioc": "GAM",
+  "currencies": [
+    {
+      "code": "GMD",
+      "name": "Gambian dalasi",
+      "symbol": "D"
+    }
+  ],
+  "demonym": "Gambian",
+  "flag": "https://restcountries.eu/data/gmb.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    13.46666666,
+    -16.56666666
+  ],
+  "name": "Gambia",
+  "nativeName": "Gambia",
+  "numericCode": "270",
+  "population": 1882450,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Western Africa",
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "topLevelDomain": [
+    ".gm"
+  ],
+  "translations": {
+    "br": "Gâmbia",
+    "de": "Gambia",
+    "es": "Gambia",
+    "fa": "گامبیا",
+    "fr": "Gambie",
+    "hr": "Gambija",
+    "it": "Gambia",
+    "ja": "ガンビア",
+    "nl": "Gambia",
+    "pt": "Gâmbia"
+  }
+}

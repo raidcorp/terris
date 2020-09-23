@@ -1,0 +1,88 @@
+{
+  "alpha2Code": "UG",
+  "alpha3Code": "UGA",
+  "altSpellings": [
+    "UG",
+    "Republic of Uganda",
+    "Jamhuri ya Uganda"
+  ],
+  "area": 241550.0,
+  "borders": [
+    "COD",
+    "KEN",
+    "RWA",
+    "SSD",
+    "TZA"
+  ],
+  "callingCodes": [
+    "256"
+  ],
+  "capital": "Kampala",
+  "cioc": "UGA",
+  "currencies": [
+    {
+      "code": "UGX",
+      "name": "Ugandan shilling",
+      "symbol": "Sh"
+    }
+  ],
+  "demonym": "Ugandan",
+  "flag": "https://restcountries.eu/data/uga.svg",
+  "gini": 44.3,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "sw",
+      "iso639_2": "swa",
+      "name": "Swahili",
+      "nativeName": "Kiswahili"
+    }
+  ],
+  "latlng": [
+    1.0,
+    32.0
+  ],
+  "name": "Uganda",
+  "nativeName": "Uganda",
+  "numericCode": "800",
+  "population": 33860700,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Eastern Africa",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "topLevelDomain": [
+    ".ug"
+  ],
+  "translations": {
+    "br": "Uganda",
+    "de": "Uganda",
+    "es": "Uganda",
+    "fa": "اوگاندا",
+    "fr": "Uganda",
+    "hr": "Uganda",
+    "it": "Uganda",
+    "ja": "ウガンダ",
+    "nl": "Oeganda",
+    "pt": "Uganda"
+  }
+}

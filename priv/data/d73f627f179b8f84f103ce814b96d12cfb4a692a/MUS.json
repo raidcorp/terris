@@ -1,0 +1,76 @@
+{
+  "alpha2Code": "MU",
+  "alpha3Code": "MUS",
+  "altSpellings": [
+    "MU",
+    "Republic of Mauritius",
+    "République de Maurice"
+  ],
+  "area": 2040.0,
+  "borders": [],
+  "callingCodes": [
+    "230"
+  ],
+  "capital": "Port Louis",
+  "cioc": "MRI",
+  "currencies": [
+    {
+      "code": "MUR",
+      "name": "Mauritian rupee",
+      "symbol": "₨"
+    }
+  ],
+  "demonym": "Mauritian",
+  "flag": "https://restcountries.eu/data/mus.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    -20.28333333,
+    57.55
+  ],
+  "name": "Mauritius",
+  "nativeName": "Maurice",
+  "numericCode": "480",
+  "population": 1262879,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Eastern Africa",
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "topLevelDomain": [
+    ".mu"
+  ],
+  "translations": {
+    "br": "Maurício",
+    "de": "Mauritius",
+    "es": "Mauricio",
+    "fa": "موریس",
+    "fr": "Île Maurice",
+    "hr": "Mauricijus",
+    "it": "Mauritius",
+    "ja": "モーリシャス",
+    "nl": "Mauritius",
+    "pt": "Maurícia"
+  }
+}

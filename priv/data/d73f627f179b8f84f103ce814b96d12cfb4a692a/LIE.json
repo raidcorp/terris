@@ -1,0 +1,73 @@
+{
+  "alpha2Code": "LI",
+  "alpha3Code": "LIE",
+  "altSpellings": [
+    "LI",
+    "Principality of Liechtenstein",
+    "Fürstentum Liechtenstein"
+  ],
+  "area": 160.0,
+  "borders": [
+    "AUT",
+    "CHE"
+  ],
+  "callingCodes": [
+    "423"
+  ],
+  "capital": "Vaduz",
+  "cioc": "LIE",
+  "currencies": [
+    {
+      "code": "CHF",
+      "name": "Swiss franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "Liechtensteiner",
+  "flag": "https://restcountries.eu/data/lie.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "de",
+      "iso639_2": "deu",
+      "name": "German",
+      "nativeName": "Deutsch"
+    }
+  ],
+  "latlng": [
+    47.26666666,
+    9.53333333
+  ],
+  "name": "Liechtenstein",
+  "nativeName": "Liechtenstein",
+  "numericCode": "438",
+  "population": 37623,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EFTA",
+      "name": "European Free Trade Association",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Western Europe",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".li"
+  ],
+  "translations": {
+    "br": "Liechtenstein",
+    "de": "Liechtenstein",
+    "es": "Liechtenstein",
+    "fa": "لیختن‌اشتاین",
+    "fr": "Liechtenstein",
+    "hr": "Lihtenštajn",
+    "it": "Liechtenstein",
+    "ja": "リヒテンシュタイン",
+    "nl": "Liechtenstein",
+    "pt": "Listenstaine"
+  }
+}

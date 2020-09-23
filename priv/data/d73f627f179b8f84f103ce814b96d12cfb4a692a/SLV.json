@@ -1,0 +1,77 @@
+{
+  "alpha2Code": "SV",
+  "alpha3Code": "SLV",
+  "altSpellings": [
+    "SV",
+    "Republic of El Salvador",
+    "República de El Salvador"
+  ],
+  "area": 21041.0,
+  "borders": [
+    "GTM",
+    "HND"
+  ],
+  "callingCodes": [
+    "503"
+  ],
+  "capital": "San Salvador",
+  "cioc": "ESA",
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Salvadoran",
+  "flag": "https://restcountries.eu/data/slv.svg",
+  "gini": 48.3,
+  "languages": [
+    {
+      "iso639_1": "es",
+      "iso639_2": "spa",
+      "name": "Spanish",
+      "nativeName": "Español"
+    }
+  ],
+  "latlng": [
+    13.83333333,
+    -88.91666666
+  ],
+  "name": "El Salvador",
+  "nativeName": "El Salvador",
+  "numericCode": "222",
+  "population": 6520675,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "CAIS",
+      "name": "Central American Integration System",
+      "otherAcronyms": [
+        "SICA"
+      ],
+      "otherNames": [
+        "Sistema de la Integración Centroamericana,"
+      ]
+    }
+  ],
+  "subregion": "Central America",
+  "timezones": [
+    "UTC-06:00"
+  ],
+  "topLevelDomain": [
+    ".sv"
+  ],
+  "translations": {
+    "br": "El Salvador",
+    "de": "El Salvador",
+    "es": "El Salvador",
+    "fa": "السالوادور",
+    "fr": "Salvador",
+    "hr": "Salvador",
+    "it": "El Salvador",
+    "ja": "エルサルバドル",
+    "nl": "El Salvador",
+    "pt": "El Salvador"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "alpha2Code": "IS",
+  "alpha3Code": "ISL",
+  "altSpellings": [
+    "IS",
+    "Island",
+    "Republic of Iceland",
+    "Lýðveldið Ísland"
+  ],
+  "area": 1.03e5,
+  "borders": [],
+  "callingCodes": [
+    "354"
+  ],
+  "capital": "Reykjavík",
+  "cioc": "ISL",
+  "currencies": [
+    {
+      "code": "ISK",
+      "name": "Icelandic króna",
+      "symbol": "kr"
+    }
+  ],
+  "demonym": "Icelander",
+  "flag": "https://restcountries.eu/data/isl.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "is",
+      "iso639_2": "isl",
+      "name": "Icelandic",
+      "nativeName": "Íslenska"
+    }
+  ],
+  "latlng": [
+    65.0,
+    -18.0
+  ],
+  "name": "Iceland",
+  "nativeName": "Ísland",
+  "numericCode": "352",
+  "population": 334300,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EFTA",
+      "name": "European Free Trade Association",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Northern Europe",
+  "timezones": [
+    "UTC"
+  ],
+  "topLevelDomain": [
+    ".is"
+  ],
+  "translations": {
+    "br": "Islândia",
+    "de": "Island",
+    "es": "Islandia",
+    "fa": "ایسلند",
+    "fr": "Islande",
+    "hr": "Island",
+    "it": "Islanda",
+    "ja": "アイスランド",
+    "nl": "IJsland",
+    "pt": "Islândia"
+  }
+}

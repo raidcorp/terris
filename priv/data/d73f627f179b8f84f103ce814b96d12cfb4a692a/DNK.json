@@ -1,0 +1,77 @@
+{
+  "alpha2Code": "DK",
+  "alpha3Code": "DNK",
+  "altSpellings": [
+    "DK",
+    "Danmark",
+    "Kingdom of Denmark",
+    "Kongeriget Danmark"
+  ],
+  "area": 43094.0,
+  "borders": [
+    "DEU"
+  ],
+  "callingCodes": [
+    "45"
+  ],
+  "capital": "Copenhagen",
+  "cioc": "DEN",
+  "currencies": [
+    {
+      "code": "DKK",
+      "name": "Danish krone",
+      "symbol": "kr"
+    }
+  ],
+  "demonym": "Danish",
+  "flag": "https://restcountries.eu/data/dnk.svg",
+  "gini": 24.0,
+  "languages": [
+    {
+      "iso639_1": "da",
+      "iso639_2": "dan",
+      "name": "Danish",
+      "nativeName": "dansk"
+    }
+  ],
+  "latlng": [
+    56.0,
+    10.0
+  ],
+  "name": "Denmark",
+  "nativeName": "Danmark",
+  "numericCode": "208",
+  "population": 5717014,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Northern Europe",
+  "timezones": [
+    "UTC-04:00",
+    "UTC-03:00",
+    "UTC-01:00",
+    "UTC",
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".dk"
+  ],
+  "translations": {
+    "br": "Dinamarca",
+    "de": "Dänemark",
+    "es": "Dinamarca",
+    "fa": "دانمارک",
+    "fr": "Danemark",
+    "hr": "Danska",
+    "it": "Danimarca",
+    "ja": "デンマーク",
+    "nl": "Denemarken",
+    "pt": "Dinamarca"
+  }
+}

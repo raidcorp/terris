@@ -1,0 +1,90 @@
+{
+  "alpha2Code": "TD",
+  "alpha3Code": "TCD",
+  "altSpellings": [
+    "TD",
+    "Tchad",
+    "Republic of Chad",
+    "République du Tchad"
+  ],
+  "area": 1.284e6,
+  "borders": [
+    "CMR",
+    "CAF",
+    "LBY",
+    "NER",
+    "NGA",
+    "SSD"
+  ],
+  "callingCodes": [
+    "235"
+  ],
+  "capital": "N'Djamena",
+  "cioc": "CHA",
+  "currencies": [
+    {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "Chadian",
+  "flag": "https://restcountries.eu/data/tcd.svg",
+  "gini": 39.8,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    },
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    }
+  ],
+  "latlng": [
+    15.0,
+    19.0
+  ],
+  "name": "Chad",
+  "nativeName": "Tchad",
+  "numericCode": "148",
+  "population": 14497000,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Middle Africa",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".td"
+  ],
+  "translations": {
+    "br": "Chade",
+    "de": "Tschad",
+    "es": "Chad",
+    "fa": "چاد",
+    "fr": "Tchad",
+    "hr": "Čad",
+    "it": "Ciad",
+    "ja": "チャド",
+    "nl": "Tsjaad",
+    "pt": "Chade"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "alpha2Code": "BI",
+  "alpha3Code": "BDI",
+  "altSpellings": [
+    "BI",
+    "Republic of Burundi",
+    "Republika y'Uburundi",
+    "République du Burundi"
+  ],
+  "area": 27834.0,
+  "borders": [
+    "COD",
+    "RWA",
+    "TZA"
+  ],
+  "callingCodes": [
+    "257"
+  ],
+  "capital": "Bujumbura",
+  "cioc": "BDI",
+  "currencies": [
+    {
+      "code": "BIF",
+      "name": "Burundian franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "Burundian",
+  "flag": "https://restcountries.eu/data/bdi.svg",
+  "gini": 33.3,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    },
+    {
+      "iso639_1": "rn",
+      "iso639_2": "run",
+      "name": "Kirundi",
+      "nativeName": "Ikirundi"
+    }
+  ],
+  "latlng": [
+    -3.5,
+    30.0
+  ],
+  "name": "Burundi",
+  "nativeName": "Burundi",
+  "numericCode": "108",
+  "population": 10114505,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Eastern Africa",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".bi"
+  ],
+  "translations": {
+    "br": "Burundi",
+    "de": "Burundi",
+    "es": "Burundi",
+    "fa": "بوروندی",
+    "fr": "Burundi",
+    "hr": "Burundi",
+    "it": "Burundi",
+    "ja": "ブルンジ",
+    "nl": "Burundi",
+    "pt": "Burúndi"
+  }
+}

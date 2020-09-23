@@ -1,0 +1,63 @@
+{
+  "alpha2Code": "CC",
+  "alpha3Code": "CCK",
+  "altSpellings": [
+    "CC",
+    "Territory of the Cocos (Keeling) Islands",
+    "Keeling Islands"
+  ],
+  "area": 14.0,
+  "borders": [],
+  "callingCodes": [
+    "61"
+  ],
+  "capital": "West Island",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Cocos Islander",
+  "flag": "https://restcountries.eu/data/cck.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    -12.5,
+    96.83333333
+  ],
+  "name": "Cocos (Keeling) Islands",
+  "nativeName": "Cocos (Keeling) Islands",
+  "numericCode": "166",
+  "population": 550,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Australia and New Zealand",
+  "timezones": [
+    "UTC+06:30"
+  ],
+  "topLevelDomain": [
+    ".cc"
+  ],
+  "translations": {
+    "br": "Ilhas Cocos",
+    "de": "Kokosinseln",
+    "es": "Islas Cocos o Islas Keeling",
+    "fa": "جزایر کوکوس",
+    "fr": "Îles Cocos",
+    "hr": "Kokosovi Otoci",
+    "it": "Isole Cocos e Keeling",
+    "ja": "ココス（キーリング）諸島",
+    "nl": "Cocoseilanden",
+    "pt": "Ilhas dos Cocos"
+  }
+}

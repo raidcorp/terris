@@ -1,0 +1,77 @@
+{
+  "alpha2Code": "KW",
+  "alpha3Code": "KWT",
+  "altSpellings": [
+    "KW",
+    "State of Kuwait",
+    "Dawlat al-Kuwait"
+  ],
+  "area": 17818.0,
+  "borders": [
+    "IRN",
+    "SAU"
+  ],
+  "callingCodes": [
+    "965"
+  ],
+  "capital": "Kuwait City",
+  "cioc": "KUW",
+  "currencies": [
+    {
+      "code": "KWD",
+      "name": "Kuwaiti dinar",
+      "symbol": "د.ك"
+    }
+  ],
+  "demonym": "Kuwaiti",
+  "flag": "https://restcountries.eu/data/kwt.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    }
+  ],
+  "latlng": [
+    29.5,
+    45.75
+  ],
+  "name": "Kuwait",
+  "nativeName": "الكويت",
+  "numericCode": "414",
+  "population": 4183658,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "AL",
+      "name": "Arab League",
+      "otherAcronyms": [],
+      "otherNames": [
+        "جامعة الدول العربية",
+        "Jāmiʻat ad-Duwal al-ʻArabīyah",
+        "League of Arab States"
+      ]
+    }
+  ],
+  "subregion": "Western Asia",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "topLevelDomain": [
+    ".kw"
+  ],
+  "translations": {
+    "br": "Kuwait",
+    "de": "Kuwait",
+    "es": "Kuwait",
+    "fa": "کویت",
+    "fr": "Koweït",
+    "hr": "Kuvajt",
+    "it": "Kuwait",
+    "ja": "クウェート",
+    "nl": "Koeweit",
+    "pt": "Kuwait"
+  }
+}

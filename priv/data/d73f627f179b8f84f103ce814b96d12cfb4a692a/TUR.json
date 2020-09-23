@@ -1,0 +1,73 @@
+{
+  "alpha2Code": "TR",
+  "alpha3Code": "TUR",
+  "altSpellings": [
+    "TR",
+    "Turkiye",
+    "Republic of Turkey",
+    "Türkiye Cumhuriyeti"
+  ],
+  "area": 783562.0,
+  "borders": [
+    "ARM",
+    "AZE",
+    "BGR",
+    "GEO",
+    "GRC",
+    "IRN",
+    "IRQ",
+    "SYR"
+  ],
+  "callingCodes": [
+    "90"
+  ],
+  "capital": "Ankara",
+  "cioc": "TUR",
+  "currencies": [
+    {
+      "code": "TRY",
+      "name": "Turkish lira",
+      "symbol": null
+    }
+  ],
+  "demonym": "Turkish",
+  "flag": "https://restcountries.eu/data/tur.svg",
+  "gini": 39.0,
+  "languages": [
+    {
+      "iso639_1": "tr",
+      "iso639_2": "tur",
+      "name": "Turkish",
+      "nativeName": "Türkçe"
+    }
+  ],
+  "latlng": [
+    39.0,
+    35.0
+  ],
+  "name": "Turkey",
+  "nativeName": "Türkiye",
+  "numericCode": "792",
+  "population": 78741053,
+  "region": "Asia",
+  "regionalBlocs": [],
+  "subregion": "Western Asia",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "topLevelDomain": [
+    ".tr"
+  ],
+  "translations": {
+    "br": "Turquia",
+    "de": "Türkei",
+    "es": "Turquía",
+    "fa": "ترکیه",
+    "fr": "Turquie",
+    "hr": "Turska",
+    "it": "Turchia",
+    "ja": "トルコ",
+    "nl": "Turkije",
+    "pt": "Turquia"
+  }
+}

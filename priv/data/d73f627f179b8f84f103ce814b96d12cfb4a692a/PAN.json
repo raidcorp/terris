@@ -1,0 +1,82 @@
+{
+  "alpha2Code": "PA",
+  "alpha3Code": "PAN",
+  "altSpellings": [
+    "PA",
+    "Republic of Panama",
+    "República de Panamá"
+  ],
+  "area": 75417.0,
+  "borders": [
+    "COL",
+    "CRI"
+  ],
+  "callingCodes": [
+    "507"
+  ],
+  "capital": "Panama City",
+  "cioc": "PAN",
+  "currencies": [
+    {
+      "code": "PAB",
+      "name": "Panamanian balboa",
+      "symbol": "B/."
+    },
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Panamanian",
+  "flag": "https://restcountries.eu/data/pan.svg",
+  "gini": 51.9,
+  "languages": [
+    {
+      "iso639_1": "es",
+      "iso639_2": "spa",
+      "name": "Spanish",
+      "nativeName": "Español"
+    }
+  ],
+  "latlng": [
+    9.0,
+    -80.0
+  ],
+  "name": "Panama",
+  "nativeName": "Panamá",
+  "numericCode": "591",
+  "population": 3814672,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "CAIS",
+      "name": "Central American Integration System",
+      "otherAcronyms": [
+        "SICA"
+      ],
+      "otherNames": [
+        "Sistema de la Integración Centroamericana,"
+      ]
+    }
+  ],
+  "subregion": "Central America",
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "topLevelDomain": [
+    ".pa"
+  ],
+  "translations": {
+    "br": "Panamá",
+    "de": "Panama",
+    "es": "Panamá",
+    "fa": "پاناما",
+    "fr": "Panama",
+    "hr": "Panama",
+    "it": "Panama",
+    "ja": "パナマ",
+    "nl": "Panama",
+    "pt": "Panamá"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "alpha2Code": "QA",
+  "alpha3Code": "QAT",
+  "altSpellings": [
+    "QA",
+    "State of Qatar",
+    "Dawlat Qaṭar"
+  ],
+  "area": 11586.0,
+  "borders": [
+    "SAU"
+  ],
+  "callingCodes": [
+    "974"
+  ],
+  "capital": "Doha",
+  "cioc": "QAT",
+  "currencies": [
+    {
+      "code": "QAR",
+      "name": "Qatari riyal",
+      "symbol": "ر.ق"
+    }
+  ],
+  "demonym": "Qatari",
+  "flag": "https://restcountries.eu/data/qat.svg",
+  "gini": 41.1,
+  "languages": [
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    }
+  ],
+  "latlng": [
+    25.5,
+    51.25
+  ],
+  "name": "Qatar",
+  "nativeName": "قطر",
+  "numericCode": "634",
+  "population": 2587564,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "AL",
+      "name": "Arab League",
+      "otherAcronyms": [],
+      "otherNames": [
+        "جامعة الدول العربية",
+        "Jāmiʻat ad-Duwal al-ʻArabīyah",
+        "League of Arab States"
+      ]
+    }
+  ],
+  "subregion": "Western Asia",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "topLevelDomain": [
+    ".qa"
+  ],
+  "translations": {
+    "br": "Catar",
+    "de": "Katar",
+    "es": "Catar",
+    "fa": "قطر",
+    "fr": "Qatar",
+    "hr": "Katar",
+    "it": "Qatar",
+    "ja": "カタール",
+    "nl": "Qatar",
+    "pt": "Catar"
+  }
+}

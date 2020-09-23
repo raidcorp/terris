@@ -1,0 +1,82 @@
+{
+  "alpha2Code": "FI",
+  "alpha3Code": "FIN",
+  "altSpellings": [
+    "FI",
+    "Suomi",
+    "Republic of Finland",
+    "Suomen tasavalta",
+    "Republiken Finland"
+  ],
+  "area": 338424.0,
+  "borders": [
+    "NOR",
+    "SWE",
+    "RUS"
+  ],
+  "callingCodes": [
+    "358"
+  ],
+  "capital": "Helsinki",
+  "cioc": "FIN",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "Finnish",
+  "flag": "https://restcountries.eu/data/fin.svg",
+  "gini": 26.9,
+  "languages": [
+    {
+      "iso639_1": "fi",
+      "iso639_2": "fin",
+      "name": "Finnish",
+      "nativeName": "suomi"
+    },
+    {
+      "iso639_1": "sv",
+      "iso639_2": "swe",
+      "name": "Swedish",
+      "nativeName": "svenska"
+    }
+  ],
+  "latlng": [
+    64.0,
+    26.0
+  ],
+  "name": "Finland",
+  "nativeName": "Suomi",
+  "numericCode": "246",
+  "population": 5491817,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Northern Europe",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".fi"
+  ],
+  "translations": {
+    "br": "Finlândia",
+    "de": "Finnland",
+    "es": "Finlandia",
+    "fa": "فنلاند",
+    "fr": "Finlande",
+    "hr": "Finska",
+    "it": "Finlandia",
+    "ja": "フィンランド",
+    "nl": "Finland",
+    "pt": "Finlândia"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "alpha2Code": "AF",
+  "alpha3Code": "AFG",
+  "altSpellings": [
+    "AF",
+    "Afġānistān"
+  ],
+  "area": 652230.0,
+  "borders": [
+    "IRN",
+    "PAK",
+    "TKM",
+    "UZB",
+    "TJK",
+    "CHN"
+  ],
+  "callingCodes": [
+    "93"
+  ],
+  "capital": "Kabul",
+  "cioc": "AFG",
+  "currencies": [
+    {
+      "code": "AFN",
+      "name": "Afghan afghani",
+      "symbol": "؋"
+    }
+  ],
+  "demonym": "Afghan",
+  "flag": "https://restcountries.eu/data/afg.svg",
+  "gini": 27.8,
+  "languages": [
+    {
+      "iso639_1": "ps",
+      "iso639_2": "pus",
+      "name": "Pashto",
+      "nativeName": "پښتو"
+    },
+    {
+      "iso639_1": "uz",
+      "iso639_2": "uzb",
+      "name": "Uzbek",
+      "nativeName": "Oʻzbek"
+    },
+    {
+      "iso639_1": "tk",
+      "iso639_2": "tuk",
+      "name": "Turkmen",
+      "nativeName": "Türkmen"
+    }
+  ],
+  "latlng": [
+    33.0,
+    65.0
+  ],
+  "name": "Afghanistan",
+  "nativeName": "افغانستان",
+  "numericCode": "004",
+  "population": 27657145,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "SAARC",
+      "name": "South Asian Association for Regional Cooperation",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Southern Asia",
+  "timezones": [
+    "UTC+04:30"
+  ],
+  "topLevelDomain": [
+    ".af"
+  ],
+  "translations": {
+    "br": "Afeganistão",
+    "de": "Afghanistan",
+    "es": "Afganistán",
+    "fa": "افغانستان",
+    "fr": "Afghanistan",
+    "hr": "Afganistan",
+    "it": "Afghanistan",
+    "ja": "アフガニスタン",
+    "nl": "Afghanistan",
+    "pt": "Afeganistão"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "alpha2Code": "ER",
+  "alpha3Code": "ERI",
+  "altSpellings": [
+    "ER",
+    "State of Eritrea",
+    "ሃገረ ኤርትራ",
+    "Dawlat Iritriyá",
+    "ʾErtrā",
+    "Iritriyā",
+    ""
+  ],
+  "area": 1.176e5,
+  "borders": [
+    "DJI",
+    "ETH",
+    "SDN"
+  ],
+  "callingCodes": [
+    "291"
+  ],
+  "capital": "Asmara",
+  "cioc": "ERI",
+  "currencies": [
+    {
+      "code": "ERN",
+      "name": "Eritrean nakfa",
+      "symbol": "Nfk"
+    }
+  ],
+  "demonym": "Eritrean",
+  "flag": "https://restcountries.eu/data/eri.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "ti",
+      "iso639_2": "tir",
+      "name": "Tigrinya",
+      "nativeName": "ትግርኛ"
+    },
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    },
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    15.0,
+    39.0
+  ],
+  "name": "Eritrea",
+  "nativeName": "ኤርትራ",
+  "numericCode": "232",
+  "population": 5352000,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Eastern Africa",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "topLevelDomain": [
+    ".er"
+  ],
+  "translations": {
+    "br": "Eritreia",
+    "de": "Eritrea",
+    "es": "Eritrea",
+    "fa": "اریتره",
+    "fr": "Érythrée",
+    "hr": "Eritreja",
+    "it": "Eritrea",
+    "ja": "エリトリア",
+    "nl": "Eritrea",
+    "pt": "Eritreia"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "alpha2Code": "AM",
+  "alpha3Code": "ARM",
+  "altSpellings": [
+    "AM",
+    "Hayastan",
+    "Republic of Armenia",
+    "Հայաստանի Հանրապետություն"
+  ],
+  "area": 29743.0,
+  "borders": [
+    "AZE",
+    "GEO",
+    "IRN",
+    "TUR"
+  ],
+  "callingCodes": [
+    "374"
+  ],
+  "capital": "Yerevan",
+  "cioc": "ARM",
+  "currencies": [
+    {
+      "code": "AMD",
+      "name": "Armenian dram",
+      "symbol": null
+    }
+  ],
+  "demonym": "Armenian",
+  "flag": "https://restcountries.eu/data/arm.svg",
+  "gini": 30.9,
+  "languages": [
+    {
+      "iso639_1": "hy",
+      "iso639_2": "hye",
+      "name": "Armenian",
+      "nativeName": "Հայերեն"
+    },
+    {
+      "iso639_1": "ru",
+      "iso639_2": "rus",
+      "name": "Russian",
+      "nativeName": "Русский"
+    }
+  ],
+  "latlng": [
+    40.0,
+    45.0
+  ],
+  "name": "Armenia",
+  "nativeName": "Հայաստան",
+  "numericCode": "051",
+  "population": 2994400,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "EEU",
+      "name": "Eurasian Economic Union",
+      "otherAcronyms": [
+        "EAEU"
+      ],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Western Asia",
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "topLevelDomain": [
+    ".am"
+  ],
+  "translations": {
+    "br": "Armênia",
+    "de": "Armenien",
+    "es": "Armenia",
+    "fa": "ارمنستان",
+    "fr": "Arménie",
+    "hr": "Armenija",
+    "it": "Armenia",
+    "ja": "アルメニア",
+    "nl": "Armenië",
+    "pt": "Arménia"
+  }
+}

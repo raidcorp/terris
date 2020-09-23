@@ -1,0 +1,91 @@
+{
+  "alpha2Code": "MR",
+  "alpha3Code": "MRT",
+  "altSpellings": [
+    "MR",
+    "Islamic Republic of Mauritania",
+    "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"
+  ],
+  "area": 1.0307e6,
+  "borders": [
+    "DZA",
+    "MLI",
+    "SEN",
+    "ESH"
+  ],
+  "callingCodes": [
+    "222"
+  ],
+  "capital": "Nouakchott",
+  "cioc": "MTN",
+  "currencies": [
+    {
+      "code": "MRO",
+      "name": "Mauritanian ouguiya",
+      "symbol": "UM"
+    }
+  ],
+  "demonym": "Mauritanian",
+  "flag": "https://restcountries.eu/data/mrt.svg",
+  "gini": 40.5,
+  "languages": [
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    }
+  ],
+  "latlng": [
+    20.0,
+    -12.0
+  ],
+  "name": "Mauritania",
+  "nativeName": "موريتانيا",
+  "numericCode": "478",
+  "population": 3718678,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    },
+    {
+      "acronym": "AL",
+      "name": "Arab League",
+      "otherAcronyms": [],
+      "otherNames": [
+        "جامعة الدول العربية",
+        "Jāmiʻat ad-Duwal al-ʻArabīyah",
+        "League of Arab States"
+      ]
+    }
+  ],
+  "subregion": "Western Africa",
+  "timezones": [
+    "UTC"
+  ],
+  "topLevelDomain": [
+    ".mr"
+  ],
+  "translations": {
+    "br": "Mauritânia",
+    "de": "Mauretanien",
+    "es": "Mauritania",
+    "fa": "موریتانی",
+    "fr": "Mauritanie",
+    "hr": "Mauritanija",
+    "it": "Mauritania",
+    "ja": "モーリタニア",
+    "nl": "Mauritanië",
+    "pt": "Mauritânia"
+  }
+}

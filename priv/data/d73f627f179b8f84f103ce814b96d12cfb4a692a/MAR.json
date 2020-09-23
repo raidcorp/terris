@@ -1,0 +1,90 @@
+{
+  "alpha2Code": "MA",
+  "alpha3Code": "MAR",
+  "altSpellings": [
+    "MA",
+    "Kingdom of Morocco",
+    "Al-Mamlakah al-Maġribiyah"
+  ],
+  "area": 446550.0,
+  "borders": [
+    "DZA",
+    "ESH",
+    "ESP"
+  ],
+  "callingCodes": [
+    "212"
+  ],
+  "capital": "Rabat",
+  "cioc": "MAR",
+  "currencies": [
+    {
+      "code": "MAD",
+      "name": "Moroccan dirham",
+      "symbol": "د.م."
+    }
+  ],
+  "demonym": "Moroccan",
+  "flag": "https://restcountries.eu/data/mar.svg",
+  "gini": 40.9,
+  "languages": [
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    }
+  ],
+  "latlng": [
+    32.0,
+    -5.0
+  ],
+  "name": "Morocco",
+  "nativeName": "المغرب",
+  "numericCode": "504",
+  "population": 33337529,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    },
+    {
+      "acronym": "AL",
+      "name": "Arab League",
+      "otherAcronyms": [],
+      "otherNames": [
+        "جامعة الدول العربية",
+        "Jāmiʻat ad-Duwal al-ʻArabīyah",
+        "League of Arab States"
+      ]
+    }
+  ],
+  "subregion": "Northern Africa",
+  "timezones": [
+    "UTC"
+  ],
+  "topLevelDomain": [
+    ".ma"
+  ],
+  "translations": {
+    "br": "Marrocos",
+    "de": "Marokko",
+    "es": "Marruecos",
+    "fa": "مراکش",
+    "fr": "Maroc",
+    "hr": "Maroko",
+    "it": "Marocco",
+    "ja": "モロッコ",
+    "nl": "Marokko",
+    "pt": "Marrocos"
+  }
+}

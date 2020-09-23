@@ -1,0 +1,94 @@
+{
+  "alpha2Code": "RW",
+  "alpha3Code": "RWA",
+  "altSpellings": [
+    "RW",
+    "Republic of Rwanda",
+    "Repubulika y'u Rwanda",
+    "République du Rwanda"
+  ],
+  "area": 26338.0,
+  "borders": [
+    "BDI",
+    "COD",
+    "TZA",
+    "UGA"
+  ],
+  "callingCodes": [
+    "250"
+  ],
+  "capital": "Kigali",
+  "cioc": "RWA",
+  "currencies": [
+    {
+      "code": "RWF",
+      "name": "Rwandan franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "Rwandan",
+  "flag": "https://restcountries.eu/data/rwa.svg",
+  "gini": 50.8,
+  "languages": [
+    {
+      "iso639_1": "rw",
+      "iso639_2": "kin",
+      "name": "Kinyarwanda",
+      "nativeName": "Ikinyarwanda"
+    },
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    -2.0,
+    30.0
+  ],
+  "name": "Rwanda",
+  "nativeName": "Rwanda",
+  "numericCode": "646",
+  "population": 11553188,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Eastern Africa",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".rw"
+  ],
+  "translations": {
+    "br": "Ruanda",
+    "de": "Ruanda",
+    "es": "Ruanda",
+    "fa": "رواندا",
+    "fr": "Rwanda",
+    "hr": "Ruanda",
+    "it": "Ruanda",
+    "ja": "ルワンダ",
+    "nl": "Rwanda",
+    "pt": "Ruanda"
+  }
+}

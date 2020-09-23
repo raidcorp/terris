@@ -1,0 +1,74 @@
+{
+  "alpha2Code": "GU",
+  "alpha3Code": "GUM",
+  "altSpellings": [
+    "GU",
+    "Guåhån"
+  ],
+  "area": 549.0,
+  "borders": [],
+  "callingCodes": [
+    "1671"
+  ],
+  "capital": "Hagåtña",
+  "cioc": "GUM",
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Guamanian",
+  "flag": "https://restcountries.eu/data/gum.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "ch",
+      "iso639_2": "cha",
+      "name": "Chamorro",
+      "nativeName": "Chamoru"
+    },
+    {
+      "iso639_1": "es",
+      "iso639_2": "spa",
+      "name": "Spanish",
+      "nativeName": "Español"
+    }
+  ],
+  "latlng": [
+    13.46666666,
+    144.78333333
+  ],
+  "name": "Guam",
+  "nativeName": "Guam",
+  "numericCode": "316",
+  "population": 184200,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Micronesia",
+  "timezones": [
+    "UTC+10:00"
+  ],
+  "topLevelDomain": [
+    ".gu"
+  ],
+  "translations": {
+    "br": "Guam",
+    "de": "Guam",
+    "es": "Guam",
+    "fa": "گوام",
+    "fr": "Guam",
+    "hr": "Guam",
+    "it": "Guam",
+    "ja": "グアム",
+    "nl": "Guam",
+    "pt": "Guame"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "alpha2Code": "FM",
+  "alpha3Code": "FSM",
+  "altSpellings": [
+    "FM",
+    "Federated States of Micronesia"
+  ],
+  "area": 702.0,
+  "borders": [],
+  "callingCodes": [
+    "691"
+  ],
+  "capital": "Palikir",
+  "cioc": "FSM",
+  "currencies": [
+    {
+      "code": null,
+      "name": "[D]",
+      "symbol": "$"
+    },
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Micronesian",
+  "flag": "https://restcountries.eu/data/fsm.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    6.91666666,
+    158.25
+  ],
+  "name": "Micronesia (Federated States of)",
+  "nativeName": "Micronesia",
+  "numericCode": "583",
+  "population": 102800,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Micronesia",
+  "timezones": [
+    "UTC+10:00",
+    "UTC+11"
+  ],
+  "topLevelDomain": [
+    ".fm"
+  ],
+  "translations": {
+    "br": "Micronésia",
+    "de": "Mikronesien",
+    "es": "Micronesia",
+    "fa": "ایالات فدرال میکرونزی",
+    "fr": "Micronésie",
+    "hr": "Mikronezija",
+    "it": "Micronesia",
+    "ja": "ミクロネシア連邦",
+    "nl": "Micronesië",
+    "pt": "Micronésia"
+  }
+}

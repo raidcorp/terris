@@ -1,0 +1,87 @@
+{
+  "alpha2Code": "CY",
+  "alpha3Code": "CYP",
+  "altSpellings": [
+    "CY",
+    "Kýpros",
+    "Kıbrıs",
+    "Republic of Cyprus",
+    "Κυπριακή Δημοκρατία",
+    "Kıbrıs Cumhuriyeti"
+  ],
+  "area": 9251.0,
+  "borders": [
+    "GBR"
+  ],
+  "callingCodes": [
+    "357"
+  ],
+  "capital": "Nicosia",
+  "cioc": "CYP",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "Cypriot",
+  "flag": "https://restcountries.eu/data/cyp.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "el",
+      "iso639_2": "ell",
+      "name": "Greek (modern)",
+      "nativeName": "ελληνικά"
+    },
+    {
+      "iso639_1": "tr",
+      "iso639_2": "tur",
+      "name": "Turkish",
+      "nativeName": "Türkçe"
+    },
+    {
+      "iso639_1": "hy",
+      "iso639_2": "hye",
+      "name": "Armenian",
+      "nativeName": "Հայերեն"
+    }
+  ],
+  "latlng": [
+    35.0,
+    33.0
+  ],
+  "name": "Cyprus",
+  "nativeName": "Κύπρος",
+  "numericCode": "196",
+  "population": 847000,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Southern Europe",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".cy"
+  ],
+  "translations": {
+    "br": "Chipre",
+    "de": "Zypern",
+    "es": "Chipre",
+    "fa": "قبرس",
+    "fr": "Chypre",
+    "hr": "Cipar",
+    "it": "Cipro",
+    "ja": "キプロス",
+    "nl": "Cyprus",
+    "pt": "Chipre"
+  }
+}

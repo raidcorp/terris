@@ -1,0 +1,74 @@
+{
+  "alpha2Code": "TF",
+  "alpha3Code": "ATF",
+  "altSpellings": [
+    "TF"
+  ],
+  "area": 7747.0,
+  "borders": [],
+  "callingCodes": [
+    ""
+  ],
+  "capital": "Port-aux-Français",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "French",
+  "flag": "https://restcountries.eu/data/atf.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    -49.25,
+    69.167
+  ],
+  "name": "French Southern Territories",
+  "nativeName": "Territoire des Terres australes et antarctiques françaises",
+  "numericCode": "260",
+  "population": 140,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Southern Africa",
+  "timezones": [
+    "UTC+05:00"
+  ],
+  "topLevelDomain": [
+    ".tf"
+  ],
+  "translations": {
+    "br": "Terras Austrais e Antárticas Francesas",
+    "de": "Französische Süd- und Antarktisgebiete",
+    "es": "Tierras Australes y Antárticas Francesas",
+    "fa": "سرزمین‌های جنوبی و جنوبگانی فرانسه",
+    "fr": "Terres australes et antarctiques françaises",
+    "hr": "Francuski južni i antarktički teritoriji",
+    "it": "Territori Francesi del Sud",
+    "ja": "フランス領南方・南極地域",
+    "nl": "Franse Gebieden in de zuidelijke Indische Oceaan",
+    "pt": "Terras Austrais e Antárticas Francesas"
+  }
+}

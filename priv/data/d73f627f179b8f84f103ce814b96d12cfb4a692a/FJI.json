@@ -1,0 +1,83 @@
+{
+  "alpha2Code": "FJ",
+  "alpha3Code": "FJI",
+  "altSpellings": [
+    "FJ",
+    "Viti",
+    "Republic of Fiji",
+    "Matanitu ko Viti",
+    "Fijī Gaṇarājya"
+  ],
+  "area": 18272.0,
+  "borders": [],
+  "callingCodes": [
+    "679"
+  ],
+  "capital": "Suva",
+  "cioc": "FIJ",
+  "currencies": [
+    {
+      "code": "FJD",
+      "name": "Fijian dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Fijian",
+  "flag": "https://restcountries.eu/data/fji.svg",
+  "gini": 42.8,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "fj",
+      "iso639_2": "fij",
+      "name": "Fijian",
+      "nativeName": "vosa Vakaviti"
+    },
+    {
+      "iso639_1": "hi",
+      "iso639_2": "hin",
+      "name": "Hindi",
+      "nativeName": "हिन्दी"
+    },
+    {
+      "iso639_1": "ur",
+      "iso639_2": "urd",
+      "name": "Urdu",
+      "nativeName": "اردو"
+    }
+  ],
+  "latlng": [
+    -18.0,
+    175.0
+  ],
+  "name": "Fiji",
+  "nativeName": "Fiji",
+  "numericCode": "242",
+  "population": 867000,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Melanesia",
+  "timezones": [
+    "UTC+12:00"
+  ],
+  "topLevelDomain": [
+    ".fj"
+  ],
+  "translations": {
+    "br": "Fiji",
+    "de": "Fidschi",
+    "es": "Fiyi",
+    "fa": "فیجی",
+    "fr": "Fidji",
+    "hr": "Fiđi",
+    "it": "Figi",
+    "ja": "フィジー",
+    "nl": "Fiji",
+    "pt": "Fiji"
+  }
+}

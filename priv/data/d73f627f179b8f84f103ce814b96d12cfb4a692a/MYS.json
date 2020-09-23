@@ -1,0 +1,72 @@
+{
+  "alpha2Code": "MY",
+  "alpha3Code": "MYS",
+  "altSpellings": [
+    "MY"
+  ],
+  "area": 330803.0,
+  "borders": [
+    "BRN",
+    "IDN",
+    "THA"
+  ],
+  "callingCodes": [
+    "60"
+  ],
+  "capital": "Kuala Lumpur",
+  "cioc": "MAS",
+  "currencies": [
+    {
+      "code": "MYR",
+      "name": "Malaysian ringgit",
+      "symbol": "RM"
+    }
+  ],
+  "demonym": "Malaysian",
+  "flag": "https://restcountries.eu/data/mys.svg",
+  "gini": 46.2,
+  "languages": [
+    {
+      "iso639_1": null,
+      "iso639_2": "zsm",
+      "name": "Malaysian",
+      "nativeName": "بهاس مليسيا"
+    }
+  ],
+  "latlng": [
+    2.5,
+    112.5
+  ],
+  "name": "Malaysia",
+  "nativeName": "Malaysia",
+  "numericCode": "458",
+  "population": 31405416,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "ASEAN",
+      "name": "Association of Southeast Asian Nations",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "South-Eastern Asia",
+  "timezones": [
+    "UTC+08:00"
+  ],
+  "topLevelDomain": [
+    ".my"
+  ],
+  "translations": {
+    "br": "Malásia",
+    "de": "Malaysia",
+    "es": "Malasia",
+    "fa": "مالزی",
+    "fr": "Malaisie",
+    "hr": "Malezija",
+    "it": "Malesia",
+    "ja": "マレーシア",
+    "nl": "Maleisië",
+    "pt": "Malásia"
+  }
+}

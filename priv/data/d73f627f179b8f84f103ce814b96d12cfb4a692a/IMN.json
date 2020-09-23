@@ -1,0 +1,82 @@
+{
+  "alpha2Code": "IM",
+  "alpha3Code": "IMN",
+  "altSpellings": [
+    "IM",
+    "Ellan Vannin",
+    "Mann",
+    "Mannin"
+  ],
+  "area": 572.0,
+  "borders": [],
+  "callingCodes": [
+    "44"
+  ],
+  "capital": "Douglas",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "£"
+    },
+    {
+      "code": "IMP[G]",
+      "name": "Manx pound",
+      "symbol": "£"
+    }
+  ],
+  "demonym": "Manx",
+  "flag": "https://restcountries.eu/data/imn.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "gv",
+      "iso639_2": "glv",
+      "name": "Manx",
+      "nativeName": "Gaelg"
+    }
+  ],
+  "latlng": [
+    54.25,
+    -4.5
+  ],
+  "name": "Isle of Man",
+  "nativeName": "Isle of Man",
+  "numericCode": "833",
+  "population": 84497,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Northern Europe",
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "topLevelDomain": [
+    ".im"
+  ],
+  "translations": {
+    "br": "Ilha de Man",
+    "de": "Insel Man",
+    "es": "Isla de Man",
+    "fa": "جزیره من",
+    "fr": "Île de Man",
+    "hr": "Otok Man",
+    "it": "Isola di Man",
+    "ja": "マン島",
+    "nl": "Isle of Man",
+    "pt": "Ilha de Man"
+  }
+}

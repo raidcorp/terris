@@ -1,0 +1,73 @@
+{
+  "alpha2Code": "NP",
+  "alpha3Code": "NPL",
+  "altSpellings": [
+    "NP",
+    "Federal Democratic Republic of Nepal",
+    "Loktāntrik Ganatantra Nepāl"
+  ],
+  "area": 147181.0,
+  "borders": [
+    "CHN",
+    "IND"
+  ],
+  "callingCodes": [
+    "977"
+  ],
+  "capital": "Kathmandu",
+  "cioc": "NEP",
+  "currencies": [
+    {
+      "code": "NPR",
+      "name": "Nepalese rupee",
+      "symbol": "₨"
+    }
+  ],
+  "demonym": "Nepalese",
+  "flag": "https://restcountries.eu/data/npl.svg",
+  "gini": 32.8,
+  "languages": [
+    {
+      "iso639_1": "ne",
+      "iso639_2": "nep",
+      "name": "Nepali",
+      "nativeName": "नेपाली"
+    }
+  ],
+  "latlng": [
+    28.0,
+    84.0
+  ],
+  "name": "Nepal",
+  "nativeName": "नेपाल",
+  "numericCode": "524",
+  "population": 28431500,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "SAARC",
+      "name": "South Asian Association for Regional Cooperation",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Southern Asia",
+  "timezones": [
+    "UTC+05:45"
+  ],
+  "topLevelDomain": [
+    ".np"
+  ],
+  "translations": {
+    "br": "Nepal",
+    "de": "Népal",
+    "es": "Nepal",
+    "fa": "نپال",
+    "fr": "Népal",
+    "hr": "Nepal",
+    "it": "Nepal",
+    "ja": "ネパール",
+    "nl": "Nepal",
+    "pt": "Nepal"
+  }
+}

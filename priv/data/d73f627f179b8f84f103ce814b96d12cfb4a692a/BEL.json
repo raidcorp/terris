@@ -1,0 +1,93 @@
+{
+  "alpha2Code": "BE",
+  "alpha3Code": "BEL",
+  "altSpellings": [
+    "BE",
+    "België",
+    "Belgie",
+    "Belgien",
+    "Belgique",
+    "Kingdom of Belgium",
+    "Koninkrijk België",
+    "Royaume de Belgique",
+    "Königreich Belgien"
+  ],
+  "area": 30528.0,
+  "borders": [
+    "FRA",
+    "DEU",
+    "LUX",
+    "NLD"
+  ],
+  "callingCodes": [
+    "32"
+  ],
+  "capital": "Brussels",
+  "cioc": "BEL",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "Belgian",
+  "flag": "https://restcountries.eu/data/bel.svg",
+  "gini": 33.0,
+  "languages": [
+    {
+      "iso639_1": "nl",
+      "iso639_2": "nld",
+      "name": "Dutch",
+      "nativeName": "Nederlands"
+    },
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    },
+    {
+      "iso639_1": "de",
+      "iso639_2": "deu",
+      "name": "German",
+      "nativeName": "Deutsch"
+    }
+  ],
+  "latlng": [
+    50.83333333,
+    4.0
+  ],
+  "name": "Belgium",
+  "nativeName": "België",
+  "numericCode": "056",
+  "population": 11319511,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Western Europe",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".be"
+  ],
+  "translations": {
+    "br": "Bélgica",
+    "de": "Belgien",
+    "es": "Bélgica",
+    "fa": "بلژیک",
+    "fr": "Belgique",
+    "hr": "Belgija",
+    "it": "Belgio",
+    "ja": "ベルギー",
+    "nl": "België",
+    "pt": "Bélgica"
+  }
+}

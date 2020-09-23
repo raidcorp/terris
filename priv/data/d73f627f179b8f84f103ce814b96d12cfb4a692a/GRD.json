@@ -1,0 +1,72 @@
+{
+  "alpha2Code": "GD",
+  "alpha3Code": "GRD",
+  "altSpellings": [
+    "GD"
+  ],
+  "area": 344.0,
+  "borders": [],
+  "callingCodes": [
+    "1473"
+  ],
+  "capital": "St. George's",
+  "cioc": "GRN",
+  "currencies": [
+    {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Grenadian",
+  "flag": "https://restcountries.eu/data/grd.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    12.11666666,
+    -61.66666666
+  ],
+  "name": "Grenada",
+  "nativeName": "Grenada",
+  "numericCode": "308",
+  "population": 103328,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "CARICOM",
+      "name": "Caribbean Community",
+      "otherAcronyms": [],
+      "otherNames": [
+        "Comunidad del Caribe",
+        "Communauté Caribéenne",
+        "Caribische Gemeenschap"
+      ]
+    }
+  ],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".gd"
+  ],
+  "translations": {
+    "br": "Granada",
+    "de": "Grenada",
+    "es": "Grenada",
+    "fa": "گرنادا",
+    "fr": "Grenade",
+    "hr": "Grenada",
+    "it": "Grenada",
+    "ja": "グレナダ",
+    "nl": "Grenada",
+    "pt": "Granada"
+  }
+}

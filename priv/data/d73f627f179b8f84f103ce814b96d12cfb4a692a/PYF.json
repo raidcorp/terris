@@ -1,0 +1,66 @@
+{
+  "alpha2Code": "PF",
+  "alpha3Code": "PYF",
+  "altSpellings": [
+    "PF",
+    "Polynésie française",
+    "French Polynesia",
+    "Pōrīnetia Farāni"
+  ],
+  "area": 4167.0,
+  "borders": [],
+  "callingCodes": [
+    "689"
+  ],
+  "capital": "Papeetē",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "XPF",
+      "name": "CFP franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "French Polynesian",
+  "flag": "https://restcountries.eu/data/pyf.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    -15.0,
+    -140.0
+  ],
+  "name": "French Polynesia",
+  "nativeName": "Polynésie française",
+  "numericCode": "258",
+  "population": 271800,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Polynesia",
+  "timezones": [
+    "UTC-10:00",
+    "UTC-09:30",
+    "UTC-09:00"
+  ],
+  "topLevelDomain": [
+    ".pf"
+  ],
+  "translations": {
+    "br": "Polinésia Francesa",
+    "de": "Französisch-Polynesien",
+    "es": "Polinesia Francesa",
+    "fa": "پلی‌نزی فرانسه",
+    "fr": "Polynésie française",
+    "hr": "Francuska Polinezija",
+    "it": "Polinesia Francese",
+    "ja": "フランス領ポリネシア",
+    "nl": "Frans-Polynesië",
+    "pt": "Polinésia Francesa"
+  }
+}

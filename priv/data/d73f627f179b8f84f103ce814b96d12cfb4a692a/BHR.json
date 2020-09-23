@@ -1,0 +1,74 @@
+{
+  "alpha2Code": "BH",
+  "alpha3Code": "BHR",
+  "altSpellings": [
+    "BH",
+    "Kingdom of Bahrain",
+    "Mamlakat al-Baḥrayn"
+  ],
+  "area": 765.0,
+  "borders": [],
+  "callingCodes": [
+    "973"
+  ],
+  "capital": "Manama",
+  "cioc": "BRN",
+  "currencies": [
+    {
+      "code": "BHD",
+      "name": "Bahraini dinar",
+      "symbol": ".د.ب"
+    }
+  ],
+  "demonym": "Bahraini",
+  "flag": "https://restcountries.eu/data/bhr.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    }
+  ],
+  "latlng": [
+    26.0,
+    50.55
+  ],
+  "name": "Bahrain",
+  "nativeName": "‏البحرين",
+  "numericCode": "048",
+  "population": 1404900,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "AL",
+      "name": "Arab League",
+      "otherAcronyms": [],
+      "otherNames": [
+        "جامعة الدول العربية",
+        "Jāmiʻat ad-Duwal al-ʻArabīyah",
+        "League of Arab States"
+      ]
+    }
+  ],
+  "subregion": "Western Asia",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "topLevelDomain": [
+    ".bh"
+  ],
+  "translations": {
+    "br": "Bahrein",
+    "de": "Bahrain",
+    "es": "Bahrein",
+    "fa": "بحرین",
+    "fr": "Bahreïn",
+    "hr": "Bahrein",
+    "it": "Bahrein",
+    "ja": "バーレーン",
+    "nl": "Bahrein",
+    "pt": "Barém"
+  }
+}

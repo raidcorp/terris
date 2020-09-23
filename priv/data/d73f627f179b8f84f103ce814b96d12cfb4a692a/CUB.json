@@ -1,0 +1,68 @@
+{
+  "alpha2Code": "CU",
+  "alpha3Code": "CUB",
+  "altSpellings": [
+    "CU",
+    "Republic of Cuba",
+    "República de Cuba"
+  ],
+  "area": 109884.0,
+  "borders": [],
+  "callingCodes": [
+    "53"
+  ],
+  "capital": "Havana",
+  "cioc": "CUB",
+  "currencies": [
+    {
+      "code": "CUC",
+      "name": "Cuban convertible peso",
+      "symbol": "$"
+    },
+    {
+      "code": "CUP",
+      "name": "Cuban peso",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Cuban",
+  "flag": "https://restcountries.eu/data/cub.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "es",
+      "iso639_2": "spa",
+      "name": "Spanish",
+      "nativeName": "Español"
+    }
+  ],
+  "latlng": [
+    21.5,
+    -80.0
+  ],
+  "name": "Cuba",
+  "nativeName": "Cuba",
+  "numericCode": "192",
+  "population": 11239004,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "topLevelDomain": [
+    ".cu"
+  ],
+  "translations": {
+    "br": "Cuba",
+    "de": "Kuba",
+    "es": "Cuba",
+    "fa": "کوبا",
+    "fr": "Cuba",
+    "hr": "Kuba",
+    "it": "Cuba",
+    "ja": "キューバ",
+    "nl": "Cuba",
+    "pt": "Cuba"
+  }
+}

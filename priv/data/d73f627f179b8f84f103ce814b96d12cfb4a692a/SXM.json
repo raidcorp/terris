@@ -1,0 +1,69 @@
+{
+  "alpha2Code": "SX",
+  "alpha3Code": "SXM",
+  "altSpellings": [
+    "SX"
+  ],
+  "area": 34.0,
+  "borders": [
+    "MAF"
+  ],
+  "callingCodes": [
+    "1721"
+  ],
+  "capital": "Philipsburg",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "ANG",
+      "name": "Netherlands Antillean guilder",
+      "symbol": "ƒ"
+    }
+  ],
+  "demonym": "Dutch",
+  "flag": "https://restcountries.eu/data/sxm.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "nl",
+      "iso639_2": "nld",
+      "name": "Dutch",
+      "nativeName": "Nederlands"
+    },
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    18.033333,
+    -63.05
+  ],
+  "name": "Sint Maarten (Dutch part)",
+  "nativeName": "Sint Maarten",
+  "numericCode": "534",
+  "population": 38247,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".sx"
+  ],
+  "translations": {
+    "br": "Sint Maarten",
+    "de": "Sint Maarten (niederl. Teil)",
+    "es": null,
+    "fa": "سینت مارتن",
+    "fr": "Saint Martin (partie néerlandaise)",
+    "hr": null,
+    "it": "Saint Martin (parte olandese)",
+    "ja": null,
+    "nl": "Sint Maarten",
+    "pt": "São Martinho"
+  }
+}

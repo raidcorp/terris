@@ -1,0 +1,69 @@
+{
+  "alpha2Code": "MH",
+  "alpha3Code": "MHL",
+  "altSpellings": [
+    "MH",
+    "Republic of the Marshall Islands",
+    "Aolepān Aorōkin M̧ajeļ"
+  ],
+  "area": 181.0,
+  "borders": [],
+  "callingCodes": [
+    "692"
+  ],
+  "capital": "Majuro",
+  "cioc": "MHL",
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Marshallese",
+  "flag": "https://restcountries.eu/data/mhl.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "mh",
+      "iso639_2": "mah",
+      "name": "Marshallese",
+      "nativeName": "Kajin M̧ajeļ"
+    }
+  ],
+  "latlng": [
+    9.0,
+    168.0
+  ],
+  "name": "Marshall Islands",
+  "nativeName": "M̧ajeļ",
+  "numericCode": "584",
+  "population": 54880,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Micronesia",
+  "timezones": [
+    "UTC+12:00"
+  ],
+  "topLevelDomain": [
+    ".mh"
+  ],
+  "translations": {
+    "br": "Ilhas Marshall",
+    "de": "Marshallinseln",
+    "es": "Islas Marshall",
+    "fa": "جزایر مارشال",
+    "fr": "Îles Marshall",
+    "hr": "Maršalovi Otoci",
+    "it": "Isole Marshall",
+    "ja": "マーシャル諸島",
+    "nl": "Marshalleilanden",
+    "pt": "Ilhas Marshall"
+  }
+}

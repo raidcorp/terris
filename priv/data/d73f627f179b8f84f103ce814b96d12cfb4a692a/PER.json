@@ -1,0 +1,93 @@
+{
+  "alpha2Code": "PE",
+  "alpha3Code": "PER",
+  "altSpellings": [
+    "PE",
+    "Republic of Peru",
+    " República del Perú"
+  ],
+  "area": 1285216.0,
+  "borders": [
+    "BOL",
+    "BRA",
+    "CHL",
+    "COL",
+    "ECU"
+  ],
+  "callingCodes": [
+    "51"
+  ],
+  "capital": "Lima",
+  "cioc": "PER",
+  "currencies": [
+    {
+      "code": "PEN",
+      "name": "Peruvian sol",
+      "symbol": "S/."
+    }
+  ],
+  "demonym": "Peruvian",
+  "flag": "https://restcountries.eu/data/per.svg",
+  "gini": 48.1,
+  "languages": [
+    {
+      "iso639_1": "es",
+      "iso639_2": "spa",
+      "name": "Spanish",
+      "nativeName": "Español"
+    }
+  ],
+  "latlng": [
+    -10.0,
+    -76.0
+  ],
+  "name": "Peru",
+  "nativeName": "Perú",
+  "numericCode": "604",
+  "population": 31488700,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "PA",
+      "name": "Pacific Alliance",
+      "otherAcronyms": [],
+      "otherNames": [
+        "Alianza del Pacífico"
+      ]
+    },
+    {
+      "acronym": "USAN",
+      "name": "Union of South American Nations",
+      "otherAcronyms": [
+        "UNASUR",
+        "UNASUL",
+        "UZAN"
+      ],
+      "otherNames": [
+        "Unión de Naciones Suramericanas",
+        "União de Nações Sul-Americanas",
+        "Unie van Zuid-Amerikaanse Naties",
+        "South American Union"
+      ]
+    }
+  ],
+  "subregion": "South America",
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "topLevelDomain": [
+    ".pe"
+  ],
+  "translations": {
+    "br": "Peru",
+    "de": "Peru",
+    "es": "Perú",
+    "fa": "پرو",
+    "fr": "Pérou",
+    "hr": "Peru",
+    "it": "Perù",
+    "ja": "ペルー",
+    "nl": "Peru",
+    "pt": "Peru"
+  }
+}

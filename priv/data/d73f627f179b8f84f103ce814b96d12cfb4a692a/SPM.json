@@ -1,0 +1,62 @@
+{
+  "alpha2Code": "PM",
+  "alpha3Code": "SPM",
+  "altSpellings": [
+    "PM",
+    "Collectivité territoriale de Saint-Pierre-et-Miquelon"
+  ],
+  "area": 242.0,
+  "borders": [],
+  "callingCodes": [
+    "508"
+  ],
+  "capital": "Saint-Pierre",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "French",
+  "flag": "https://restcountries.eu/data/spm.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    46.83333333,
+    -56.33333333
+  ],
+  "name": "Saint Pierre and Miquelon",
+  "nativeName": "Saint-Pierre-et-Miquelon",
+  "numericCode": "666",
+  "population": 6069,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Northern America",
+  "timezones": [
+    "UTC-03:00"
+  ],
+  "topLevelDomain": [
+    ".pm"
+  ],
+  "translations": {
+    "br": "Saint-Pierre e Miquelon",
+    "de": "Saint-Pierre und Miquelon",
+    "es": "San Pedro y Miquelón",
+    "fa": "سن پیر و میکلن",
+    "fr": "Saint-Pierre-et-Miquelon",
+    "hr": "Sveti Petar i Mikelon",
+    "it": "Saint-Pierre e Miquelon",
+    "ja": "サンピエール島・ミクロン島",
+    "nl": "Saint Pierre en Miquelon",
+    "pt": "São Pedro e Miquelon"
+  }
+}

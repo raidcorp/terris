@@ -1,0 +1,73 @@
+{
+  "alpha2Code": "SE",
+  "alpha3Code": "SWE",
+  "altSpellings": [
+    "SE",
+    "Kingdom of Sweden",
+    "Konungariket Sverige"
+  ],
+  "area": 450295.0,
+  "borders": [
+    "FIN",
+    "NOR"
+  ],
+  "callingCodes": [
+    "46"
+  ],
+  "capital": "Stockholm",
+  "cioc": "SWE",
+  "currencies": [
+    {
+      "code": "SEK",
+      "name": "Swedish krona",
+      "symbol": "kr"
+    }
+  ],
+  "demonym": "Swedish",
+  "flag": "https://restcountries.eu/data/swe.svg",
+  "gini": 25.0,
+  "languages": [
+    {
+      "iso639_1": "sv",
+      "iso639_2": "swe",
+      "name": "Swedish",
+      "nativeName": "svenska"
+    }
+  ],
+  "latlng": [
+    62.0,
+    15.0
+  ],
+  "name": "Sweden",
+  "nativeName": "Sverige",
+  "numericCode": "752",
+  "population": 9894888,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Northern Europe",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".se"
+  ],
+  "translations": {
+    "br": "Suécia",
+    "de": "Schweden",
+    "es": "Suecia",
+    "fa": "سوئد",
+    "fr": "Suède",
+    "hr": "Švedska",
+    "it": "Svezia",
+    "ja": "スウェーデン",
+    "nl": "Zweden",
+    "pt": "Suécia"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "alpha2Code": "CD",
+  "alpha3Code": "COD",
+  "altSpellings": [
+    "CD",
+    "DR Congo",
+    "Congo-Kinshasa",
+    "DRC"
+  ],
+  "area": 2344858.0,
+  "borders": [
+    "AGO",
+    "BDI",
+    "CAF",
+    "COG",
+    "RWA",
+    "SSD",
+    "TZA",
+    "UGA",
+    "ZMB"
+  ],
+  "callingCodes": [
+    "243"
+  ],
+  "capital": "Kinshasa",
+  "cioc": "COD",
+  "currencies": [
+    {
+      "code": "CDF",
+      "name": "Congolese franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "Congolese",
+  "flag": "https://restcountries.eu/data/cod.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    },
+    {
+      "iso639_1": "ln",
+      "iso639_2": "lin",
+      "name": "Lingala",
+      "nativeName": "Lingála"
+    },
+    {
+      "iso639_1": "kg",
+      "iso639_2": "kon",
+      "name": "Kongo",
+      "nativeName": "Kikongo"
+    },
+    {
+      "iso639_1": "sw",
+      "iso639_2": "swa",
+      "name": "Swahili",
+      "nativeName": "Kiswahili"
+    },
+    {
+      "iso639_1": "lu",
+      "iso639_2": "lub",
+      "name": "Luba-Katanga",
+      "nativeName": "Tshiluba"
+    }
+  ],
+  "latlng": [
+    0.0,
+    25.0
+  ],
+  "name": "Congo (Democratic Republic of the)",
+  "nativeName": "République démocratique du Congo",
+  "numericCode": "180",
+  "population": 85026000,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Middle Africa",
+  "timezones": [
+    "UTC+01:00",
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".cd"
+  ],
+  "translations": {
+    "br": "RD Congo",
+    "de": "Kongo (Dem. Rep.)",
+    "es": "Congo (Rep. Dem.)",
+    "fa": "جمهوری کنگو",
+    "fr": "Congo (Rép. dém.)",
+    "hr": "Kongo, Demokratska Republika",
+    "it": "Congo (Rep. Dem.)",
+    "ja": "コンゴ民主共和国",
+    "nl": "Congo [DRC]",
+    "pt": "RD Congo"
+  }
+}

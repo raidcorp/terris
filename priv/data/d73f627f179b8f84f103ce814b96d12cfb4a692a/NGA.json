@@ -1,0 +1,82 @@
+{
+  "alpha2Code": "NG",
+  "alpha3Code": "NGA",
+  "altSpellings": [
+    "NG",
+    "Nijeriya",
+    "Naíjíríà",
+    "Federal Republic of Nigeria"
+  ],
+  "area": 923768.0,
+  "borders": [
+    "BEN",
+    "CMR",
+    "TCD",
+    "NER"
+  ],
+  "callingCodes": [
+    "234"
+  ],
+  "capital": "Abuja",
+  "cioc": "NGR",
+  "currencies": [
+    {
+      "code": "NGN",
+      "name": "Nigerian naira",
+      "symbol": "₦"
+    }
+  ],
+  "demonym": "Nigerian",
+  "flag": "https://restcountries.eu/data/nga.svg",
+  "gini": 48.8,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    10.0,
+    8.0
+  ],
+  "name": "Nigeria",
+  "nativeName": "Nigeria",
+  "numericCode": "566",
+  "population": 186988000,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Western Africa",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".ng"
+  ],
+  "translations": {
+    "br": "Nigéria",
+    "de": "Nigeria",
+    "es": "Nigeria",
+    "fa": "نیجریه",
+    "fr": "Nigéria",
+    "hr": "Nigerija",
+    "it": "Nigeria",
+    "ja": "ナイジェリア",
+    "nl": "Nigeria",
+    "pt": "Nigéria"
+  }
+}

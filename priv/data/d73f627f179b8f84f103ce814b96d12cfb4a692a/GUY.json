@@ -1,0 +1,92 @@
+{
+  "alpha2Code": "GY",
+  "alpha3Code": "GUY",
+  "altSpellings": [
+    "GY",
+    "Co-operative Republic of Guyana"
+  ],
+  "area": 214969.0,
+  "borders": [
+    "BRA",
+    "SUR",
+    "VEN"
+  ],
+  "callingCodes": [
+    "592"
+  ],
+  "capital": "Georgetown",
+  "cioc": "GUY",
+  "currencies": [
+    {
+      "code": "GYD",
+      "name": "Guyanese dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Guyanese",
+  "flag": "https://restcountries.eu/data/guy.svg",
+  "gini": 44.5,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    5.0,
+    -59.0
+  ],
+  "name": "Guyana",
+  "nativeName": "Guyana",
+  "numericCode": "328",
+  "population": 746900,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "CARICOM",
+      "name": "Caribbean Community",
+      "otherAcronyms": [],
+      "otherNames": [
+        "Comunidad del Caribe",
+        "Communauté Caribéenne",
+        "Caribische Gemeenschap"
+      ]
+    },
+    {
+      "acronym": "USAN",
+      "name": "Union of South American Nations",
+      "otherAcronyms": [
+        "UNASUR",
+        "UNASUL",
+        "UZAN"
+      ],
+      "otherNames": [
+        "Unión de Naciones Suramericanas",
+        "União de Nações Sul-Americanas",
+        "Unie van Zuid-Amerikaanse Naties",
+        "South American Union"
+      ]
+    }
+  ],
+  "subregion": "South America",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".gy"
+  ],
+  "translations": {
+    "br": "Guiana",
+    "de": "Guyana",
+    "es": "Guyana",
+    "fa": "گویان",
+    "fr": "Guyane",
+    "hr": "Gvajana",
+    "it": "Guyana",
+    "ja": "ガイアナ",
+    "nl": "Guyana",
+    "pt": "Guiana"
+  }
+}

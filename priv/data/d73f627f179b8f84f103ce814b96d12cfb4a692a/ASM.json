@@ -1,0 +1,70 @@
+{
+  "alpha2Code": "AS",
+  "alpha3Code": "ASM",
+  "altSpellings": [
+    "AS",
+    "Amerika Sāmoa",
+    "Amelika Sāmoa",
+    "Sāmoa Amelika"
+  ],
+  "area": 199.0,
+  "borders": [],
+  "callingCodes": [
+    "1684"
+  ],
+  "capital": "Pago Pago",
+  "cioc": "ASA",
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "United State Dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "American Samoan",
+  "flag": "https://restcountries.eu/data/asm.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "sm",
+      "iso639_2": "smo",
+      "name": "Samoan",
+      "nativeName": "gagana fa'a Samoa"
+    }
+  ],
+  "latlng": [
+    -14.33333333,
+    -170.0
+  ],
+  "name": "American Samoa",
+  "nativeName": "American Samoa",
+  "numericCode": "016",
+  "population": 57100,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Polynesia",
+  "timezones": [
+    "UTC-11:00"
+  ],
+  "topLevelDomain": [
+    ".as"
+  ],
+  "translations": {
+    "br": "Samoa Americana",
+    "de": "Amerikanisch-Samoa",
+    "es": "Samoa Americana",
+    "fa": "ساموآی آمریکا",
+    "fr": "Samoa américaines",
+    "hr": "Američka Samoa",
+    "it": "Samoa Americane",
+    "ja": "アメリカ領サモア",
+    "nl": "Amerikaans Samoa",
+    "pt": "Samoa Americana"
+  }
+}

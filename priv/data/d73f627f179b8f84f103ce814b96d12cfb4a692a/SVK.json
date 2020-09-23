@@ -1,0 +1,76 @@
+{
+  "alpha2Code": "SK",
+  "alpha3Code": "SVK",
+  "altSpellings": [
+    "SK",
+    "Slovak Republic",
+    "Slovenská republika"
+  ],
+  "area": 49037.0,
+  "borders": [
+    "AUT",
+    "CZE",
+    "HUN",
+    "POL",
+    "UKR"
+  ],
+  "callingCodes": [
+    "421"
+  ],
+  "capital": "Bratislava",
+  "cioc": "SVK",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "Slovak",
+  "flag": "https://restcountries.eu/data/svk.svg",
+  "gini": 26.0,
+  "languages": [
+    {
+      "iso639_1": "sk",
+      "iso639_2": "slk",
+      "name": "Slovak",
+      "nativeName": "slovenčina"
+    }
+  ],
+  "latlng": [
+    48.66666666,
+    19.5
+  ],
+  "name": "Slovakia",
+  "nativeName": "Slovensko",
+  "numericCode": "703",
+  "population": 5426252,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Eastern Europe",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".sk"
+  ],
+  "translations": {
+    "br": "Eslováquia",
+    "de": "Slowakei",
+    "es": "República Eslovaca",
+    "fa": "اسلواکی",
+    "fr": "Slovaquie",
+    "hr": "Slovačka",
+    "it": "Slovacchia",
+    "ja": "スロバキア",
+    "nl": "Slowakije",
+    "pt": "Eslováquia"
+  }
+}

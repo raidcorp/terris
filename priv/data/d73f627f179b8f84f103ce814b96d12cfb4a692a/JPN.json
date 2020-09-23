@@ -1,0 +1,63 @@
+{
+  "alpha2Code": "JP",
+  "alpha3Code": "JPN",
+  "altSpellings": [
+    "JP",
+    "Nippon",
+    "Nihon"
+  ],
+  "area": 377930.0,
+  "borders": [],
+  "callingCodes": [
+    "81"
+  ],
+  "capital": "Tokyo",
+  "cioc": "JPN",
+  "currencies": [
+    {
+      "code": "JPY",
+      "name": "Japanese yen",
+      "symbol": "¥"
+    }
+  ],
+  "demonym": "Japanese",
+  "flag": "https://restcountries.eu/data/jpn.svg",
+  "gini": 38.1,
+  "languages": [
+    {
+      "iso639_1": "ja",
+      "iso639_2": "jpn",
+      "name": "Japanese",
+      "nativeName": "日本語 (にほんご)"
+    }
+  ],
+  "latlng": [
+    36.0,
+    138.0
+  ],
+  "name": "Japan",
+  "nativeName": "日本",
+  "numericCode": "392",
+  "population": 126960000,
+  "region": "Asia",
+  "regionalBlocs": [],
+  "subregion": "Eastern Asia",
+  "timezones": [
+    "UTC+09:00"
+  ],
+  "topLevelDomain": [
+    ".jp"
+  ],
+  "translations": {
+    "br": "Japão",
+    "de": "Japan",
+    "es": "Japón",
+    "fa": "ژاپن",
+    "fr": "Japon",
+    "hr": "Japan",
+    "it": "Giappone",
+    "ja": "日本",
+    "nl": "Japan",
+    "pt": "Japão"
+  }
+}

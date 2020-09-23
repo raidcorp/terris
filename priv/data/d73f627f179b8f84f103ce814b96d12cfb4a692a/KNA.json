@@ -1,0 +1,73 @@
+{
+  "alpha2Code": "KN",
+  "alpha3Code": "KNA",
+  "altSpellings": [
+    "KN",
+    "Federation of Saint Christopher and Nevis"
+  ],
+  "area": 261.0,
+  "borders": [],
+  "callingCodes": [
+    "1869"
+  ],
+  "capital": "Basseterre",
+  "cioc": "SKN",
+  "currencies": [
+    {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Kittian and Nevisian",
+  "flag": "https://restcountries.eu/data/kna.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    17.33333333,
+    -62.75
+  ],
+  "name": "Saint Kitts and Nevis",
+  "nativeName": "Saint Kitts and Nevis",
+  "numericCode": "659",
+  "population": 46204,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "CARICOM",
+      "name": "Caribbean Community",
+      "otherAcronyms": [],
+      "otherNames": [
+        "Comunidad del Caribe",
+        "Communauté Caribéenne",
+        "Caribische Gemeenschap"
+      ]
+    }
+  ],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".kn"
+  ],
+  "translations": {
+    "br": "São Cristóvão e Neves",
+    "de": "St. Kitts und Nevis",
+    "es": "San Cristóbal y Nieves",
+    "fa": "سنت کیتس و نویس",
+    "fr": "Saint-Christophe-et-Niévès",
+    "hr": "Sveti Kristof i Nevis",
+    "it": "Saint Kitts e Nevis",
+    "ja": "セントクリストファー・ネイビス",
+    "nl": "Saint Kitts en Nevis",
+    "pt": "São Cristóvão e Neves"
+  }
+}

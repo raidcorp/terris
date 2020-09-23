@@ -1,0 +1,76 @@
+{
+  "alpha2Code": "NR",
+  "alpha3Code": "NRU",
+  "altSpellings": [
+    "NR",
+    "Naoero",
+    "Pleasant Island",
+    "Republic of Nauru",
+    "Ripublik Naoero"
+  ],
+  "area": 21.0,
+  "borders": [],
+  "callingCodes": [
+    "674"
+  ],
+  "capital": "Yaren",
+  "cioc": "NRU",
+  "currencies": [
+    {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    {
+      "code": "(none)",
+      "name": null,
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Nauruan",
+  "flag": "https://restcountries.eu/data/nru.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "na",
+      "iso639_2": "nau",
+      "name": "Nauruan",
+      "nativeName": "Dorerin Naoero"
+    }
+  ],
+  "latlng": [
+    -0.53333333,
+    166.91666666
+  ],
+  "name": "Nauru",
+  "nativeName": "Nauru",
+  "numericCode": "520",
+  "population": 10084,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Micronesia",
+  "timezones": [
+    "UTC+12:00"
+  ],
+  "topLevelDomain": [
+    ".nr"
+  ],
+  "translations": {
+    "br": "Nauru",
+    "de": "Nauru",
+    "es": "Nauru",
+    "fa": "نائورو",
+    "fr": "Nauru",
+    "hr": "Nauru",
+    "it": "Nauru",
+    "ja": "ナウル",
+    "nl": "Nauru",
+    "pt": "Nauru"
+  }
+}

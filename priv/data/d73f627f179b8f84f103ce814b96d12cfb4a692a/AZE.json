@@ -1,0 +1,69 @@
+{
+  "alpha2Code": "AZ",
+  "alpha3Code": "AZE",
+  "altSpellings": [
+    "AZ",
+    "Republic of Azerbaijan",
+    "Azərbaycan Respublikası"
+  ],
+  "area": 8.66e4,
+  "borders": [
+    "ARM",
+    "GEO",
+    "IRN",
+    "RUS",
+    "TUR"
+  ],
+  "callingCodes": [
+    "994"
+  ],
+  "capital": "Baku",
+  "cioc": "AZE",
+  "currencies": [
+    {
+      "code": "AZN",
+      "name": "Azerbaijani manat",
+      "symbol": null
+    }
+  ],
+  "demonym": "Azerbaijani",
+  "flag": "https://restcountries.eu/data/aze.svg",
+  "gini": 33.7,
+  "languages": [
+    {
+      "iso639_1": "az",
+      "iso639_2": "aze",
+      "name": "Azerbaijani",
+      "nativeName": "azərbaycan dili"
+    }
+  ],
+  "latlng": [
+    40.5,
+    47.5
+  ],
+  "name": "Azerbaijan",
+  "nativeName": "Azərbaycan",
+  "numericCode": "031",
+  "population": 9730500,
+  "region": "Asia",
+  "regionalBlocs": [],
+  "subregion": "Western Asia",
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "topLevelDomain": [
+    ".az"
+  ],
+  "translations": {
+    "br": "Azerbaijão",
+    "de": "Aserbaidschan",
+    "es": "Azerbaiyán",
+    "fa": "آذربایجان",
+    "fr": "Azerbaïdjan",
+    "hr": "Azerbajdžan",
+    "it": "Azerbaijan",
+    "ja": "アゼルバイジャン",
+    "nl": "Azerbeidzjan",
+    "pt": "Azerbaijão"
+  }
+}

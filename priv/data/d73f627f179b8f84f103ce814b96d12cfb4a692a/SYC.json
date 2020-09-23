@@ -1,0 +1,83 @@
+{
+  "alpha2Code": "SC",
+  "alpha3Code": "SYC",
+  "altSpellings": [
+    "SC",
+    "Republic of Seychelles",
+    "Repiblik Sesel",
+    "République des Seychelles"
+  ],
+  "area": 452.0,
+  "borders": [],
+  "callingCodes": [
+    "248"
+  ],
+  "capital": "Victoria",
+  "cioc": "SEY",
+  "currencies": [
+    {
+      "code": "SCR",
+      "name": "Seychellois rupee",
+      "symbol": "₨"
+    }
+  ],
+  "demonym": "Seychellois",
+  "flag": "https://restcountries.eu/data/syc.svg",
+  "gini": 65.8,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    },
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    -4.58333333,
+    55.66666666
+  ],
+  "name": "Seychelles",
+  "nativeName": "Seychelles",
+  "numericCode": "690",
+  "population": 91400,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Eastern Africa",
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "topLevelDomain": [
+    ".sc"
+  ],
+  "translations": {
+    "br": "Seicheles",
+    "de": "Seychellen",
+    "es": "Seychelles",
+    "fa": "سیشل",
+    "fr": "Seychelles",
+    "hr": "Sejšeli",
+    "it": "Seychelles",
+    "ja": "セーシェル",
+    "nl": "Seychellen",
+    "pt": "Seicheles"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "alpha2Code": "NE",
+  "alpha3Code": "NER",
+  "altSpellings": [
+    "NE",
+    "Nijar",
+    "Republic of Niger",
+    "République du Niger"
+  ],
+  "area": 1.267e6,
+  "borders": [
+    "DZA",
+    "BEN",
+    "BFA",
+    "TCD",
+    "LBY",
+    "MLI",
+    "NGA"
+  ],
+  "callingCodes": [
+    "227"
+  ],
+  "capital": "Niamey",
+  "cioc": "NIG",
+  "currencies": [
+    {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "Nigerien",
+  "flag": "https://restcountries.eu/data/ner.svg",
+  "gini": 34.6,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    16.0,
+    8.0
+  ],
+  "name": "Niger",
+  "nativeName": "Niger",
+  "numericCode": "562",
+  "population": 20715000,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Western Africa",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".ne"
+  ],
+  "translations": {
+    "br": "Níger",
+    "de": "Niger",
+    "es": "Níger",
+    "fa": "نیجر",
+    "fr": "Niger",
+    "hr": "Niger",
+    "it": "Niger",
+    "ja": "ニジェール",
+    "nl": "Niger",
+    "pt": "Níger"
+  }
+}

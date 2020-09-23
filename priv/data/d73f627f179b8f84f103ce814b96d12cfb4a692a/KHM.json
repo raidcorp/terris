@@ -1,0 +1,78 @@
+{
+  "alpha2Code": "KH",
+  "alpha3Code": "KHM",
+  "altSpellings": [
+    "KH",
+    "Kingdom of Cambodia"
+  ],
+  "area": 181035.0,
+  "borders": [
+    "LAO",
+    "THA",
+    "VNM"
+  ],
+  "callingCodes": [
+    "855"
+  ],
+  "capital": "Phnom Penh",
+  "cioc": "CAM",
+  "currencies": [
+    {
+      "code": "KHR",
+      "name": "Cambodian riel",
+      "symbol": "៛"
+    },
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Cambodian",
+  "flag": "https://restcountries.eu/data/khm.svg",
+  "gini": 37.9,
+  "languages": [
+    {
+      "iso639_1": "km",
+      "iso639_2": "khm",
+      "name": "Khmer",
+      "nativeName": "ខ្មែរ"
+    }
+  ],
+  "latlng": [
+    13.0,
+    105.0
+  ],
+  "name": "Cambodia",
+  "nativeName": "Kâmpŭchéa",
+  "numericCode": "116",
+  "population": 15626444,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "ASEAN",
+      "name": "Association of Southeast Asian Nations",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "South-Eastern Asia",
+  "timezones": [
+    "UTC+07:00"
+  ],
+  "topLevelDomain": [
+    ".kh"
+  ],
+  "translations": {
+    "br": "Camboja",
+    "de": "Kambodscha",
+    "es": "Camboya",
+    "fa": "کامبوج",
+    "fr": "Cambodge",
+    "hr": "Kambodža",
+    "it": "Cambogia",
+    "ja": "カンボジア",
+    "nl": "Cambodja",
+    "pt": "Camboja"
+  }
+}

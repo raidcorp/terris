@@ -1,0 +1,73 @@
+{
+  "alpha2Code": "BS",
+  "alpha3Code": "BHS",
+  "altSpellings": [
+    "BS",
+    "Commonwealth of the Bahamas"
+  ],
+  "area": 13943.0,
+  "borders": [],
+  "callingCodes": [
+    "1242"
+  ],
+  "capital": "Nassau",
+  "cioc": "BAH",
+  "currencies": [
+    {
+      "code": "BSD",
+      "name": "Bahamian dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Bahamian",
+  "flag": "https://restcountries.eu/data/bhs.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    24.25,
+    -76.0
+  ],
+  "name": "Bahamas",
+  "nativeName": "Bahamas",
+  "numericCode": "044",
+  "population": 378040,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "CARICOM",
+      "name": "Caribbean Community",
+      "otherAcronyms": [],
+      "otherNames": [
+        "Comunidad del Caribe",
+        "Communauté Caribéenne",
+        "Caribische Gemeenschap"
+      ]
+    }
+  ],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "topLevelDomain": [
+    ".bs"
+  ],
+  "translations": {
+    "br": "Bahamas",
+    "de": "Bahamas",
+    "es": "Bahamas",
+    "fa": "باهاما",
+    "fr": "Bahamas",
+    "hr": "Bahami",
+    "it": "Bahamas",
+    "ja": "バハマ",
+    "nl": "Bahama’s",
+    "pt": "Baamas"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "alpha2Code": "VG",
+  "alpha3Code": "VGB",
+  "altSpellings": [
+    "VG"
+  ],
+  "area": 151.0,
+  "borders": [],
+  "callingCodes": [
+    "1284"
+  ],
+  "capital": "Road Town",
+  "cioc": "IVB",
+  "currencies": [
+    {
+      "code": null,
+      "name": "[D]",
+      "symbol": "$"
+    },
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Virgin Islander",
+  "flag": "https://restcountries.eu/data/vgb.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    18.431383,
+    -64.62305
+  ],
+  "name": "Virgin Islands (British)",
+  "nativeName": "British Virgin Islands",
+  "numericCode": "092",
+  "population": 28514,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".vg"
+  ],
+  "translations": {
+    "br": "Ilhas Virgens Britânicas",
+    "de": "Britische Jungferninseln",
+    "es": "Islas Vírgenes del Reino Unido",
+    "fa": "جزایر ویرجین بریتانیا",
+    "fr": "Îles Vierges britanniques",
+    "hr": "Britanski Djevičanski Otoci",
+    "it": "Isole Vergini Britanniche",
+    "ja": "イギリス領ヴァージン諸島",
+    "nl": "Britse Maagdeneilanden",
+    "pt": "Ilhas Virgens Britânicas"
+  }
+}

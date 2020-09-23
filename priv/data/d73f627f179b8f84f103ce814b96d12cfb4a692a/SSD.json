@@ -1,0 +1,81 @@
+{
+  "alpha2Code": "SS",
+  "alpha3Code": "SSD",
+  "altSpellings": [
+    "SS"
+  ],
+  "area": 619745.0,
+  "borders": [
+    "CAF",
+    "COD",
+    "ETH",
+    "KEN",
+    "SDN",
+    "UGA"
+  ],
+  "callingCodes": [
+    "211"
+  ],
+  "capital": "Juba",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "SSP",
+      "name": "South Sudanese pound",
+      "symbol": "£"
+    }
+  ],
+  "demonym": "South Sudanese",
+  "flag": "https://restcountries.eu/data/ssd.svg",
+  "gini": 45.5,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    7.0,
+    30.0
+  ],
+  "name": "South Sudan",
+  "nativeName": "South Sudan",
+  "numericCode": "728",
+  "population": 12131000,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Middle Africa",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "topLevelDomain": [
+    ".ss"
+  ],
+  "translations": {
+    "br": "Sudão do Sul",
+    "de": "Südsudan",
+    "es": "Sudán del Sur",
+    "fa": "سودان جنوبی",
+    "fr": "Soudan du Sud",
+    "hr": "Južni Sudan",
+    "it": "Sudan del sud",
+    "ja": "南スーダン",
+    "nl": "Zuid-Soedan",
+    "pt": "Sudão do Sul"
+  }
+}

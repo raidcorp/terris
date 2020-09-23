@@ -1,0 +1,89 @@
+{
+  "alpha2Code": "LS",
+  "alpha3Code": "LSO",
+  "altSpellings": [
+    "LS",
+    "Kingdom of Lesotho",
+    "Muso oa Lesotho"
+  ],
+  "area": 30355.0,
+  "borders": [
+    "ZAF"
+  ],
+  "callingCodes": [
+    "266"
+  ],
+  "capital": "Maseru",
+  "cioc": "LES",
+  "currencies": [
+    {
+      "code": "LSL",
+      "name": "Lesotho loti",
+      "symbol": "L"
+    },
+    {
+      "code": "ZAR",
+      "name": "South African rand",
+      "symbol": "R"
+    }
+  ],
+  "demonym": "Mosotho",
+  "flag": "https://restcountries.eu/data/lso.svg",
+  "gini": 52.5,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "st",
+      "iso639_2": "sot",
+      "name": "Southern Sotho",
+      "nativeName": "Sesotho"
+    }
+  ],
+  "latlng": [
+    -29.5,
+    28.5
+  ],
+  "name": "Lesotho",
+  "nativeName": "Lesotho",
+  "numericCode": "426",
+  "population": 1894194,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Southern Africa",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".ls"
+  ],
+  "translations": {
+    "br": "Lesoto",
+    "de": "Lesotho",
+    "es": "Lesotho",
+    "fa": "لسوتو",
+    "fr": "Lesotho",
+    "hr": "Lesoto",
+    "it": "Lesotho",
+    "ja": "レソト",
+    "nl": "Lesotho",
+    "pt": "Lesoto"
+  }
+}

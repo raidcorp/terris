@@ -1,0 +1,93 @@
+{
+  "alpha2Code": "LY",
+  "alpha3Code": "LBY",
+  "altSpellings": [
+    "LY",
+    "State of Libya",
+    "Dawlat Libya"
+  ],
+  "area": 1759540.0,
+  "borders": [
+    "DZA",
+    "TCD",
+    "EGY",
+    "NER",
+    "SDN",
+    "TUN"
+  ],
+  "callingCodes": [
+    "218"
+  ],
+  "capital": "Tripoli",
+  "cioc": "LBA",
+  "currencies": [
+    {
+      "code": "LYD",
+      "name": "Libyan dinar",
+      "symbol": "ل.د"
+    }
+  ],
+  "demonym": "Libyan",
+  "flag": "https://restcountries.eu/data/lby.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    }
+  ],
+  "latlng": [
+    25.0,
+    17.0
+  ],
+  "name": "Libya",
+  "nativeName": "‏ليبيا",
+  "numericCode": "434",
+  "population": 6385000,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    },
+    {
+      "acronym": "AL",
+      "name": "Arab League",
+      "otherAcronyms": [],
+      "otherNames": [
+        "جامعة الدول العربية",
+        "Jāmiʻat ad-Duwal al-ʻArabīyah",
+        "League of Arab States"
+      ]
+    }
+  ],
+  "subregion": "Northern Africa",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".ly"
+  ],
+  "translations": {
+    "br": "Líbia",
+    "de": "Libyen",
+    "es": "Libia",
+    "fa": "لیبی",
+    "fr": "Libye",
+    "hr": "Libija",
+    "it": "Libia",
+    "ja": "リビア",
+    "nl": "Libië",
+    "pt": "Líbia"
+  }
+}

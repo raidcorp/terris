@@ -1,0 +1,70 @@
+{
+  "alpha2Code": "KI",
+  "alpha3Code": "KIR",
+  "altSpellings": [
+    "KI",
+    "Republic of Kiribati",
+    "Ribaberiki Kiribati"
+  ],
+  "area": 811.0,
+  "borders": [],
+  "callingCodes": [
+    "686"
+  ],
+  "capital": "South Tarawa",
+  "cioc": "KIR",
+  "currencies": [
+    {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    {
+      "code": "(none)",
+      "name": "Kiribati dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "I-Kiribati",
+  "flag": "https://restcountries.eu/data/kir.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    1.41666666,
+    173.0
+  ],
+  "name": "Kiribati",
+  "nativeName": "Kiribati",
+  "numericCode": "296",
+  "population": 113400,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Micronesia",
+  "timezones": [
+    "UTC+12:00",
+    "UTC+13:00",
+    "UTC+14:00"
+  ],
+  "topLevelDomain": [
+    ".ki"
+  ],
+  "translations": {
+    "br": "Kiribati",
+    "de": "Kiribati",
+    "es": "Kiribati",
+    "fa": "کیریباتی",
+    "fr": "Kiribati",
+    "hr": "Kiribati",
+    "it": "Kiribati",
+    "ja": "キリバス",
+    "nl": "Kiribati",
+    "pt": "Quiribáti"
+  }
+}

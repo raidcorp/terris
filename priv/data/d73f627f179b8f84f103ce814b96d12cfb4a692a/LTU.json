@@ -1,0 +1,75 @@
+{
+  "alpha2Code": "LT",
+  "alpha3Code": "LTU",
+  "altSpellings": [
+    "LT",
+    "Republic of Lithuania",
+    "Lietuvos Respublika"
+  ],
+  "area": 6.53e4,
+  "borders": [
+    "BLR",
+    "LVA",
+    "POL",
+    "RUS"
+  ],
+  "callingCodes": [
+    "370"
+  ],
+  "capital": "Vilnius",
+  "cioc": "LTU",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "Lithuanian",
+  "flag": "https://restcountries.eu/data/ltu.svg",
+  "gini": 37.6,
+  "languages": [
+    {
+      "iso639_1": "lt",
+      "iso639_2": "lit",
+      "name": "Lithuanian",
+      "nativeName": "lietuvių kalba"
+    }
+  ],
+  "latlng": [
+    56.0,
+    24.0
+  ],
+  "name": "Lithuania",
+  "nativeName": "Lietuva",
+  "numericCode": "440",
+  "population": 2872294,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Northern Europe",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".lt"
+  ],
+  "translations": {
+    "br": "Lituânia",
+    "de": "Litauen",
+    "es": "Lituania",
+    "fa": "لیتوانی",
+    "fr": "Lituanie",
+    "hr": "Litva",
+    "it": "Lituania",
+    "ja": "リトアニア",
+    "nl": "Litouwen",
+    "pt": "Lituânia"
+  }
+}

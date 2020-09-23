@@ -1,0 +1,73 @@
+{
+  "alpha2Code": "BD",
+  "alpha3Code": "BGD",
+  "altSpellings": [
+    "BD",
+    "People's Republic of Bangladesh",
+    "Gônôprôjatôntri Bangladesh"
+  ],
+  "area": 147570.0,
+  "borders": [
+    "MMR",
+    "IND"
+  ],
+  "callingCodes": [
+    "880"
+  ],
+  "capital": "Dhaka",
+  "cioc": "BAN",
+  "currencies": [
+    {
+      "code": "BDT",
+      "name": "Bangladeshi taka",
+      "symbol": "৳"
+    }
+  ],
+  "demonym": "Bangladeshi",
+  "flag": "https://restcountries.eu/data/bgd.svg",
+  "gini": 32.1,
+  "languages": [
+    {
+      "iso639_1": "bn",
+      "iso639_2": "ben",
+      "name": "Bengali",
+      "nativeName": "বাংলা"
+    }
+  ],
+  "latlng": [
+    24.0,
+    90.0
+  ],
+  "name": "Bangladesh",
+  "nativeName": "Bangladesh",
+  "numericCode": "050",
+  "population": 161006790,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "SAARC",
+      "name": "South Asian Association for Regional Cooperation",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Southern Asia",
+  "timezones": [
+    "UTC+06:00"
+  ],
+  "topLevelDomain": [
+    ".bd"
+  ],
+  "translations": {
+    "br": "Bangladesh",
+    "de": "Bangladesch",
+    "es": "Bangladesh",
+    "fa": "بنگلادش",
+    "fr": "Bangladesh",
+    "hr": "Bangladeš",
+    "it": "Bangladesh",
+    "ja": "バングラデシュ",
+    "nl": "Bangladesh",
+    "pt": "Bangladeche"
+  }
+}

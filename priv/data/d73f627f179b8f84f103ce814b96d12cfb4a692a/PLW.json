@@ -1,0 +1,68 @@
+{
+  "alpha2Code": "PW",
+  "alpha3Code": "PLW",
+  "altSpellings": [
+    "PW",
+    "Republic of Palau",
+    "Beluu er a Belau"
+  ],
+  "area": 459.0,
+  "borders": [],
+  "callingCodes": [
+    "680"
+  ],
+  "capital": "Ngerulmud",
+  "cioc": "PLW",
+  "currencies": [
+    {
+      "code": "(none)",
+      "name": "[E]",
+      "symbol": "$"
+    },
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Palauan",
+  "flag": "https://restcountries.eu/data/plw.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    7.5,
+    134.5
+  ],
+  "name": "Palau",
+  "nativeName": "Palau",
+  "numericCode": "585",
+  "population": 17950,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Micronesia",
+  "timezones": [
+    "UTC+09:00"
+  ],
+  "topLevelDomain": [
+    ".pw"
+  ],
+  "translations": {
+    "br": "Palau",
+    "de": "Palau",
+    "es": "Palau",
+    "fa": "پالائو",
+    "fr": "Palaos",
+    "hr": "Palau",
+    "it": "Palau",
+    "ja": "パラオ",
+    "nl": "Palau",
+    "pt": "Palau"
+  }
+}

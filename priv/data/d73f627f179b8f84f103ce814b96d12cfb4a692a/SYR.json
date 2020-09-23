@@ -1,0 +1,80 @@
+{
+  "alpha2Code": "SY",
+  "alpha3Code": "SYR",
+  "altSpellings": [
+    "SY",
+    "Syrian Arab Republic",
+    "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah"
+  ],
+  "area": 185180.0,
+  "borders": [
+    "IRQ",
+    "ISR",
+    "JOR",
+    "LBN",
+    "TUR"
+  ],
+  "callingCodes": [
+    "963"
+  ],
+  "capital": "Damascus",
+  "cioc": "SYR",
+  "currencies": [
+    {
+      "code": "SYP",
+      "name": "Syrian pound",
+      "symbol": "£"
+    }
+  ],
+  "demonym": "Syrian",
+  "flag": "https://restcountries.eu/data/syr.svg",
+  "gini": 35.8,
+  "languages": [
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    }
+  ],
+  "latlng": [
+    35.0,
+    38.0
+  ],
+  "name": "Syrian Arab Republic",
+  "nativeName": "سوريا",
+  "numericCode": "760",
+  "population": 18564000,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "AL",
+      "name": "Arab League",
+      "otherAcronyms": [],
+      "otherNames": [
+        "جامعة الدول العربية",
+        "Jāmiʻat ad-Duwal al-ʻArabīyah",
+        "League of Arab States"
+      ]
+    }
+  ],
+  "subregion": "Western Asia",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".sy"
+  ],
+  "translations": {
+    "br": "Síria",
+    "de": "Syrien",
+    "es": "Siria",
+    "fa": "سوریه",
+    "fr": "Syrie",
+    "hr": "Sirija",
+    "it": "Siria",
+    "ja": "シリア・アラブ共和国",
+    "nl": "Syrië",
+    "pt": "Síria"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "alpha2Code": "GW",
+  "alpha3Code": "GNB",
+  "altSpellings": [
+    "GW",
+    "Republic of Guinea-Bissau",
+    "República da Guiné-Bissau"
+  ],
+  "area": 36125.0,
+  "borders": [
+    "GIN",
+    "SEN"
+  ],
+  "callingCodes": [
+    "245"
+  ],
+  "capital": "Bissau",
+  "cioc": "GBS",
+  "currencies": [
+    {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "Guinea-Bissauan",
+  "flag": "https://restcountries.eu/data/gnb.svg",
+  "gini": 35.5,
+  "languages": [
+    {
+      "iso639_1": "pt",
+      "iso639_2": "por",
+      "name": "Portuguese",
+      "nativeName": "Português"
+    }
+  ],
+  "latlng": [
+    12.0,
+    -15.0
+  ],
+  "name": "Guinea-Bissau",
+  "nativeName": "Guiné-Bissau",
+  "numericCode": "624",
+  "population": 1547777,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Western Africa",
+  "timezones": [
+    "UTC"
+  ],
+  "topLevelDomain": [
+    ".gw"
+  ],
+  "translations": {
+    "br": "Guiné-Bissau",
+    "de": "Guinea-Bissau",
+    "es": "Guinea-Bisáu",
+    "fa": "گینه بیسائو",
+    "fr": "Guinée-Bissau",
+    "hr": "Gvineja Bisau",
+    "it": "Guinea-Bissau",
+    "ja": "ギニアビサウ",
+    "nl": "Guinee-Bissau",
+    "pt": "Guiné-Bissau"
+  }
+}

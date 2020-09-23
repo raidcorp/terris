@@ -1,0 +1,94 @@
+{
+  "alpha2Code": "BR",
+  "alpha3Code": "BRA",
+  "altSpellings": [
+    "BR",
+    "Brasil",
+    "Federative Republic of Brazil",
+    "República Federativa do Brasil"
+  ],
+  "area": 8515767.0,
+  "borders": [
+    "ARG",
+    "BOL",
+    "COL",
+    "GUF",
+    "GUY",
+    "PRY",
+    "PER",
+    "SUR",
+    "URY",
+    "VEN"
+  ],
+  "callingCodes": [
+    "55"
+  ],
+  "capital": "Brasília",
+  "cioc": "BRA",
+  "currencies": [
+    {
+      "code": "BRL",
+      "name": "Brazilian real",
+      "symbol": "R$"
+    }
+  ],
+  "demonym": "Brazilian",
+  "flag": "https://restcountries.eu/data/bra.svg",
+  "gini": 54.7,
+  "languages": [
+    {
+      "iso639_1": "pt",
+      "iso639_2": "por",
+      "name": "Portuguese",
+      "nativeName": "Português"
+    }
+  ],
+  "latlng": [
+    -10.0,
+    -55.0
+  ],
+  "name": "Brazil",
+  "nativeName": "Brasil",
+  "numericCode": "076",
+  "population": 206135893,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "USAN",
+      "name": "Union of South American Nations",
+      "otherAcronyms": [
+        "UNASUR",
+        "UNASUL",
+        "UZAN"
+      ],
+      "otherNames": [
+        "Unión de Naciones Suramericanas",
+        "União de Nações Sul-Americanas",
+        "Unie van Zuid-Amerikaanse Naties",
+        "South American Union"
+      ]
+    }
+  ],
+  "subregion": "South America",
+  "timezones": [
+    "UTC-05:00",
+    "UTC-04:00",
+    "UTC-03:00",
+    "UTC-02:00"
+  ],
+  "topLevelDomain": [
+    ".br"
+  ],
+  "translations": {
+    "br": "Brasil",
+    "de": "Brasilien",
+    "es": "Brasil",
+    "fa": "برزیل",
+    "fr": "Brésil",
+    "hr": "Brazil",
+    "it": "Brasile",
+    "ja": "ブラジル",
+    "nl": "Brazilië",
+    "pt": "Brasil"
+  }
+}

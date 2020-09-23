@@ -1,0 +1,69 @@
+{
+  "alpha2Code": "WS",
+  "alpha3Code": "WSM",
+  "altSpellings": [
+    "WS",
+    "Independent State of Samoa",
+    "Malo Saʻoloto Tutoʻatasi o Sāmoa"
+  ],
+  "area": 2842.0,
+  "borders": [],
+  "callingCodes": [
+    "685"
+  ],
+  "capital": "Apia",
+  "cioc": "SAM",
+  "currencies": [
+    {
+      "code": "WST",
+      "name": "Samoan tālā",
+      "symbol": "T"
+    }
+  ],
+  "demonym": "Samoan",
+  "flag": "https://restcountries.eu/data/wsm.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "sm",
+      "iso639_2": "smo",
+      "name": "Samoan",
+      "nativeName": "gagana fa'a Samoa"
+    },
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    -13.58333333,
+    -172.33333333
+  ],
+  "name": "Samoa",
+  "nativeName": "Samoa",
+  "numericCode": "882",
+  "population": 194899,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Polynesia",
+  "timezones": [
+    "UTC+13:00"
+  ],
+  "topLevelDomain": [
+    ".ws"
+  ],
+  "translations": {
+    "br": "Samoa",
+    "de": "Samoa",
+    "es": "Samoa",
+    "fa": "ساموآ",
+    "fr": "Samoa",
+    "hr": "Samoa",
+    "it": "Samoa",
+    "ja": "サモア",
+    "nl": "Samoa",
+    "pt": "Samoa"
+  }
+}

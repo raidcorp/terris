@@ -1,0 +1,87 @@
+{
+  "alpha2Code": "IQ",
+  "alpha3Code": "IRQ",
+  "altSpellings": [
+    "IQ",
+    "Republic of Iraq",
+    "Jumhūriyyat al-‘Irāq"
+  ],
+  "area": 438317.0,
+  "borders": [
+    "IRN",
+    "JOR",
+    "KWT",
+    "SAU",
+    "SYR",
+    "TUR"
+  ],
+  "callingCodes": [
+    "964"
+  ],
+  "capital": "Baghdad",
+  "cioc": "IRQ",
+  "currencies": [
+    {
+      "code": "IQD",
+      "name": "Iraqi dinar",
+      "symbol": "ع.د"
+    }
+  ],
+  "demonym": "Iraqi",
+  "flag": "https://restcountries.eu/data/irq.svg",
+  "gini": 30.9,
+  "languages": [
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    },
+    {
+      "iso639_1": "ku",
+      "iso639_2": "kur",
+      "name": "Kurdish",
+      "nativeName": "Kurdî"
+    }
+  ],
+  "latlng": [
+    33.0,
+    44.0
+  ],
+  "name": "Iraq",
+  "nativeName": "العراق",
+  "numericCode": "368",
+  "population": 37883543,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "AL",
+      "name": "Arab League",
+      "otherAcronyms": [],
+      "otherNames": [
+        "جامعة الدول العربية",
+        "Jāmiʻat ad-Duwal al-ʻArabīyah",
+        "League of Arab States"
+      ]
+    }
+  ],
+  "subregion": "Western Asia",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "topLevelDomain": [
+    ".iq"
+  ],
+  "translations": {
+    "br": "Iraque",
+    "de": "Irak",
+    "es": "Irak",
+    "fa": "عراق",
+    "fr": "Irak",
+    "hr": "Irak",
+    "it": "Iraq",
+    "ja": "イラク",
+    "nl": "Irak",
+    "pt": "Iraque"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "alpha2Code": "MP",
+  "alpha3Code": "MNP",
+  "altSpellings": [
+    "MP",
+    "Commonwealth of the Northern Mariana Islands",
+    "Sankattan Siha Na Islas Mariånas"
+  ],
+  "area": 464.0,
+  "borders": [],
+  "callingCodes": [
+    "1670"
+  ],
+  "capital": "Saipan",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "American",
+  "flag": "https://restcountries.eu/data/mnp.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "ch",
+      "iso639_2": "cha",
+      "name": "Chamorro",
+      "nativeName": "Chamoru"
+    }
+  ],
+  "latlng": [
+    15.2,
+    145.75
+  ],
+  "name": "Northern Mariana Islands",
+  "nativeName": "Northern Mariana Islands",
+  "numericCode": "580",
+  "population": 56940,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Micronesia",
+  "timezones": [
+    "UTC+10:00"
+  ],
+  "topLevelDomain": [
+    ".mp"
+  ],
+  "translations": {
+    "br": "Ilhas Marianas",
+    "de": "Nördliche Marianen",
+    "es": "Islas Marianas del Norte",
+    "fa": "جزایر ماریانای شمالی",
+    "fr": "Îles Mariannes du Nord",
+    "hr": "Sjevernomarijanski otoci",
+    "it": "Isole Marianne Settentrionali",
+    "ja": "北マリアナ諸島",
+    "nl": "Noordelijke Marianeneilanden",
+    "pt": "Ilhas Marianas"
+  }
+}

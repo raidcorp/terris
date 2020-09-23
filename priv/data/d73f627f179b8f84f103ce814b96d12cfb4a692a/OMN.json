@@ -1,0 +1,78 @@
+{
+  "alpha2Code": "OM",
+  "alpha3Code": "OMN",
+  "altSpellings": [
+    "OM",
+    "Sultanate of Oman",
+    "Salṭanat ʻUmān"
+  ],
+  "area": 3.095e5,
+  "borders": [
+    "SAU",
+    "ARE",
+    "YEM"
+  ],
+  "callingCodes": [
+    "968"
+  ],
+  "capital": "Muscat",
+  "cioc": "OMA",
+  "currencies": [
+    {
+      "code": "OMR",
+      "name": "Omani rial",
+      "symbol": "ر.ع."
+    }
+  ],
+  "demonym": "Omani",
+  "flag": "https://restcountries.eu/data/omn.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    }
+  ],
+  "latlng": [
+    21.0,
+    57.0
+  ],
+  "name": "Oman",
+  "nativeName": "عمان",
+  "numericCode": "512",
+  "population": 4420133,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "AL",
+      "name": "Arab League",
+      "otherAcronyms": [],
+      "otherNames": [
+        "جامعة الدول العربية",
+        "Jāmiʻat ad-Duwal al-ʻArabīyah",
+        "League of Arab States"
+      ]
+    }
+  ],
+  "subregion": "Western Asia",
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "topLevelDomain": [
+    ".om"
+  ],
+  "translations": {
+    "br": "Omã",
+    "de": "Oman",
+    "es": "Omán",
+    "fa": "عمان",
+    "fr": "Oman",
+    "hr": "Oman",
+    "it": "oman",
+    "ja": "オマーン",
+    "nl": "Oman",
+    "pt": "Omã"
+  }
+}

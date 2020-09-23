@@ -1,0 +1,81 @@
+{
+  "alpha2Code": "RS",
+  "alpha3Code": "SRB",
+  "altSpellings": [
+    "RS",
+    "Srbija",
+    "Republic of Serbia",
+    "Република Србија",
+    "Republika Srbija"
+  ],
+  "area": 88361.0,
+  "borders": [
+    "BIH",
+    "BGR",
+    "HRV",
+    "HUN",
+    "KOS",
+    "MKD",
+    "MNE",
+    "ROU"
+  ],
+  "callingCodes": [
+    "381"
+  ],
+  "capital": "Belgrade",
+  "cioc": "SRB",
+  "currencies": [
+    {
+      "code": "RSD",
+      "name": "Serbian dinar",
+      "symbol": "дин."
+    }
+  ],
+  "demonym": "Serbian",
+  "flag": "https://restcountries.eu/data/srb.svg",
+  "gini": 27.8,
+  "languages": [
+    {
+      "iso639_1": "sr",
+      "iso639_2": "srp",
+      "name": "Serbian",
+      "nativeName": "српски језик"
+    }
+  ],
+  "latlng": [
+    44.0,
+    21.0
+  ],
+  "name": "Serbia",
+  "nativeName": "Србија",
+  "numericCode": "688",
+  "population": 7076372,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "CEFTA",
+      "name": "Central European Free Trade Agreement",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Southern Europe",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".rs"
+  ],
+  "translations": {
+    "br": "Sérvia",
+    "de": "Serbien",
+    "es": "Serbia",
+    "fa": "صربستان",
+    "fr": "Serbie",
+    "hr": "Srbija",
+    "it": "Serbia",
+    "ja": "セルビア",
+    "nl": "Servië",
+    "pt": "Sérvia"
+  }
+}

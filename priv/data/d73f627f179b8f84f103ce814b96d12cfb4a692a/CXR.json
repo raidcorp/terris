@@ -1,0 +1,62 @@
+{
+  "alpha2Code": "CX",
+  "alpha3Code": "CXR",
+  "altSpellings": [
+    "CX",
+    "Territory of Christmas Island"
+  ],
+  "area": 135.0,
+  "borders": [],
+  "callingCodes": [
+    "61"
+  ],
+  "capital": "Flying Fish Cove",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Christmas Island",
+  "flag": "https://restcountries.eu/data/cxr.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    -10.5,
+    105.66666666
+  ],
+  "name": "Christmas Island",
+  "nativeName": "Christmas Island",
+  "numericCode": "162",
+  "population": 2072,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Australia and New Zealand",
+  "timezones": [
+    "UTC+07:00"
+  ],
+  "topLevelDomain": [
+    ".cx"
+  ],
+  "translations": {
+    "br": "Ilha Christmas",
+    "de": "Weihnachtsinsel",
+    "es": "Isla de Navidad",
+    "fa": "جزیره کریسمس",
+    "fr": "Île Christmas",
+    "hr": "Božićni otok",
+    "it": "Isola di Natale",
+    "ja": "クリスマス島",
+    "nl": "Christmaseiland",
+    "pt": "Ilha do Natal"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "alpha2Code": "GF",
+  "alpha3Code": "GUF",
+  "altSpellings": [
+    "GF",
+    "Guiana",
+    "Guyane"
+  ],
+  "area": null,
+  "borders": [
+    "BRA",
+    "SUR"
+  ],
+  "callingCodes": [
+    "594"
+  ],
+  "capital": "Cayenne",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "",
+  "flag": "https://restcountries.eu/data/guf.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    4.0,
+    -53.0
+  ],
+  "name": "French Guiana",
+  "nativeName": "Guyane française",
+  "numericCode": "254",
+  "population": 254541,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "USAN",
+      "name": "Union of South American Nations",
+      "otherAcronyms": [
+        "UNASUR",
+        "UNASUL",
+        "UZAN"
+      ],
+      "otherNames": [
+        "Unión de Naciones Suramericanas",
+        "União de Nações Sul-Americanas",
+        "Unie van Zuid-Amerikaanse Naties",
+        "South American Union"
+      ]
+    },
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "South America",
+  "timezones": [
+    "UTC-03:00"
+  ],
+  "topLevelDomain": [
+    ".gf"
+  ],
+  "translations": {
+    "br": "Guiana Francesa",
+    "de": "Französisch Guyana",
+    "es": "Guayana Francesa",
+    "fa": "گویان فرانسه",
+    "fr": "Guayane",
+    "hr": "Francuska Gvajana",
+    "it": "Guyana francese",
+    "ja": "フランス領ギアナ",
+    "nl": "Frans-Guyana",
+    "pt": "Guiana Francesa"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "alpha2Code": "ME",
+  "alpha3Code": "MNE",
+  "altSpellings": [
+    "ME",
+    "Crna Gora"
+  ],
+  "area": 13812.0,
+  "borders": [
+    "ALB",
+    "BIH",
+    "HRV",
+    "KOS",
+    "SRB"
+  ],
+  "callingCodes": [
+    "382"
+  ],
+  "capital": "Podgorica",
+  "cioc": "MNE",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "Montenegrin",
+  "flag": "https://restcountries.eu/data/mne.svg",
+  "gini": 30.0,
+  "languages": [
+    {
+      "iso639_1": "sr",
+      "iso639_2": "srp",
+      "name": "Serbian",
+      "nativeName": "српски језик"
+    },
+    {
+      "iso639_1": "bs",
+      "iso639_2": "bos",
+      "name": "Bosnian",
+      "nativeName": "bosanski jezik"
+    },
+    {
+      "iso639_1": "sq",
+      "iso639_2": "sqi",
+      "name": "Albanian",
+      "nativeName": "Shqip"
+    },
+    {
+      "iso639_1": "hr",
+      "iso639_2": "hrv",
+      "name": "Croatian",
+      "nativeName": "hrvatski jezik"
+    }
+  ],
+  "latlng": [
+    42.5,
+    19.3
+  ],
+  "name": "Montenegro",
+  "nativeName": "Црна Гора",
+  "numericCode": "499",
+  "population": 621810,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "CEFTA",
+      "name": "Central European Free Trade Agreement",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Southern Europe",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".me"
+  ],
+  "translations": {
+    "br": "Montenegro",
+    "de": "Montenegro",
+    "es": "Montenegro",
+    "fa": "مونته‌نگرو",
+    "fr": "Monténégro",
+    "hr": "Crna Gora",
+    "it": "Montenegro",
+    "ja": "モンテネグロ",
+    "nl": "Montenegro",
+    "pt": "Montenegro"
+  }
+}

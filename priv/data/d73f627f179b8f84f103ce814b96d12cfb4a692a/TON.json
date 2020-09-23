@@ -1,0 +1,67 @@
+{
+  "alpha2Code": "TO",
+  "alpha3Code": "TON",
+  "altSpellings": [
+    "TO"
+  ],
+  "area": 747.0,
+  "borders": [],
+  "callingCodes": [
+    "676"
+  ],
+  "capital": "Nuku'alofa",
+  "cioc": "TGA",
+  "currencies": [
+    {
+      "code": "TOP",
+      "name": "Tongan paʻanga",
+      "symbol": "T$"
+    }
+  ],
+  "demonym": "Tongan",
+  "flag": "https://restcountries.eu/data/ton.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "to",
+      "iso639_2": "ton",
+      "name": "Tonga (Tonga Islands)",
+      "nativeName": "faka Tonga"
+    }
+  ],
+  "latlng": [
+    -20.0,
+    -175.0
+  ],
+  "name": "Tonga",
+  "nativeName": "Tonga",
+  "numericCode": "776",
+  "population": 103252,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Polynesia",
+  "timezones": [
+    "UTC+13:00"
+  ],
+  "topLevelDomain": [
+    ".to"
+  ],
+  "translations": {
+    "br": "Tonga",
+    "de": "Tonga",
+    "es": "Tonga",
+    "fa": "تونگا",
+    "fr": "Tonga",
+    "hr": "Tonga",
+    "it": "Tonga",
+    "ja": "トンガ",
+    "nl": "Tonga",
+    "pt": "Tonga"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "alpha2Code": "GB",
+  "alpha3Code": "GBR",
+  "altSpellings": [
+    "GB",
+    "UK",
+    "Great Britain"
+  ],
+  "area": 2.429e5,
+  "borders": [
+    "IRL"
+  ],
+  "callingCodes": [
+    "44"
+  ],
+  "capital": "London",
+  "cioc": "GBR",
+  "currencies": [
+    {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "£"
+    }
+  ],
+  "demonym": "British",
+  "flag": "https://restcountries.eu/data/gbr.svg",
+  "gini": 34.0,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    54.0,
+    -2.0
+  ],
+  "name": "United Kingdom of Great Britain and Northern Ireland",
+  "nativeName": "United Kingdom",
+  "numericCode": "826",
+  "population": 65110000,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Northern Europe",
+  "timezones": [
+    "UTC-08:00",
+    "UTC-05:00",
+    "UTC-04:00",
+    "UTC-03:00",
+    "UTC-02:00",
+    "UTC",
+    "UTC+01:00",
+    "UTC+02:00",
+    "UTC+06:00"
+  ],
+  "topLevelDomain": [
+    ".uk"
+  ],
+  "translations": {
+    "br": "Reino Unido",
+    "de": "Vereinigtes Königreich",
+    "es": "Reino Unido",
+    "fa": "بریتانیای کبیر و ایرلند شمالی",
+    "fr": "Royaume-Uni",
+    "hr": "Ujedinjeno Kraljevstvo",
+    "it": "Regno Unito",
+    "ja": "イギリス",
+    "nl": "Verenigd Koninkrijk",
+    "pt": "Reino Unido"
+  }
+}

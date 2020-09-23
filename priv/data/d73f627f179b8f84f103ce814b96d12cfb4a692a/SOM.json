@@ -1,0 +1,98 @@
+{
+  "alpha2Code": "SO",
+  "alpha3Code": "SOM",
+  "altSpellings": [
+    "SO",
+    "aṣ-Ṣūmāl",
+    "Federal Republic of Somalia",
+    "Jamhuuriyadda Federaalka Soomaaliya",
+    "Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya"
+  ],
+  "area": 637657.0,
+  "borders": [
+    "DJI",
+    "ETH",
+    "KEN"
+  ],
+  "callingCodes": [
+    "252"
+  ],
+  "capital": "Mogadishu",
+  "cioc": "SOM",
+  "currencies": [
+    {
+      "code": "SOS",
+      "name": "Somali shilling",
+      "symbol": "Sh"
+    }
+  ],
+  "demonym": "Somali",
+  "flag": "https://restcountries.eu/data/som.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "so",
+      "iso639_2": "som",
+      "name": "Somali",
+      "nativeName": "Soomaaliga"
+    },
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    }
+  ],
+  "latlng": [
+    10.0,
+    49.0
+  ],
+  "name": "Somalia",
+  "nativeName": "Soomaaliya",
+  "numericCode": "706",
+  "population": 11079000,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    },
+    {
+      "acronym": "AL",
+      "name": "Arab League",
+      "otherAcronyms": [],
+      "otherNames": [
+        "جامعة الدول العربية",
+        "Jāmiʻat ad-Duwal al-ʻArabīyah",
+        "League of Arab States"
+      ]
+    }
+  ],
+  "subregion": "Eastern Africa",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "topLevelDomain": [
+    ".so"
+  ],
+  "translations": {
+    "br": "Somália",
+    "de": "Somalia",
+    "es": "Somalia",
+    "fa": "سومالی",
+    "fr": "Somalie",
+    "hr": "Somalija",
+    "it": "Somalia",
+    "ja": "ソマリア",
+    "nl": "Somalië",
+    "pt": "Somália"
+  }
+}

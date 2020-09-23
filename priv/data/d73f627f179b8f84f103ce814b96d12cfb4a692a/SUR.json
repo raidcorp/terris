@@ -1,0 +1,96 @@
+{
+  "alpha2Code": "SR",
+  "alpha3Code": "SUR",
+  "altSpellings": [
+    "SR",
+    "Sarnam",
+    "Sranangron",
+    "Republic of Suriname",
+    "Republiek Suriname"
+  ],
+  "area": 163820.0,
+  "borders": [
+    "BRA",
+    "GUF",
+    "FRA",
+    "GUY"
+  ],
+  "callingCodes": [
+    "597"
+  ],
+  "capital": "Paramaribo",
+  "cioc": "SUR",
+  "currencies": [
+    {
+      "code": "SRD",
+      "name": "Surinamese dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Surinamer",
+  "flag": "https://restcountries.eu/data/sur.svg",
+  "gini": 52.9,
+  "languages": [
+    {
+      "iso639_1": "nl",
+      "iso639_2": "nld",
+      "name": "Dutch",
+      "nativeName": "Nederlands"
+    }
+  ],
+  "latlng": [
+    4.0,
+    -56.0
+  ],
+  "name": "Suriname",
+  "nativeName": "Suriname",
+  "numericCode": "740",
+  "population": 541638,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "CARICOM",
+      "name": "Caribbean Community",
+      "otherAcronyms": [],
+      "otherNames": [
+        "Comunidad del Caribe",
+        "Communauté Caribéenne",
+        "Caribische Gemeenschap"
+      ]
+    },
+    {
+      "acronym": "USAN",
+      "name": "Union of South American Nations",
+      "otherAcronyms": [
+        "UNASUR",
+        "UNASUL",
+        "UZAN"
+      ],
+      "otherNames": [
+        "Unión de Naciones Suramericanas",
+        "União de Nações Sul-Americanas",
+        "Unie van Zuid-Amerikaanse Naties",
+        "South American Union"
+      ]
+    }
+  ],
+  "subregion": "South America",
+  "timezones": [
+    "UTC-03:00"
+  ],
+  "topLevelDomain": [
+    ".sr"
+  ],
+  "translations": {
+    "br": "Suriname",
+    "de": "Suriname",
+    "es": "Surinam",
+    "fa": "سورینام",
+    "fr": "Surinam",
+    "hr": "Surinam",
+    "it": "Suriname",
+    "ja": "スリナム",
+    "nl": "Suriname",
+    "pt": "Suriname"
+  }
+}

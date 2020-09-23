@@ -1,0 +1,87 @@
+{
+  "alpha2Code": "CG",
+  "alpha3Code": "COG",
+  "altSpellings": [
+    "CG",
+    "Congo-Brazzaville"
+  ],
+  "area": 3.42e5,
+  "borders": [
+    "AGO",
+    "CMR",
+    "CAF",
+    "COD",
+    "GAB"
+  ],
+  "callingCodes": [
+    "242"
+  ],
+  "capital": "Brazzaville",
+  "cioc": "CGO",
+  "currencies": [
+    {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "Congolese",
+  "flag": "https://restcountries.eu/data/cog.svg",
+  "gini": 47.3,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    },
+    {
+      "iso639_1": "ln",
+      "iso639_2": "lin",
+      "name": "Lingala",
+      "nativeName": "Lingála"
+    }
+  ],
+  "latlng": [
+    -1.0,
+    15.0
+  ],
+  "name": "Congo",
+  "nativeName": "République du Congo",
+  "numericCode": "178",
+  "population": 4741000,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Middle Africa",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".cg"
+  ],
+  "translations": {
+    "br": "Congo",
+    "de": "Kongo",
+    "es": "Congo",
+    "fa": "کنگو",
+    "fr": "Congo",
+    "hr": "Kongo",
+    "it": "Congo",
+    "ja": "コンゴ共和国",
+    "nl": "Congo [Republiek]",
+    "pt": "Congo"
+  }
+}

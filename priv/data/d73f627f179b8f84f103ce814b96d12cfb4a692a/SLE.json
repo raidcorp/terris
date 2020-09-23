@@ -1,0 +1,78 @@
+{
+  "alpha2Code": "SL",
+  "alpha3Code": "SLE",
+  "altSpellings": [
+    "SL",
+    "Republic of Sierra Leone"
+  ],
+  "area": 71740.0,
+  "borders": [
+    "GIN",
+    "LBR"
+  ],
+  "callingCodes": [
+    "232"
+  ],
+  "capital": "Freetown",
+  "cioc": "SLE",
+  "currencies": [
+    {
+      "code": "SLL",
+      "name": "Sierra Leonean leone",
+      "symbol": "Le"
+    }
+  ],
+  "demonym": "Sierra Leonean",
+  "flag": "https://restcountries.eu/data/sle.svg",
+  "gini": 42.5,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    8.5,
+    -11.5
+  ],
+  "name": "Sierra Leone",
+  "nativeName": "Sierra Leone",
+  "numericCode": "694",
+  "population": 7075641,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Western Africa",
+  "timezones": [
+    "UTC"
+  ],
+  "topLevelDomain": [
+    ".sl"
+  ],
+  "translations": {
+    "br": "Serra Leoa",
+    "de": "Sierra Leone",
+    "es": "Sierra Leone",
+    "fa": "سیرالئون",
+    "fr": "Sierra Leone",
+    "hr": "Sijera Leone",
+    "it": "Sierra Leone",
+    "ja": "シエラレオネ",
+    "nl": "Sierra Leone",
+    "pt": "Serra Leoa"
+  }
+}

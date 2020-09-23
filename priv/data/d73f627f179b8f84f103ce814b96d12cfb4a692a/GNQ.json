@@ -1,0 +1,87 @@
+{
+  "alpha2Code": "GQ",
+  "alpha3Code": "GNQ",
+  "altSpellings": [
+    "GQ",
+    "Republic of Equatorial Guinea",
+    "República de Guinea Ecuatorial",
+    "République de Guinée équatoriale",
+    "República da Guiné Equatorial"
+  ],
+  "area": 28051.0,
+  "borders": [
+    "CMR",
+    "GAB"
+  ],
+  "callingCodes": [
+    "240"
+  ],
+  "capital": "Malabo",
+  "cioc": "GEQ",
+  "currencies": [
+    {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "Equatorial Guinean",
+  "flag": "https://restcountries.eu/data/gnq.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "es",
+      "iso639_2": "spa",
+      "name": "Spanish",
+      "nativeName": "Español"
+    },
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    2.0,
+    10.0
+  ],
+  "name": "Equatorial Guinea",
+  "nativeName": "Guinea Ecuatorial",
+  "numericCode": "226",
+  "population": 1222442,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Middle Africa",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".gq"
+  ],
+  "translations": {
+    "br": "Guiné Equatorial",
+    "de": "Äquatorial-Guinea",
+    "es": "Guinea Ecuatorial",
+    "fa": "گینه استوایی",
+    "fr": "Guinée-Équatoriale",
+    "hr": "Ekvatorijalna Gvineja",
+    "it": "Guinea Equatoriale",
+    "ja": "赤道ギニア",
+    "nl": "Equatoriaal-Guinea",
+    "pt": "Guiné Equatorial"
+  }
+}

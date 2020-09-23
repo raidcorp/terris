@@ -1,0 +1,81 @@
+{
+  "alpha2Code": "AO",
+  "alpha3Code": "AGO",
+  "altSpellings": [
+    "AO",
+    "República de Angola",
+    "ʁɛpublika de an'ɡɔla"
+  ],
+  "area": 1.2467e6,
+  "borders": [
+    "COG",
+    "COD",
+    "ZMB",
+    "NAM"
+  ],
+  "callingCodes": [
+    "244"
+  ],
+  "capital": "Luanda",
+  "cioc": "ANG",
+  "currencies": [
+    {
+      "code": "AOA",
+      "name": "Angolan kwanza",
+      "symbol": "Kz"
+    }
+  ],
+  "demonym": "Angolan",
+  "flag": "https://restcountries.eu/data/ago.svg",
+  "gini": 58.6,
+  "languages": [
+    {
+      "iso639_1": "pt",
+      "iso639_2": "por",
+      "name": "Portuguese",
+      "nativeName": "Português"
+    }
+  ],
+  "latlng": [
+    -12.5,
+    18.5
+  ],
+  "name": "Angola",
+  "nativeName": "Angola",
+  "numericCode": "024",
+  "population": 25868000,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Middle Africa",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".ao"
+  ],
+  "translations": {
+    "br": "Angola",
+    "de": "Angola",
+    "es": "Angola",
+    "fa": "آنگولا",
+    "fr": "Angola",
+    "hr": "Angola",
+    "it": "Angola",
+    "ja": "アンゴラ",
+    "nl": "Angola",
+    "pt": "Angola"
+  }
+}

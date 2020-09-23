@@ -1,0 +1,89 @@
+{
+  "alpha2Code": "CM",
+  "alpha3Code": "CMR",
+  "altSpellings": [
+    "CM",
+    "Republic of Cameroon",
+    "République du Cameroun"
+  ],
+  "area": 475442.0,
+  "borders": [
+    "CAF",
+    "TCD",
+    "COG",
+    "GNQ",
+    "GAB",
+    "NGA"
+  ],
+  "callingCodes": [
+    "237"
+  ],
+  "capital": "Yaoundé",
+  "cioc": "CMR",
+  "currencies": [
+    {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "Cameroonian",
+  "flag": "https://restcountries.eu/data/cmr.svg",
+  "gini": 38.9,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    6.0,
+    12.0
+  ],
+  "name": "Cameroon",
+  "nativeName": "Cameroon",
+  "numericCode": "120",
+  "population": 22709892,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Middle Africa",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".cm"
+  ],
+  "translations": {
+    "br": "Camarões",
+    "de": "Kamerun",
+    "es": "Camerún",
+    "fa": "کامرون",
+    "fr": "Cameroun",
+    "hr": "Kamerun",
+    "it": "Camerun",
+    "ja": "カメルーン",
+    "nl": "Kameroen",
+    "pt": "Camarões"
+  }
+}

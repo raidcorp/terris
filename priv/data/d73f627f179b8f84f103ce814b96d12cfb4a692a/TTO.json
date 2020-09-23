@@ -1,0 +1,73 @@
+{
+  "alpha2Code": "TT",
+  "alpha3Code": "TTO",
+  "altSpellings": [
+    "TT",
+    "Republic of Trinidad and Tobago"
+  ],
+  "area": 5130.0,
+  "borders": [],
+  "callingCodes": [
+    "1868"
+  ],
+  "capital": "Port of Spain",
+  "cioc": "TTO",
+  "currencies": [
+    {
+      "code": "TTD",
+      "name": "Trinidad and Tobago dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Trinidadian",
+  "flag": "https://restcountries.eu/data/tto.svg",
+  "gini": 40.3,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    11.0,
+    -61.0
+  ],
+  "name": "Trinidad and Tobago",
+  "nativeName": "Trinidad and Tobago",
+  "numericCode": "780",
+  "population": 1349667,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "CARICOM",
+      "name": "Caribbean Community",
+      "otherAcronyms": [],
+      "otherNames": [
+        "Comunidad del Caribe",
+        "Communauté Caribéenne",
+        "Caribische Gemeenschap"
+      ]
+    }
+  ],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".tt"
+  ],
+  "translations": {
+    "br": "Trinidad e Tobago",
+    "de": "Trinidad und Tobago",
+    "es": "Trinidad y Tobago",
+    "fa": "ترینیداد و توباگو",
+    "fr": "Trinité et Tobago",
+    "hr": "Trinidad i Tobago",
+    "it": "Trinidad e Tobago",
+    "ja": "トリニダード・トバゴ",
+    "nl": "Trinidad en Tobago",
+    "pt": "Trindade e Tobago"
+  }
+}

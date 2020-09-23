@@ -1,0 +1,65 @@
+{
+  "alpha2Code": "PG",
+  "alpha3Code": "PNG",
+  "altSpellings": [
+    "PG",
+    "Independent State of Papua New Guinea",
+    "Independen Stet bilong Papua Niugini"
+  ],
+  "area": 462840.0,
+  "borders": [
+    "IDN"
+  ],
+  "callingCodes": [
+    "675"
+  ],
+  "capital": "Port Moresby",
+  "cioc": "PNG",
+  "currencies": [
+    {
+      "code": "PGK",
+      "name": "Papua New Guinean kina",
+      "symbol": "K"
+    }
+  ],
+  "demonym": "Papua New Guinean",
+  "flag": "https://restcountries.eu/data/png.svg",
+  "gini": 50.9,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    -6.0,
+    147.0
+  ],
+  "name": "Papua New Guinea",
+  "nativeName": "Papua Niugini",
+  "numericCode": "598",
+  "population": 8083700,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Melanesia",
+  "timezones": [
+    "UTC+10:00"
+  ],
+  "topLevelDomain": [
+    ".pg"
+  ],
+  "translations": {
+    "br": "Papua Nova Guiné",
+    "de": "Papua-Neuguinea",
+    "es": "Papúa Nueva Guinea",
+    "fa": "پاپوآ گینه نو",
+    "fr": "Papouasie-Nouvelle-Guinée",
+    "hr": "Papua Nova Gvineja",
+    "it": "Papua Nuova Guinea",
+    "ja": "パプアニューギニア",
+    "nl": "Papoea-Nieuw-Guinea",
+    "pt": "Papua Nova Guiné"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "alpha2Code": "NF",
+  "alpha3Code": "NFK",
+  "altSpellings": [
+    "NF",
+    "Territory of Norfolk Island",
+    "Teratri of Norf'k Ailen"
+  ],
+  "area": 36.0,
+  "borders": [],
+  "callingCodes": [
+    "672"
+  ],
+  "capital": "Kingston",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Norfolk Islander",
+  "flag": "https://restcountries.eu/data/nfk.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    -29.03333333,
+    167.95
+  ],
+  "name": "Norfolk Island",
+  "nativeName": "Norfolk Island",
+  "numericCode": "574",
+  "population": 2302,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Australia and New Zealand",
+  "timezones": [
+    "UTC+11:30"
+  ],
+  "topLevelDomain": [
+    ".nf"
+  ],
+  "translations": {
+    "br": "Ilha Norfolk",
+    "de": "Norfolkinsel",
+    "es": "Isla de Norfolk",
+    "fa": "جزیره نورفک",
+    "fr": "Île de Norfolk",
+    "hr": "Otok Norfolk",
+    "it": "Isola Norfolk",
+    "ja": "ノーフォーク島",
+    "nl": "Norfolkeiland",
+    "pt": "Ilha Norfolk"
+  }
+}

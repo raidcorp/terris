@@ -1,0 +1,90 @@
+{
+  "alpha2Code": "PY",
+  "alpha3Code": "PRY",
+  "altSpellings": [
+    "PY",
+    "Republic of Paraguay",
+    "República del Paraguay",
+    "Tetã Paraguái"
+  ],
+  "area": 406752.0,
+  "borders": [
+    "ARG",
+    "BOL",
+    "BRA"
+  ],
+  "callingCodes": [
+    "595"
+  ],
+  "capital": "Asunción",
+  "cioc": "PAR",
+  "currencies": [
+    {
+      "code": "PYG",
+      "name": "Paraguayan guaraní",
+      "symbol": "₲"
+    }
+  ],
+  "demonym": "Paraguayan",
+  "flag": "https://restcountries.eu/data/pry.svg",
+  "gini": 52.4,
+  "languages": [
+    {
+      "iso639_1": "es",
+      "iso639_2": "spa",
+      "name": "Spanish",
+      "nativeName": "Español"
+    },
+    {
+      "iso639_1": "gn",
+      "iso639_2": "grn",
+      "name": "Guaraní",
+      "nativeName": "Avañe'ẽ"
+    }
+  ],
+  "latlng": [
+    -23.0,
+    -58.0
+  ],
+  "name": "Paraguay",
+  "nativeName": "Paraguay",
+  "numericCode": "600",
+  "population": 6854536,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "USAN",
+      "name": "Union of South American Nations",
+      "otherAcronyms": [
+        "UNASUR",
+        "UNASUL",
+        "UZAN"
+      ],
+      "otherNames": [
+        "Unión de Naciones Suramericanas",
+        "União de Nações Sul-Americanas",
+        "Unie van Zuid-Amerikaanse Naties",
+        "South American Union"
+      ]
+    }
+  ],
+  "subregion": "South America",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".py"
+  ],
+  "translations": {
+    "br": "Paraguai",
+    "de": "Paraguay",
+    "es": "Paraguay",
+    "fa": "پاراگوئه",
+    "fr": "Paraguay",
+    "hr": "Paragvaj",
+    "it": "Paraguay",
+    "ja": "パラグアイ",
+    "nl": "Paraguay",
+    "pt": "Paraguai"
+  }
+}

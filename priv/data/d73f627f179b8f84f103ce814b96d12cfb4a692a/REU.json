@@ -1,0 +1,75 @@
+{
+  "alpha2Code": "RE",
+  "alpha3Code": "REU",
+  "altSpellings": [
+    "RE",
+    "Reunion"
+  ],
+  "area": null,
+  "borders": [],
+  "callingCodes": [
+    "262"
+  ],
+  "capital": "Saint-Denis",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "French",
+  "flag": "https://restcountries.eu/data/reu.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    -21.15,
+    55.5
+  ],
+  "name": "Réunion",
+  "nativeName": "La Réunion",
+  "numericCode": "638",
+  "population": 840974,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Eastern Africa",
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "topLevelDomain": [
+    ".re"
+  ],
+  "translations": {
+    "br": "Reunião",
+    "de": "Réunion",
+    "es": "Reunión",
+    "fa": "رئونیون",
+    "fr": "Réunion",
+    "hr": "Réunion",
+    "it": "Riunione",
+    "ja": "レユニオン",
+    "nl": "Réunion",
+    "pt": "Reunião"
+  }
+}

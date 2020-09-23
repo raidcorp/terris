@@ -1,0 +1,78 @@
+{
+  "alpha2Code": "LK",
+  "alpha3Code": "LKA",
+  "altSpellings": [
+    "LK",
+    "ilaṅkai",
+    "Democratic Socialist Republic of Sri Lanka"
+  ],
+  "area": 65610.0,
+  "borders": [
+    "IND"
+  ],
+  "callingCodes": [
+    "94"
+  ],
+  "capital": "Colombo",
+  "cioc": "SRI",
+  "currencies": [
+    {
+      "code": "LKR",
+      "name": "Sri Lankan rupee",
+      "symbol": "Rs"
+    }
+  ],
+  "demonym": "Sri Lankan",
+  "flag": "https://restcountries.eu/data/lka.svg",
+  "gini": 40.3,
+  "languages": [
+    {
+      "iso639_1": "si",
+      "iso639_2": "sin",
+      "name": "Sinhalese",
+      "nativeName": "සිංහල"
+    },
+    {
+      "iso639_1": "ta",
+      "iso639_2": "tam",
+      "name": "Tamil",
+      "nativeName": "தமிழ்"
+    }
+  ],
+  "latlng": [
+    7.0,
+    81.0
+  ],
+  "name": "Sri Lanka",
+  "nativeName": "śrī laṃkāva",
+  "numericCode": "144",
+  "population": 20966000,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "SAARC",
+      "name": "South Asian Association for Regional Cooperation",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Southern Asia",
+  "timezones": [
+    "UTC+05:30"
+  ],
+  "topLevelDomain": [
+    ".lk"
+  ],
+  "translations": {
+    "br": "Sri Lanka",
+    "de": "Sri Lanka",
+    "es": "Sri Lanka",
+    "fa": "سری‌لانکا",
+    "fr": "Sri Lanka",
+    "hr": "Šri Lanka",
+    "it": "Sri Lanka",
+    "ja": "スリランカ",
+    "nl": "Sri Lanka",
+    "pt": "Sri Lanka"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "alpha2Code": "ZM",
+  "alpha3Code": "ZMB",
+  "altSpellings": [
+    "ZM",
+    "Republic of Zambia"
+  ],
+  "area": 752612.0,
+  "borders": [
+    "AGO",
+    "BWA",
+    "COD",
+    "MWI",
+    "MOZ",
+    "NAM",
+    "TZA",
+    "ZWE"
+  ],
+  "callingCodes": [
+    "260"
+  ],
+  "capital": "Lusaka",
+  "cioc": "ZAM",
+  "currencies": [
+    {
+      "code": "ZMW",
+      "name": "Zambian kwacha",
+      "symbol": "ZK"
+    }
+  ],
+  "demonym": "Zambian",
+  "flag": "https://restcountries.eu/data/zmb.svg",
+  "gini": 54.6,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    -15.0,
+    30.0
+  ],
+  "name": "Zambia",
+  "nativeName": "Zambia",
+  "numericCode": "894",
+  "population": 15933883,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Eastern Africa",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".zm"
+  ],
+  "translations": {
+    "br": "Zâmbia",
+    "de": "Sambia",
+    "es": "Zambia",
+    "fa": "زامبیا",
+    "fr": "Zambie",
+    "hr": "Zambija",
+    "it": "Zambia",
+    "ja": "ザンビア",
+    "nl": "Zambia",
+    "pt": "Zâmbia"
+  }
+}

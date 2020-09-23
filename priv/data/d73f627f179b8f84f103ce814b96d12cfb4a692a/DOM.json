@@ -1,0 +1,86 @@
+{
+  "alpha2Code": "DO",
+  "alpha3Code": "DOM",
+  "altSpellings": [
+    "DO"
+  ],
+  "area": 48671.0,
+  "borders": [
+    "HTI"
+  ],
+  "callingCodes": [
+    "1809",
+    "1829",
+    "1849"
+  ],
+  "capital": "Santo Domingo",
+  "cioc": "DOM",
+  "currencies": [
+    {
+      "code": "DOP",
+      "name": "Dominican peso",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Dominican",
+  "flag": "https://restcountries.eu/data/dom.svg",
+  "gini": 47.2,
+  "languages": [
+    {
+      "iso639_1": "es",
+      "iso639_2": "spa",
+      "name": "Spanish",
+      "nativeName": "Español"
+    }
+  ],
+  "latlng": [
+    19.0,
+    -70.66666666
+  ],
+  "name": "Dominican Republic",
+  "nativeName": "República Dominicana",
+  "numericCode": "214",
+  "population": 10075045,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "CARICOM",
+      "name": "Caribbean Community",
+      "otherAcronyms": [],
+      "otherNames": [
+        "Comunidad del Caribe",
+        "Communauté Caribéenne",
+        "Caribische Gemeenschap"
+      ]
+    },
+    {
+      "acronym": "CAIS",
+      "name": "Central American Integration System",
+      "otherAcronyms": [
+        "SICA"
+      ],
+      "otherNames": [
+        "Sistema de la Integración Centroamericana,"
+      ]
+    }
+  ],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".do"
+  ],
+  "translations": {
+    "br": "República Dominicana",
+    "de": "Dominikanische Republik",
+    "es": "República Dominicana",
+    "fa": "جمهوری دومینیکن",
+    "fr": "République dominicaine",
+    "hr": "Dominikanska Republika",
+    "it": "Repubblica Dominicana",
+    "ja": "ドミニカ共和国",
+    "nl": "Dominicaanse Republiek",
+    "pt": "República Dominicana"
+  }
+}

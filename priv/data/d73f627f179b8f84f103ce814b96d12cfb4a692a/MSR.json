@@ -1,0 +1,72 @@
+{
+  "alpha2Code": "MS",
+  "alpha3Code": "MSR",
+  "altSpellings": [
+    "MS"
+  ],
+  "area": 102.0,
+  "borders": [],
+  "callingCodes": [
+    "1664"
+  ],
+  "capital": "Plymouth",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Montserratian",
+  "flag": "https://restcountries.eu/data/msr.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    16.75,
+    -62.2
+  ],
+  "name": "Montserrat",
+  "nativeName": "Montserrat",
+  "numericCode": "500",
+  "population": 4922,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "CARICOM",
+      "name": "Caribbean Community",
+      "otherAcronyms": [],
+      "otherNames": [
+        "Comunidad del Caribe",
+        "Communauté Caribéenne",
+        "Caribische Gemeenschap"
+      ]
+    }
+  ],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".ms"
+  ],
+  "translations": {
+    "br": "Montserrat",
+    "de": "Montserrat",
+    "es": "Montserrat",
+    "fa": "مایوت",
+    "fr": "Montserrat",
+    "hr": "Montserrat",
+    "it": "Montserrat",
+    "ja": "モントセラト",
+    "nl": "Montserrat",
+    "pt": "Monserrate"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "alpha2Code": "HR",
+  "alpha3Code": "HRV",
+  "altSpellings": [
+    "HR",
+    "Hrvatska",
+    "Republic of Croatia",
+    "Republika Hrvatska"
+  ],
+  "area": 56594.0,
+  "borders": [
+    "BIH",
+    "HUN",
+    "MNE",
+    "SRB",
+    "SVN"
+  ],
+  "callingCodes": [
+    "385"
+  ],
+  "capital": "Zagreb",
+  "cioc": "CRO",
+  "currencies": [
+    {
+      "code": "HRK",
+      "name": "Croatian kuna",
+      "symbol": "kn"
+    }
+  ],
+  "demonym": "Croatian",
+  "flag": "https://restcountries.eu/data/hrv.svg",
+  "gini": 33.7,
+  "languages": [
+    {
+      "iso639_1": "hr",
+      "iso639_2": "hrv",
+      "name": "Croatian",
+      "nativeName": "hrvatski jezik"
+    }
+  ],
+  "latlng": [
+    45.16666666,
+    15.5
+  ],
+  "name": "Croatia",
+  "nativeName": "Hrvatska",
+  "numericCode": "191",
+  "population": 4190669,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Southern Europe",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".hr"
+  ],
+  "translations": {
+    "br": "Croácia",
+    "de": "Kroatien",
+    "es": "Croacia",
+    "fa": "کرواسی",
+    "fr": "Croatie",
+    "hr": "Hrvatska",
+    "it": "Croazia",
+    "ja": "クロアチア",
+    "nl": "Kroatië",
+    "pt": "Croácia"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "alpha2Code": "VA",
+  "alpha3Code": "VAT",
+  "altSpellings": [
+    "Sancta Sedes",
+    "Vatican",
+    "The Vatican"
+  ],
+  "area": 0.44,
+  "borders": [
+    "ITA"
+  ],
+  "callingCodes": [
+    "379"
+  ],
+  "capital": "Rome",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "",
+  "flag": "https://restcountries.eu/data/vat.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "la",
+      "iso639_2": "lat",
+      "name": "Latin",
+      "nativeName": "latine"
+    },
+    {
+      "iso639_1": "it",
+      "iso639_2": "ita",
+      "name": "Italian",
+      "nativeName": "Italiano"
+    },
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    },
+    {
+      "iso639_1": "de",
+      "iso639_2": "deu",
+      "name": "German",
+      "nativeName": "Deutsch"
+    }
+  ],
+  "latlng": [
+    41.9,
+    12.45
+  ],
+  "name": "Holy See",
+  "nativeName": "Sancta Sedes",
+  "numericCode": "336",
+  "population": 451,
+  "region": "Europe",
+  "regionalBlocs": [],
+  "subregion": "Southern Europe",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".va"
+  ],
+  "translations": {
+    "br": "Vaticano",
+    "de": "Heiliger Stuhl",
+    "es": "Santa Sede",
+    "fa": "سریر مقدس",
+    "fr": "voir Saint",
+    "hr": "Sveta Stolica",
+    "it": "Santa Sede",
+    "ja": "聖座",
+    "nl": "Heilige Stoel",
+    "pt": "Vaticano"
+  }
+}

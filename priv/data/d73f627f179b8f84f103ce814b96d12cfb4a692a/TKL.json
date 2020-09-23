@@ -1,0 +1,61 @@
+{
+  "alpha2Code": "TK",
+  "alpha3Code": "TKL",
+  "altSpellings": [
+    "TK"
+  ],
+  "area": 12.0,
+  "borders": [],
+  "callingCodes": [
+    "690"
+  ],
+  "capital": "Fakaofo",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "NZD",
+      "name": "New Zealand dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Tokelauan",
+  "flag": "https://restcountries.eu/data/tkl.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    -9.0,
+    -172.0
+  ],
+  "name": "Tokelau",
+  "nativeName": "Tokelau",
+  "numericCode": "772",
+  "population": 1411,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Polynesia",
+  "timezones": [
+    "UTC+13:00"
+  ],
+  "topLevelDomain": [
+    ".tk"
+  ],
+  "translations": {
+    "br": "Tokelau",
+    "de": "Tokelau",
+    "es": "Islas Tokelau",
+    "fa": "توکلائو",
+    "fr": "Tokelau",
+    "hr": "Tokelau",
+    "it": "Isole Tokelau",
+    "ja": "トケラウ",
+    "nl": "Tokelau",
+    "pt": "Toquelau"
+  }
+}

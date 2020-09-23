@@ -1,0 +1,89 @@
+{
+  "alpha2Code": "EG",
+  "alpha3Code": "EGY",
+  "altSpellings": [
+    "EG",
+    "Arab Republic of Egypt"
+  ],
+  "area": 1002450.0,
+  "borders": [
+    "ISR",
+    "LBY",
+    "SDN"
+  ],
+  "callingCodes": [
+    "20"
+  ],
+  "capital": "Cairo",
+  "cioc": "EGY",
+  "currencies": [
+    {
+      "code": "EGP",
+      "name": "Egyptian pound",
+      "symbol": "£"
+    }
+  ],
+  "demonym": "Egyptian",
+  "flag": "https://restcountries.eu/data/egy.svg",
+  "gini": 30.8,
+  "languages": [
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    }
+  ],
+  "latlng": [
+    27.0,
+    30.0
+  ],
+  "name": "Egypt",
+  "nativeName": "مصر‎",
+  "numericCode": "818",
+  "population": 91290000,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    },
+    {
+      "acronym": "AL",
+      "name": "Arab League",
+      "otherAcronyms": [],
+      "otherNames": [
+        "جامعة الدول العربية",
+        "Jāmiʻat ad-Duwal al-ʻArabīyah",
+        "League of Arab States"
+      ]
+    }
+  ],
+  "subregion": "Northern Africa",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".eg"
+  ],
+  "translations": {
+    "br": "Egito",
+    "de": "Ägypten",
+    "es": "Egipto",
+    "fa": "مصر",
+    "fr": "Égypte",
+    "hr": "Egipat",
+    "it": "Egitto",
+    "ja": "エジプト",
+    "nl": "Egypte",
+    "pt": "Egipto"
+  }
+}

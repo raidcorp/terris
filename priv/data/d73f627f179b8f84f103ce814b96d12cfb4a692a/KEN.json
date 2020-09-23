@@ -1,0 +1,88 @@
+{
+  "alpha2Code": "KE",
+  "alpha3Code": "KEN",
+  "altSpellings": [
+    "KE",
+    "Republic of Kenya",
+    "Jamhuri ya Kenya"
+  ],
+  "area": 580367.0,
+  "borders": [
+    "ETH",
+    "SOM",
+    "SSD",
+    "TZA",
+    "UGA"
+  ],
+  "callingCodes": [
+    "254"
+  ],
+  "capital": "Nairobi",
+  "cioc": "KEN",
+  "currencies": [
+    {
+      "code": "KES",
+      "name": "Kenyan shilling",
+      "symbol": "Sh"
+    }
+  ],
+  "demonym": "Kenyan",
+  "flag": "https://restcountries.eu/data/ken.svg",
+  "gini": 47.7,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "sw",
+      "iso639_2": "swa",
+      "name": "Swahili",
+      "nativeName": "Kiswahili"
+    }
+  ],
+  "latlng": [
+    1.0,
+    38.0
+  ],
+  "name": "Kenya",
+  "nativeName": "Kenya",
+  "numericCode": "404",
+  "population": 47251000,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Eastern Africa",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "topLevelDomain": [
+    ".ke"
+  ],
+  "translations": {
+    "br": "Quênia",
+    "de": "Kenia",
+    "es": "Kenia",
+    "fa": "کنیا",
+    "fr": "Kenya",
+    "hr": "Kenija",
+    "it": "Kenya",
+    "ja": "ケニア",
+    "nl": "Kenia",
+    "pt": "Quénia"
+  }
+}

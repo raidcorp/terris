@@ -1,0 +1,77 @@
+{
+  "alpha2Code": "MM",
+  "alpha3Code": "MMR",
+  "altSpellings": [
+    "MM",
+    "Burma",
+    "Republic of the Union of Myanmar",
+    "Pyidaunzu Thanmăda Myăma Nainngandaw"
+  ],
+  "area": 676578.0,
+  "borders": [
+    "BGD",
+    "CHN",
+    "IND",
+    "LAO",
+    "THA"
+  ],
+  "callingCodes": [
+    "95"
+  ],
+  "capital": "Naypyidaw",
+  "cioc": "MYA",
+  "currencies": [
+    {
+      "code": "MMK",
+      "name": "Burmese kyat",
+      "symbol": "Ks"
+    }
+  ],
+  "demonym": "Burmese",
+  "flag": "https://restcountries.eu/data/mmr.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "my",
+      "iso639_2": "mya",
+      "name": "Burmese",
+      "nativeName": "ဗမာစာ"
+    }
+  ],
+  "latlng": [
+    22.0,
+    98.0
+  ],
+  "name": "Myanmar",
+  "nativeName": "Myanma",
+  "numericCode": "104",
+  "population": 51419420,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "ASEAN",
+      "name": "Association of Southeast Asian Nations",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "South-Eastern Asia",
+  "timezones": [
+    "UTC+06:30"
+  ],
+  "topLevelDomain": [
+    ".mm"
+  ],
+  "translations": {
+    "br": "Myanmar",
+    "de": "Myanmar",
+    "es": "Myanmar",
+    "fa": "میانمار",
+    "fr": "Myanmar",
+    "hr": "Mijanmar",
+    "it": "Birmania",
+    "ja": "ミャンマー",
+    "nl": "Myanmar",
+    "pt": "Myanmar"
+  }
+}

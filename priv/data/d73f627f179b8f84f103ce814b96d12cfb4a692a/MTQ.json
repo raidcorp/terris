@@ -1,0 +1,61 @@
+{
+  "alpha2Code": "MQ",
+  "alpha3Code": "MTQ",
+  "altSpellings": [
+    "MQ"
+  ],
+  "area": null,
+  "borders": [],
+  "callingCodes": [
+    "596"
+  ],
+  "capital": "Fort-de-France",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "French",
+  "flag": "https://restcountries.eu/data/mtq.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    14.666667,
+    -61.0
+  ],
+  "name": "Martinique",
+  "nativeName": "Martinique",
+  "numericCode": "474",
+  "population": 378243,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".mq"
+  ],
+  "translations": {
+    "br": "Martinica",
+    "de": "Martinique",
+    "es": "Martinica",
+    "fa": "مونتسرات",
+    "fr": "Martinique",
+    "hr": "Martinique",
+    "it": "Martinica",
+    "ja": "マルティニーク",
+    "nl": "Martinique",
+    "pt": "Martinica"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "alpha2Code": "CI",
+  "alpha3Code": "CIV",
+  "altSpellings": [
+    "CI",
+    "Ivory Coast",
+    "Republic of Côte d'Ivoire",
+    "République de Côte d'Ivoire"
+  ],
+  "area": 322463.0,
+  "borders": [
+    "BFA",
+    "GHA",
+    "GIN",
+    "LBR",
+    "MLI"
+  ],
+  "callingCodes": [
+    "225"
+  ],
+  "capital": "Yamoussoukro",
+  "cioc": "CIV",
+  "currencies": [
+    {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "Ivorian",
+  "flag": "https://restcountries.eu/data/civ.svg",
+  "gini": 41.5,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    8.0,
+    -5.0
+  ],
+  "name": "Côte d'Ivoire",
+  "nativeName": "Côte d'Ivoire",
+  "numericCode": "384",
+  "population": 22671331,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Western Africa",
+  "timezones": [
+    "UTC"
+  ],
+  "topLevelDomain": [
+    ".ci"
+  ],
+  "translations": {
+    "br": "Costa do Marfim",
+    "de": "Elfenbeinküste",
+    "es": "Costa de Marfil",
+    "fa": "ساحل عاج",
+    "fr": "Côte d'Ivoire",
+    "hr": "Obala Bjelokosti",
+    "it": "Costa D'Avorio",
+    "ja": "コートジボワール",
+    "nl": "Ivoorkust",
+    "pt": "Costa do Marfim"
+  }
+}

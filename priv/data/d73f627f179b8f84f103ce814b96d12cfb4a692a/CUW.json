@@ -1,0 +1,78 @@
+{
+  "alpha2Code": "CW",
+  "alpha3Code": "CUW",
+  "altSpellings": [
+    "CW",
+    "Curacao",
+    "Kòrsou",
+    "Country of Curaçao",
+    "Land Curaçao",
+    "Pais Kòrsou"
+  ],
+  "area": 444.0,
+  "borders": [],
+  "callingCodes": [
+    "599"
+  ],
+  "capital": "Willemstad",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "ANG",
+      "name": "Netherlands Antillean guilder",
+      "symbol": "ƒ"
+    }
+  ],
+  "demonym": "Dutch",
+  "flag": "https://restcountries.eu/data/cuw.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "nl",
+      "iso639_2": "nld",
+      "name": "Dutch",
+      "nativeName": "Nederlands"
+    },
+    {
+      "iso639_1": "pa",
+      "iso639_2": "pan",
+      "name": "(Eastern) Punjabi",
+      "nativeName": "ਪੰਜਾਬੀ"
+    },
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    12.116667,
+    -68.933333
+  ],
+  "name": "Curaçao",
+  "nativeName": "Curaçao",
+  "numericCode": "531",
+  "population": 154843,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".cw"
+  ],
+  "translations": {
+    "br": "Curaçao",
+    "de": "Curaçao",
+    "es": null,
+    "fa": "کوراسائو",
+    "fr": "Curaçao",
+    "hr": null,
+    "it": "Curaçao",
+    "ja": null,
+    "nl": "Curaçao",
+    "pt": "Curaçao"
+  }
+}

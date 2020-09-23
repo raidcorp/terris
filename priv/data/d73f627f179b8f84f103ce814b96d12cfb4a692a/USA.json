@@ -1,0 +1,86 @@
+{
+  "alpha2Code": "US",
+  "alpha3Code": "USA",
+  "altSpellings": [
+    "US",
+    "USA",
+    "United States of America"
+  ],
+  "area": 9629091.0,
+  "borders": [
+    "CAN",
+    "MEX"
+  ],
+  "callingCodes": [
+    "1"
+  ],
+  "capital": "Washington, D.C.",
+  "cioc": "USA",
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "American",
+  "flag": "https://restcountries.eu/data/usa.svg",
+  "gini": 48.0,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    38.0,
+    -97.0
+  ],
+  "name": "United States of America",
+  "nativeName": "United States",
+  "numericCode": "840",
+  "population": 323947000,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "NAFTA",
+      "name": "North American Free Trade Agreement",
+      "otherAcronyms": [],
+      "otherNames": [
+        "Tratado de Libre Comercio de América del Norte",
+        "Accord de Libre-échange Nord-Américain"
+      ]
+    }
+  ],
+  "subregion": "Northern America",
+  "timezones": [
+    "UTC-12:00",
+    "UTC-11:00",
+    "UTC-10:00",
+    "UTC-09:00",
+    "UTC-08:00",
+    "UTC-07:00",
+    "UTC-06:00",
+    "UTC-05:00",
+    "UTC-04:00",
+    "UTC+10:00",
+    "UTC+12:00"
+  ],
+  "topLevelDomain": [
+    ".us"
+  ],
+  "translations": {
+    "br": "Estados Unidos",
+    "de": "Vereinigte Staaten von Amerika",
+    "es": "Estados Unidos",
+    "fa": "ایالات متحده آمریکا",
+    "fr": "États-Unis",
+    "hr": "Sjedinjene Američke Države",
+    "it": "Stati Uniti D'America",
+    "ja": "アメリカ合衆国",
+    "nl": "Verenigde Staten",
+    "pt": "Estados Unidos"
+  }
+}

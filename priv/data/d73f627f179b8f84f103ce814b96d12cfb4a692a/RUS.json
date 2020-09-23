@@ -1,0 +1,97 @@
+{
+  "alpha2Code": "RU",
+  "alpha3Code": "RUS",
+  "altSpellings": [
+    "RU",
+    "Rossiya",
+    "Russian Federation",
+    "Российская Федерация",
+    "Rossiyskaya Federatsiya"
+  ],
+  "area": 17124442.0,
+  "borders": [
+    "AZE",
+    "BLR",
+    "CHN",
+    "EST",
+    "FIN",
+    "GEO",
+    "KAZ",
+    "PRK",
+    "LVA",
+    "LTU",
+    "MNG",
+    "NOR",
+    "POL",
+    "UKR"
+  ],
+  "callingCodes": [
+    "7"
+  ],
+  "capital": "Moscow",
+  "cioc": "RUS",
+  "currencies": [
+    {
+      "code": "RUB",
+      "name": "Russian ruble",
+      "symbol": "₽"
+    }
+  ],
+  "demonym": "Russian",
+  "flag": "https://restcountries.eu/data/rus.svg",
+  "gini": 40.1,
+  "languages": [
+    {
+      "iso639_1": "ru",
+      "iso639_2": "rus",
+      "name": "Russian",
+      "nativeName": "Русский"
+    }
+  ],
+  "latlng": [
+    60.0,
+    100.0
+  ],
+  "name": "Russian Federation",
+  "nativeName": "Россия",
+  "numericCode": "643",
+  "population": 146599183,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EEU",
+      "name": "Eurasian Economic Union",
+      "otherAcronyms": [
+        "EAEU"
+      ],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Eastern Europe",
+  "timezones": [
+    "UTC+03:00",
+    "UTC+04:00",
+    "UTC+06:00",
+    "UTC+07:00",
+    "UTC+08:00",
+    "UTC+09:00",
+    "UTC+10:00",
+    "UTC+11:00",
+    "UTC+12:00"
+  ],
+  "topLevelDomain": [
+    ".ru"
+  ],
+  "translations": {
+    "br": "Rússia",
+    "de": "Russland",
+    "es": "Rusia",
+    "fa": "روسیه",
+    "fr": "Russie",
+    "hr": "Rusija",
+    "it": "Russia",
+    "ja": "ロシア連邦",
+    "nl": "Rusland",
+    "pt": "Rússia"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "alpha2Code": "BM",
+  "alpha3Code": "BMU",
+  "altSpellings": [
+    "BM",
+    "The Islands of Bermuda",
+    "The Bermudas",
+    "Somers Isles"
+  ],
+  "area": 54.0,
+  "borders": [],
+  "callingCodes": [
+    "1441"
+  ],
+  "capital": "Hamilton",
+  "cioc": "BER",
+  "currencies": [
+    {
+      "code": "BMD",
+      "name": "Bermudian dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Bermudian",
+  "flag": "https://restcountries.eu/data/bmu.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    32.33333333,
+    -64.75
+  ],
+  "name": "Bermuda",
+  "nativeName": "Bermuda",
+  "numericCode": "060",
+  "population": 61954,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Northern America",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".bm"
+  ],
+  "translations": {
+    "br": "Bermudas",
+    "de": "Bermuda",
+    "es": "Bermudas",
+    "fa": "برمودا",
+    "fr": "Bermudes",
+    "hr": "Bermudi",
+    "it": "Bermuda",
+    "ja": "バミューダ",
+    "nl": "Bermuda",
+    "pt": "Bermudas"
+  }
+}

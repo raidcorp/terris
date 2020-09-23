@@ -1,0 +1,76 @@
+{
+  "alpha2Code": "HU",
+  "alpha3Code": "HUN",
+  "altSpellings": [
+    "HU"
+  ],
+  "area": 93028.0,
+  "borders": [
+    "AUT",
+    "HRV",
+    "ROU",
+    "SRB",
+    "SVK",
+    "SVN",
+    "UKR"
+  ],
+  "callingCodes": [
+    "36"
+  ],
+  "capital": "Budapest",
+  "cioc": "HUN",
+  "currencies": [
+    {
+      "code": "HUF",
+      "name": "Hungarian forint",
+      "symbol": "Ft"
+    }
+  ],
+  "demonym": "Hungarian",
+  "flag": "https://restcountries.eu/data/hun.svg",
+  "gini": 31.2,
+  "languages": [
+    {
+      "iso639_1": "hu",
+      "iso639_2": "hun",
+      "name": "Hungarian",
+      "nativeName": "magyar"
+    }
+  ],
+  "latlng": [
+    47.0,
+    20.0
+  ],
+  "name": "Hungary",
+  "nativeName": "Magyarország",
+  "numericCode": "348",
+  "population": 9823000,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Eastern Europe",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".hu"
+  ],
+  "translations": {
+    "br": "Hungria",
+    "de": "Ungarn",
+    "es": "Hungría",
+    "fa": "مجارستان",
+    "fr": "Hongrie",
+    "hr": "Mađarska",
+    "it": "Ungheria",
+    "ja": "ハンガリー",
+    "nl": "Hongarije",
+    "pt": "Hungria"
+  }
+}

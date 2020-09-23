@@ -1,0 +1,87 @@
+{
+  "alpha2Code": "BF",
+  "alpha3Code": "BFA",
+  "altSpellings": [
+    "BF"
+  ],
+  "area": 272967.0,
+  "borders": [
+    "BEN",
+    "CIV",
+    "GHA",
+    "MLI",
+    "NER",
+    "TGO"
+  ],
+  "callingCodes": [
+    "226"
+  ],
+  "capital": "Ouagadougou",
+  "cioc": "BUR",
+  "currencies": [
+    {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "Burkinabe",
+  "flag": "https://restcountries.eu/data/bfa.svg",
+  "gini": 39.8,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    },
+    {
+      "iso639_1": "ff",
+      "iso639_2": "ful",
+      "name": "Fula",
+      "nativeName": "Fulfulde"
+    }
+  ],
+  "latlng": [
+    13.0,
+    -2.0
+  ],
+  "name": "Burkina Faso",
+  "nativeName": "Burkina Faso",
+  "numericCode": "854",
+  "population": 19034397,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Western Africa",
+  "timezones": [
+    "UTC"
+  ],
+  "topLevelDomain": [
+    ".bf"
+  ],
+  "translations": {
+    "br": "Burkina Faso",
+    "de": "Burkina Faso",
+    "es": "Burkina Faso",
+    "fa": "بورکینافاسو",
+    "fr": "Burkina Faso",
+    "hr": "Burkina Faso",
+    "it": "Burkina Faso",
+    "ja": "ブルキナファソ",
+    "nl": "Burkina Faso",
+    "pt": "Burquina Faso"
+  }
+}

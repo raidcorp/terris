@@ -1,0 +1,72 @@
+{
+  "alpha2Code": "JM",
+  "alpha3Code": "JAM",
+  "altSpellings": [
+    "JM"
+  ],
+  "area": 10991.0,
+  "borders": [],
+  "callingCodes": [
+    "1876"
+  ],
+  "capital": "Kingston",
+  "cioc": "JAM",
+  "currencies": [
+    {
+      "code": "JMD",
+      "name": "Jamaican dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Jamaican",
+  "flag": "https://restcountries.eu/data/jam.svg",
+  "gini": 45.5,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    18.25,
+    -77.5
+  ],
+  "name": "Jamaica",
+  "nativeName": "Jamaica",
+  "numericCode": "388",
+  "population": 2723246,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "CARICOM",
+      "name": "Caribbean Community",
+      "otherAcronyms": [],
+      "otherNames": [
+        "Comunidad del Caribe",
+        "Communauté Caribéenne",
+        "Caribische Gemeenschap"
+      ]
+    }
+  ],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "topLevelDomain": [
+    ".jm"
+  ],
+  "translations": {
+    "br": "Jamaica",
+    "de": "Jamaika",
+    "es": "Jamaica",
+    "fa": "جامائیکا",
+    "fr": "Jamaïque",
+    "hr": "Jamajka",
+    "it": "Giamaica",
+    "ja": "ジャマイカ",
+    "nl": "Jamaica",
+    "pt": "Jamaica"
+  }
+}

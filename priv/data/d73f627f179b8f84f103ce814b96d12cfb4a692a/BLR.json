@@ -1,0 +1,93 @@
+{
+  "alpha2Code": "BY",
+  "alpha3Code": "BLR",
+  "altSpellings": [
+    "BY",
+    "Bielaruś",
+    "Republic of Belarus",
+    "Белоруссия",
+    "Республика Беларусь",
+    "Belorussiya",
+    "Respublika Belarus’"
+  ],
+  "area": 2.076e5,
+  "borders": [
+    "LVA",
+    "LTU",
+    "POL",
+    "RUS",
+    "UKR"
+  ],
+  "callingCodes": [
+    "375"
+  ],
+  "capital": "Minsk",
+  "cioc": "BLR",
+  "currencies": [
+    {
+      "code": "BYN",
+      "name": "New Belarusian ruble",
+      "symbol": "Br"
+    },
+    {
+      "code": "BYR",
+      "name": "Old Belarusian ruble",
+      "symbol": "Br"
+    }
+  ],
+  "demonym": "Belarusian",
+  "flag": "https://restcountries.eu/data/blr.svg",
+  "gini": 26.5,
+  "languages": [
+    {
+      "iso639_1": "be",
+      "iso639_2": "bel",
+      "name": "Belarusian",
+      "nativeName": "беларуская мова"
+    },
+    {
+      "iso639_1": "ru",
+      "iso639_2": "rus",
+      "name": "Russian",
+      "nativeName": "Русский"
+    }
+  ],
+  "latlng": [
+    53.0,
+    28.0
+  ],
+  "name": "Belarus",
+  "nativeName": "Белару́сь",
+  "numericCode": "112",
+  "population": 9498700,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EEU",
+      "name": "Eurasian Economic Union",
+      "otherAcronyms": [
+        "EAEU"
+      ],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Eastern Europe",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "topLevelDomain": [
+    ".by"
+  ],
+  "translations": {
+    "br": "Bielorrússia",
+    "de": "Weißrussland",
+    "es": "Bielorrusia",
+    "fa": "بلاروس",
+    "fr": "Biélorussie",
+    "hr": "Bjelorusija",
+    "it": "Bielorussia",
+    "ja": "ベラルーシ",
+    "nl": "Wit-Rusland",
+    "pt": "Bielorrússia"
+  }
+}

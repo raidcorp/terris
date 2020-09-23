@@ -1,0 +1,64 @@
+{
+  "alpha2Code": "VI",
+  "alpha3Code": "VIR",
+  "altSpellings": [
+    "VI",
+    "USVI",
+    "American Virgin Islands",
+    "U.S. Virgin Islands"
+  ],
+  "area": 346.36,
+  "borders": [],
+  "callingCodes": [
+    "1 340"
+  ],
+  "capital": "Charlotte Amalie",
+  "cioc": "ISV",
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Virgin Islander",
+  "flag": "https://restcountries.eu/data/vir.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    18.34,
+    -64.93
+  ],
+  "name": "Virgin Islands (U.S.)",
+  "nativeName": "Virgin Islands of the United States",
+  "numericCode": "850",
+  "population": 114743,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".vi"
+  ],
+  "translations": {
+    "br": "Ilhas Virgens Americanas",
+    "de": "Amerikanische Jungferninseln",
+    "es": "Islas Vírgenes de los Estados Unidos",
+    "fa": "جزایر ویرجین آمریکا",
+    "fr": "Îles Vierges des États-Unis",
+    "hr": null,
+    "it": "Isole Vergini americane",
+    "ja": "アメリカ領ヴァージン諸島",
+    "nl": "Verenigde Staten Maagdeneilanden",
+    "pt": "Ilhas Virgens Americanas"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "alpha2Code": "HM",
+  "alpha3Code": "HMD",
+  "altSpellings": [
+    "HM"
+  ],
+  "area": 412.0,
+  "borders": [],
+  "callingCodes": [
+    ""
+  ],
+  "capital": "",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Heard and McDonald Islander",
+  "flag": "https://restcountries.eu/data/hmd.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    -53.1,
+    72.51666666
+  ],
+  "name": "Heard Island and McDonald Islands",
+  "nativeName": "Heard Island and McDonald Islands",
+  "numericCode": "334",
+  "population": 0,
+  "region": "",
+  "regionalBlocs": [],
+  "subregion": "",
+  "timezones": [
+    "UTC+05:00"
+  ],
+  "topLevelDomain": [
+    ".hm",
+    ".aq"
+  ],
+  "translations": {
+    "br": "Ilha Heard e Ilhas McDonald",
+    "de": "Heard und die McDonaldinseln",
+    "es": "Islas Heard y McDonald",
+    "fa": "جزیره هرد و جزایر مک‌دونالد",
+    "fr": "Îles Heard-et-MacDonald",
+    "hr": "Otok Heard i otočje McDonald",
+    "it": "Isole Heard e McDonald",
+    "ja": "ハード島とマクドナルド諸島",
+    "nl": "Heard- en McDonaldeilanden",
+    "pt": "Ilha Heard e Ilhas McDonald"
+  }
+}

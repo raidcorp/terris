@@ -1,0 +1,78 @@
+{
+  "alpha2Code": "GH",
+  "alpha3Code": "GHA",
+  "altSpellings": [
+    "GH"
+  ],
+  "area": 238533.0,
+  "borders": [
+    "BFA",
+    "CIV",
+    "TGO"
+  ],
+  "callingCodes": [
+    "233"
+  ],
+  "capital": "Accra",
+  "cioc": "GHA",
+  "currencies": [
+    {
+      "code": "GHS",
+      "name": "Ghanaian cedi",
+      "symbol": "₵"
+    }
+  ],
+  "demonym": "Ghanaian",
+  "flag": "https://restcountries.eu/data/gha.svg",
+  "gini": 42.8,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    8.0,
+    -2.0
+  ],
+  "name": "Ghana",
+  "nativeName": "Ghana",
+  "numericCode": "288",
+  "population": 27670174,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Western Africa",
+  "timezones": [
+    "UTC"
+  ],
+  "topLevelDomain": [
+    ".gh"
+  ],
+  "translations": {
+    "br": "Gana",
+    "de": "Ghana",
+    "es": "Ghana",
+    "fa": "غنا",
+    "fr": "Ghana",
+    "hr": "Gana",
+    "it": "Ghana",
+    "ja": "ガーナ",
+    "nl": "Ghana",
+    "pt": "Gana"
+  }
+}

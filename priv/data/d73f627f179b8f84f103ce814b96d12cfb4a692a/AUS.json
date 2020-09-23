@@ -1,0 +1,68 @@
+{
+  "alpha2Code": "AU",
+  "alpha3Code": "AUS",
+  "altSpellings": [
+    "AU"
+  ],
+  "area": 7692024.0,
+  "borders": [],
+  "callingCodes": [
+    "61"
+  ],
+  "capital": "Canberra",
+  "cioc": "AUS",
+  "currencies": [
+    {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Australian",
+  "flag": "https://restcountries.eu/data/aus.svg",
+  "gini": 30.5,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    -27.0,
+    133.0
+  ],
+  "name": "Australia",
+  "nativeName": "Australia",
+  "numericCode": "036",
+  "population": 24117360,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Australia and New Zealand",
+  "timezones": [
+    "UTC+05:00",
+    "UTC+06:30",
+    "UTC+07:00",
+    "UTC+08:00",
+    "UTC+09:30",
+    "UTC+10:00",
+    "UTC+10:30",
+    "UTC+11:30"
+  ],
+  "topLevelDomain": [
+    ".au"
+  ],
+  "translations": {
+    "br": "Austrália",
+    "de": "Australien",
+    "es": "Australia",
+    "fa": "استرالیا",
+    "fr": "Australie",
+    "hr": "Australija",
+    "it": "Australia",
+    "ja": "オーストラリア",
+    "nl": "Australië",
+    "pt": "Austrália"
+  }
+}

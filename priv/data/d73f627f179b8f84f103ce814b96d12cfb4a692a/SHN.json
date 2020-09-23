@@ -1,0 +1,74 @@
+{
+  "alpha2Code": "SH",
+  "alpha3Code": "SHN",
+  "altSpellings": [
+    "SH"
+  ],
+  "area": null,
+  "borders": [],
+  "callingCodes": [
+    "290"
+  ],
+  "capital": "Jamestown",
+  "cioc": null,
+  "currencies": [
+    {
+      "code": "SHP",
+      "name": "Saint Helena pound",
+      "symbol": "£"
+    }
+  ],
+  "demonym": "Saint Helenian",
+  "flag": "https://restcountries.eu/data/shn.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    -15.95,
+    -5.7
+  ],
+  "name": "Saint Helena, Ascension and Tristan da Cunha",
+  "nativeName": "Saint Helena",
+  "numericCode": "654",
+  "population": 4255,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Western Africa",
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "topLevelDomain": [
+    ".sh"
+  ],
+  "translations": {
+    "br": "Santa Helena",
+    "de": "Sankt Helena",
+    "es": "Santa Helena",
+    "fa": "سنت هلنا، اسنشن و تریستان دا کونا",
+    "fr": "Sainte-Hélène",
+    "hr": "Sveta Helena",
+    "it": "Sant'Elena",
+    "ja": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
+    "nl": "Sint-Helena",
+    "pt": "Santa Helena"
+  }
+}

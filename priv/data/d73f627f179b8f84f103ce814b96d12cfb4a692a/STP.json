@@ -1,0 +1,76 @@
+{
+  "alpha2Code": "ST",
+  "alpha3Code": "STP",
+  "altSpellings": [
+    "ST",
+    "Democratic Republic of São Tomé and Príncipe",
+    "República Democrática de São Tomé e Príncipe"
+  ],
+  "area": 964.0,
+  "borders": [],
+  "callingCodes": [
+    "239"
+  ],
+  "capital": "São Tomé",
+  "cioc": "STP",
+  "currencies": [
+    {
+      "code": "STD",
+      "name": "São Tomé and Príncipe dobra",
+      "symbol": "Db"
+    }
+  ],
+  "demonym": "Sao Tomean",
+  "flag": "https://restcountries.eu/data/stp.svg",
+  "gini": 50.8,
+  "languages": [
+    {
+      "iso639_1": "pt",
+      "iso639_2": "por",
+      "name": "Portuguese",
+      "nativeName": "Português"
+    }
+  ],
+  "latlng": [
+    1.0,
+    7.0
+  ],
+  "name": "Sao Tome and Principe",
+  "nativeName": "São Tomé e Príncipe",
+  "numericCode": "678",
+  "population": 187356,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Middle Africa",
+  "timezones": [
+    "UTC"
+  ],
+  "topLevelDomain": [
+    ".st"
+  ],
+  "translations": {
+    "br": "São Tomé e Príncipe",
+    "de": "São Tomé und Príncipe",
+    "es": "Santo Tomé y Príncipe",
+    "fa": "کواترو دو فرویرو",
+    "fr": "Sao Tomé-et-Principe",
+    "hr": "Sveti Toma i Princip",
+    "it": "São Tomé e Príncipe",
+    "ja": "サントメ・プリンシペ",
+    "nl": "Sao Tomé en Principe",
+    "pt": "São Tomé e Príncipe"
+  }
+}

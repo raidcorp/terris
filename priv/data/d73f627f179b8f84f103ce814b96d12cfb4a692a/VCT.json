@@ -1,0 +1,72 @@
+{
+  "alpha2Code": "VC",
+  "alpha3Code": "VCT",
+  "altSpellings": [
+    "VC"
+  ],
+  "area": 389.0,
+  "borders": [],
+  "callingCodes": [
+    "1784"
+  ],
+  "capital": "Kingstown",
+  "cioc": "VIN",
+  "currencies": [
+    {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Saint Vincentian",
+  "flag": "https://restcountries.eu/data/vct.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    13.25,
+    -61.2
+  ],
+  "name": "Saint Vincent and the Grenadines",
+  "nativeName": "Saint Vincent and the Grenadines",
+  "numericCode": "670",
+  "population": 109991,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "CARICOM",
+      "name": "Caribbean Community",
+      "otherAcronyms": [],
+      "otherNames": [
+        "Comunidad del Caribe",
+        "Communauté Caribéenne",
+        "Caribische Gemeenschap"
+      ]
+    }
+  ],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".vc"
+  ],
+  "translations": {
+    "br": "São Vicente e Granadinas",
+    "de": "Saint Vincent und die Grenadinen",
+    "es": "San Vicente y Granadinas",
+    "fa": "سنت وینسنت و گرنادین‌ها",
+    "fr": "Saint-Vincent-et-les-Grenadines",
+    "hr": "Sveti Vincent i Grenadini",
+    "it": "Saint Vincent e Grenadine",
+    "ja": "セントビンセントおよびグレナディーン諸島",
+    "nl": "Saint Vincent en de Grenadines",
+    "pt": "São Vicente e Granadinas"
+  }
+}

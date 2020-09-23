@@ -1,0 +1,84 @@
+{
+  "alpha2Code": "EH",
+  "alpha3Code": "ESH",
+  "altSpellings": [
+    "EH",
+    "Taneẓroft Tutrimt"
+  ],
+  "area": 2.66e5,
+  "borders": [
+    "DZA",
+    "MRT",
+    "MAR"
+  ],
+  "callingCodes": [
+    "212"
+  ],
+  "capital": "El Aaiún",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "MAD",
+      "name": "Moroccan dirham",
+      "symbol": "د.م."
+    },
+    {
+      "code": "DZD",
+      "name": "Algerian dinar",
+      "symbol": "د.ج"
+    }
+  ],
+  "demonym": "Sahrawi",
+  "flag": "https://restcountries.eu/data/esh.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "es",
+      "iso639_2": "spa",
+      "name": "Spanish",
+      "nativeName": "Español"
+    }
+  ],
+  "latlng": [
+    24.5,
+    -13.0
+  ],
+  "name": "Western Sahara",
+  "nativeName": "الصحراء الغربية",
+  "numericCode": "732",
+  "population": 510713,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Northern Africa",
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "topLevelDomain": [
+    ".eh"
+  ],
+  "translations": {
+    "br": "Saara Ocidental",
+    "de": "Westsahara",
+    "es": "Sahara Occidental",
+    "fa": "جمهوری دموکراتیک عربی صحرا",
+    "fr": "Sahara Occidental",
+    "hr": "Zapadna Sahara",
+    "it": "Sahara Occidentale",
+    "ja": "西サハラ",
+    "nl": "Westelijke Sahara",
+    "pt": "Saara Ocidental"
+  }
+}

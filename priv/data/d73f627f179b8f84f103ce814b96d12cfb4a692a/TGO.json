@@ -1,0 +1,81 @@
+{
+  "alpha2Code": "TG",
+  "alpha3Code": "TGO",
+  "altSpellings": [
+    "TG",
+    "Togolese",
+    "Togolese Republic",
+    "République Togolaise"
+  ],
+  "area": 56785.0,
+  "borders": [
+    "BEN",
+    "BFA",
+    "GHA"
+  ],
+  "callingCodes": [
+    "228"
+  ],
+  "capital": "Lomé",
+  "cioc": "TOG",
+  "currencies": [
+    {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "Togolese",
+  "flag": "https://restcountries.eu/data/tgo.svg",
+  "gini": 34.4,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    8.0,
+    1.16666666
+  ],
+  "name": "Togo",
+  "nativeName": "Togo",
+  "numericCode": "768",
+  "population": 7143000,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Western Africa",
+  "timezones": [
+    "UTC"
+  ],
+  "topLevelDomain": [
+    ".tg"
+  ],
+  "translations": {
+    "br": "Togo",
+    "de": "Togo",
+    "es": "Togo",
+    "fa": "توگو",
+    "fr": "Togo",
+    "hr": "Togo",
+    "it": "Togo",
+    "ja": "トーゴ",
+    "nl": "Togo",
+    "pt": "Togo"
+  }
+}

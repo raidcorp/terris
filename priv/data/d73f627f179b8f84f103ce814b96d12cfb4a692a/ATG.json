@@ -1,0 +1,72 @@
+{
+  "alpha2Code": "AG",
+  "alpha3Code": "ATG",
+  "altSpellings": [
+    "AG"
+  ],
+  "area": 442.0,
+  "borders": [],
+  "callingCodes": [
+    "1268"
+  ],
+  "capital": "Saint John's",
+  "cioc": "ANT",
+  "currencies": [
+    {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Antiguan, Barbudan",
+  "flag": "https://restcountries.eu/data/atg.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    17.05,
+    -61.8
+  ],
+  "name": "Antigua and Barbuda",
+  "nativeName": "Antigua and Barbuda",
+  "numericCode": "028",
+  "population": 86295,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "CARICOM",
+      "name": "Caribbean Community",
+      "otherAcronyms": [],
+      "otherNames": [
+        "Comunidad del Caribe",
+        "Communauté Caribéenne",
+        "Caribische Gemeenschap"
+      ]
+    }
+  ],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".ag"
+  ],
+  "translations": {
+    "br": "Antígua e Barbuda",
+    "de": "Antigua und Barbuda",
+    "es": "Antigua y Barbuda",
+    "fa": "آنتیگوا و باربودا",
+    "fr": "Antigua-et-Barbuda",
+    "hr": "Antigva i Barbuda",
+    "it": "Antigua e Barbuda",
+    "ja": "アンティグア・バーブーダ",
+    "nl": "Antigua en Barbuda",
+    "pt": "Antígua e Barbuda"
+  }
+}

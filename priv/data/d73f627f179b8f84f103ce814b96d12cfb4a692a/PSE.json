@@ -1,0 +1,78 @@
+{
+  "alpha2Code": "PS",
+  "alpha3Code": "PSE",
+  "altSpellings": [
+    "PS",
+    "State of Palestine",
+    "Dawlat Filasṭin"
+  ],
+  "area": null,
+  "borders": [
+    "ISR",
+    "EGY",
+    "JOR"
+  ],
+  "callingCodes": [
+    "970"
+  ],
+  "capital": "Ramallah",
+  "cioc": "PLE",
+  "currencies": [
+    {
+      "code": "ILS",
+      "name": "Israeli new sheqel",
+      "symbol": "₪"
+    }
+  ],
+  "demonym": "Palestinian",
+  "flag": "https://restcountries.eu/data/pse.svg",
+  "gini": 35.5,
+  "languages": [
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    }
+  ],
+  "latlng": [
+    31.9,
+    35.2
+  ],
+  "name": "Palestine, State of",
+  "nativeName": "فلسطين",
+  "numericCode": "275",
+  "population": 4682467,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "AL",
+      "name": "Arab League",
+      "otherAcronyms": [],
+      "otherNames": [
+        "جامعة الدول العربية",
+        "Jāmiʻat ad-Duwal al-ʻArabīyah",
+        "League of Arab States"
+      ]
+    }
+  ],
+  "subregion": "Western Asia",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".ps"
+  ],
+  "translations": {
+    "br": "Palestina",
+    "de": "Palästina",
+    "es": "Palestina",
+    "fa": "فلسطین",
+    "fr": "Palestine",
+    "hr": "Palestina",
+    "it": "Palestina",
+    "ja": "パレスチナ",
+    "nl": "Palestijnse gebieden",
+    "pt": "Palestina"
+  }
+}

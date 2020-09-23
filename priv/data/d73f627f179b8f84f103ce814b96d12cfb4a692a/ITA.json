@@ -1,0 +1,77 @@
+{
+  "alpha2Code": "IT",
+  "alpha3Code": "ITA",
+  "altSpellings": [
+    "IT",
+    "Italian Republic",
+    "Repubblica italiana"
+  ],
+  "area": 301336.0,
+  "borders": [
+    "AUT",
+    "FRA",
+    "SMR",
+    "SVN",
+    "CHE",
+    "VAT"
+  ],
+  "callingCodes": [
+    "39"
+  ],
+  "capital": "Rome",
+  "cioc": "ITA",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "Italian",
+  "flag": "https://restcountries.eu/data/ita.svg",
+  "gini": 36.0,
+  "languages": [
+    {
+      "iso639_1": "it",
+      "iso639_2": "ita",
+      "name": "Italian",
+      "nativeName": "Italiano"
+    }
+  ],
+  "latlng": [
+    42.83333333,
+    12.83333333
+  ],
+  "name": "Italy",
+  "nativeName": "Italia",
+  "numericCode": "380",
+  "population": 60665551,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Southern Europe",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".it"
+  ],
+  "translations": {
+    "br": "Itália",
+    "de": "Italien",
+    "es": "Italia",
+    "fa": "ایتالیا",
+    "fr": "Italie",
+    "hr": "Italija",
+    "it": "Italia",
+    "ja": "イタリア",
+    "nl": "Italië",
+    "pt": "Itália"
+  }
+}

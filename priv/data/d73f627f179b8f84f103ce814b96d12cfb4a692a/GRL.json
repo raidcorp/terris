@@ -1,0 +1,65 @@
+{
+  "alpha2Code": "GL",
+  "alpha3Code": "GRL",
+  "altSpellings": [
+    "GL",
+    "Grønland"
+  ],
+  "area": 2166086.0,
+  "borders": [],
+  "callingCodes": [
+    "299"
+  ],
+  "capital": "Nuuk",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "DKK",
+      "name": "Danish krone",
+      "symbol": "kr"
+    }
+  ],
+  "demonym": "Greenlandic",
+  "flag": "https://restcountries.eu/data/grl.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "kl",
+      "iso639_2": "kal",
+      "name": "Kalaallisut",
+      "nativeName": "kalaallisut"
+    }
+  ],
+  "latlng": [
+    72.0,
+    -40.0
+  ],
+  "name": "Greenland",
+  "nativeName": "Kalaallit Nunaat",
+  "numericCode": "304",
+  "population": 55847,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Northern America",
+  "timezones": [
+    "UTC-04:00",
+    "UTC-03:00",
+    "UTC-01:00",
+    "UTC+00:00"
+  ],
+  "topLevelDomain": [
+    ".gl"
+  ],
+  "translations": {
+    "br": "Groelândia",
+    "de": "Grönland",
+    "es": "Groenlandia",
+    "fa": "گرینلند",
+    "fr": "Groenland",
+    "hr": "Grenland",
+    "it": "Groenlandia",
+    "ja": "グリーンランド",
+    "nl": "Groenland",
+    "pt": "Gronelândia"
+  }
+}

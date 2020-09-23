@@ -1,0 +1,72 @@
+{
+  "alpha2Code": "TM",
+  "alpha3Code": "TKM",
+  "altSpellings": [
+    "TM"
+  ],
+  "area": 4.881e5,
+  "borders": [
+    "AFG",
+    "IRN",
+    "KAZ",
+    "UZB"
+  ],
+  "callingCodes": [
+    "993"
+  ],
+  "capital": "Ashgabat",
+  "cioc": "TKM",
+  "currencies": [
+    {
+      "code": "TMT",
+      "name": "Turkmenistan manat",
+      "symbol": "m"
+    }
+  ],
+  "demonym": "Turkmen",
+  "flag": "https://restcountries.eu/data/tkm.svg",
+  "gini": 40.8,
+  "languages": [
+    {
+      "iso639_1": "tk",
+      "iso639_2": "tuk",
+      "name": "Turkmen",
+      "nativeName": "Türkmen"
+    },
+    {
+      "iso639_1": "ru",
+      "iso639_2": "rus",
+      "name": "Russian",
+      "nativeName": "Русский"
+    }
+  ],
+  "latlng": [
+    40.0,
+    60.0
+  ],
+  "name": "Turkmenistan",
+  "nativeName": "Türkmenistan",
+  "numericCode": "795",
+  "population": 4751120,
+  "region": "Asia",
+  "regionalBlocs": [],
+  "subregion": "Central Asia",
+  "timezones": [
+    "UTC+05:00"
+  ],
+  "topLevelDomain": [
+    ".tm"
+  ],
+  "translations": {
+    "br": "Turcomenistão",
+    "de": "Turkmenistan",
+    "es": "Turkmenistán",
+    "fa": "ترکمنستان",
+    "fr": "Turkménistan",
+    "hr": "Turkmenistan",
+    "it": "Turkmenistan",
+    "ja": "トルクメニスタン",
+    "nl": "Turkmenistan",
+    "pt": "Turquemenistão"
+  }
+}

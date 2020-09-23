@@ -1,0 +1,77 @@
+{
+  "alpha2Code": "ES",
+  "alpha3Code": "ESP",
+  "altSpellings": [
+    "ES",
+    "Kingdom of Spain",
+    "Reino de España"
+  ],
+  "area": 505992.0,
+  "borders": [
+    "AND",
+    "FRA",
+    "GIB",
+    "PRT",
+    "MAR"
+  ],
+  "callingCodes": [
+    "34"
+  ],
+  "capital": "Madrid",
+  "cioc": "ESP",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "Spanish",
+  "flag": "https://restcountries.eu/data/esp.svg",
+  "gini": 34.7,
+  "languages": [
+    {
+      "iso639_1": "es",
+      "iso639_2": "spa",
+      "name": "Spanish",
+      "nativeName": "Español"
+    }
+  ],
+  "latlng": [
+    40.0,
+    -4.0
+  ],
+  "name": "Spain",
+  "nativeName": "España",
+  "numericCode": "724",
+  "population": 46438422,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Southern Europe",
+  "timezones": [
+    "UTC",
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".es"
+  ],
+  "translations": {
+    "br": "Espanha",
+    "de": "Spanien",
+    "es": "España",
+    "fa": "اسپانیا",
+    "fr": "Espagne",
+    "hr": "Španjolska",
+    "it": "Spagna",
+    "ja": "スペイン",
+    "nl": "Spanje",
+    "pt": "Espanha"
+  }
+}

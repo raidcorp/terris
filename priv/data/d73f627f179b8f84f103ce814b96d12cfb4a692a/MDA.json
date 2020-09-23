@@ -1,0 +1,73 @@
+{
+  "alpha2Code": "MD",
+  "alpha3Code": "MDA",
+  "altSpellings": [
+    "MD",
+    "Republic of Moldova",
+    "Republica Moldova"
+  ],
+  "area": 33846.0,
+  "borders": [
+    "ROU",
+    "UKR"
+  ],
+  "callingCodes": [
+    "373"
+  ],
+  "capital": "Chișinău",
+  "cioc": "MDA",
+  "currencies": [
+    {
+      "code": "MDL",
+      "name": "Moldovan leu",
+      "symbol": "L"
+    }
+  ],
+  "demonym": "Moldovan",
+  "flag": "https://restcountries.eu/data/mda.svg",
+  "gini": 33.0,
+  "languages": [
+    {
+      "iso639_1": "ro",
+      "iso639_2": "ron",
+      "name": "Romanian",
+      "nativeName": "Română"
+    }
+  ],
+  "latlng": [
+    47.0,
+    29.0
+  ],
+  "name": "Moldova (Republic of)",
+  "nativeName": "Moldova",
+  "numericCode": "498",
+  "population": 3553100,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "CEFTA",
+      "name": "Central European Free Trade Agreement",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Eastern Europe",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".md"
+  ],
+  "translations": {
+    "br": "Moldávia",
+    "de": "Moldawie",
+    "es": "Moldavia",
+    "fa": "مولداوی",
+    "fr": "Moldavie",
+    "hr": "Moldova",
+    "it": "Moldavia",
+    "ja": "モルドバ共和国",
+    "nl": "Moldavië",
+    "pt": "Moldávia"
+  }
+}

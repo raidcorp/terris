@@ -1,0 +1,61 @@
+{
+  "alpha2Code": "NC",
+  "alpha3Code": "NCL",
+  "altSpellings": [
+    "NC"
+  ],
+  "area": 18575.0,
+  "borders": [],
+  "callingCodes": [
+    "687"
+  ],
+  "capital": "Nouméa",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "XPF",
+      "name": "CFP franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "New Caledonian",
+  "flag": "https://restcountries.eu/data/ncl.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    -21.5,
+    165.5
+  ],
+  "name": "New Caledonia",
+  "nativeName": "Nouvelle-Calédonie",
+  "numericCode": "540",
+  "population": 268767,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Melanesia",
+  "timezones": [
+    "UTC+11:00"
+  ],
+  "topLevelDomain": [
+    ".nc"
+  ],
+  "translations": {
+    "br": "Nova Caledônia",
+    "de": "Neukaledonien",
+    "es": "Nueva Caledonia",
+    "fa": "کالدونیای جدید",
+    "fr": "Nouvelle-Calédonie",
+    "hr": "Nova Kaledonija",
+    "it": "Nuova Caledonia",
+    "ja": "ニューカレドニア",
+    "nl": "Nieuw-Caledonië",
+    "pt": "Nova Caledónia"
+  }
+}

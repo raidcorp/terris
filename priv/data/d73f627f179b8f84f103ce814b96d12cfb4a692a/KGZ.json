@@ -1,0 +1,85 @@
+{
+  "alpha2Code": "KG",
+  "alpha3Code": "KGZ",
+  "altSpellings": [
+    "KG",
+    "Киргизия",
+    "Kyrgyz Republic",
+    "Кыргыз Республикасы",
+    "Kyrgyz Respublikasy"
+  ],
+  "area": 199951.0,
+  "borders": [
+    "CHN",
+    "KAZ",
+    "TJK",
+    "UZB"
+  ],
+  "callingCodes": [
+    "996"
+  ],
+  "capital": "Bishkek",
+  "cioc": "KGZ",
+  "currencies": [
+    {
+      "code": "KGS",
+      "name": "Kyrgyzstani som",
+      "symbol": "с"
+    }
+  ],
+  "demonym": "Kirghiz",
+  "flag": "https://restcountries.eu/data/kgz.svg",
+  "gini": 36.2,
+  "languages": [
+    {
+      "iso639_1": "ky",
+      "iso639_2": "kir",
+      "name": "Kyrgyz",
+      "nativeName": "Кыргызча"
+    },
+    {
+      "iso639_1": "ru",
+      "iso639_2": "rus",
+      "name": "Russian",
+      "nativeName": "Русский"
+    }
+  ],
+  "latlng": [
+    41.0,
+    75.0
+  ],
+  "name": "Kyrgyzstan",
+  "nativeName": "Кыргызстан",
+  "numericCode": "417",
+  "population": 6047800,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "EEU",
+      "name": "Eurasian Economic Union",
+      "otherAcronyms": [
+        "EAEU"
+      ],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Central Asia",
+  "timezones": [
+    "UTC+06:00"
+  ],
+  "topLevelDomain": [
+    ".kg"
+  ],
+  "translations": {
+    "br": "Quirguistão",
+    "de": "Kirgisistan",
+    "es": "Kirguizistán",
+    "fa": "قرقیزستان",
+    "fr": "Kirghizistan",
+    "hr": "Kirgistan",
+    "it": "Kirghizistan",
+    "ja": "キルギス",
+    "nl": "Kirgizië",
+    "pt": "Quirguizistão"
+  }
+}

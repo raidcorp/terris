@@ -1,0 +1,70 @@
+{
+  "alpha2Code": "GI",
+  "alpha3Code": "GIB",
+  "altSpellings": [
+    "GI"
+  ],
+  "area": 6.0,
+  "borders": [
+    "ESP"
+  ],
+  "callingCodes": [
+    "350"
+  ],
+  "capital": "Gibraltar",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "GIP",
+      "name": "Gibraltar pound",
+      "symbol": "£"
+    }
+  ],
+  "demonym": "Gibraltar",
+  "flag": "https://restcountries.eu/data/gib.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    36.13333333,
+    -5.35
+  ],
+  "name": "Gibraltar",
+  "nativeName": "Gibraltar",
+  "numericCode": "292",
+  "population": 33140,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Southern Europe",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".gi"
+  ],
+  "translations": {
+    "br": "Gibraltar",
+    "de": "Gibraltar",
+    "es": "Gibraltar",
+    "fa": "جبل‌طارق",
+    "fr": "Gibraltar",
+    "hr": "Gibraltar",
+    "it": "Gibilterra",
+    "ja": "ジブラルタル",
+    "nl": "Gibraltar",
+    "pt": "Gibraltar"
+  }
+}

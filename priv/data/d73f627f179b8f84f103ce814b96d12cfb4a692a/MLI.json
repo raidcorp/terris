@@ -1,0 +1,84 @@
+{
+  "alpha2Code": "ML",
+  "alpha3Code": "MLI",
+  "altSpellings": [
+    "ML",
+    "Republic of Mali",
+    "République du Mali"
+  ],
+  "area": 1240192.0,
+  "borders": [
+    "DZA",
+    "BFA",
+    "GIN",
+    "CIV",
+    "MRT",
+    "NER",
+    "SEN"
+  ],
+  "callingCodes": [
+    "223"
+  ],
+  "capital": "Bamako",
+  "cioc": "MLI",
+  "currencies": [
+    {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "Malian",
+  "flag": "https://restcountries.eu/data/mli.svg",
+  "gini": 33.0,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    17.0,
+    -4.0
+  ],
+  "name": "Mali",
+  "nativeName": "Mali",
+  "numericCode": "466",
+  "population": 18135000,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Western Africa",
+  "timezones": [
+    "UTC"
+  ],
+  "topLevelDomain": [
+    ".ml"
+  ],
+  "translations": {
+    "br": "Mali",
+    "de": "Mali",
+    "es": "Mali",
+    "fa": "مالی",
+    "fr": "Mali",
+    "hr": "Mali",
+    "it": "Mali",
+    "ja": "マリ",
+    "nl": "Mali",
+    "pt": "Mali"
+  }
+}

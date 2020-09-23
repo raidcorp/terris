@@ -1,0 +1,79 @@
+{
+  "alpha2Code": "IE",
+  "alpha3Code": "IRL",
+  "altSpellings": [
+    "IE",
+    "Éire",
+    "Republic of Ireland",
+    "Poblacht na hÉireann"
+  ],
+  "area": 70273.0,
+  "borders": [
+    "GBR"
+  ],
+  "callingCodes": [
+    "353"
+  ],
+  "capital": "Dublin",
+  "cioc": "IRL",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "Irish",
+  "flag": "https://restcountries.eu/data/irl.svg",
+  "gini": 34.3,
+  "languages": [
+    {
+      "iso639_1": "ga",
+      "iso639_2": "gle",
+      "name": "Irish",
+      "nativeName": "Gaeilge"
+    },
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    53.0,
+    -8.0
+  ],
+  "name": "Ireland",
+  "nativeName": "Éire",
+  "numericCode": "372",
+  "population": 6378000,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Northern Europe",
+  "timezones": [
+    "UTC"
+  ],
+  "topLevelDomain": [
+    ".ie"
+  ],
+  "translations": {
+    "br": "Irlanda",
+    "de": "Irland",
+    "es": "Irlanda",
+    "fa": "ایرلند",
+    "fr": "Irlande",
+    "hr": "Irska",
+    "it": "Irlanda",
+    "ja": "アイルランド",
+    "nl": "Ierland",
+    "pt": "Irlanda"
+  }
+}

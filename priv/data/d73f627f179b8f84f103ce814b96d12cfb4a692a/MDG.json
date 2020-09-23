@@ -1,0 +1,83 @@
+{
+  "alpha2Code": "MG",
+  "alpha3Code": "MDG",
+  "altSpellings": [
+    "MG",
+    "Republic of Madagascar",
+    "Repoblikan'i Madagasikara",
+    "République de Madagascar"
+  ],
+  "area": 587041.0,
+  "borders": [],
+  "callingCodes": [
+    "261"
+  ],
+  "capital": "Antananarivo",
+  "cioc": "MAD",
+  "currencies": [
+    {
+      "code": "MGA",
+      "name": "Malagasy ariary",
+      "symbol": "Ar"
+    }
+  ],
+  "demonym": "Malagasy",
+  "flag": "https://restcountries.eu/data/mdg.svg",
+  "gini": 44.1,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    },
+    {
+      "iso639_1": "mg",
+      "iso639_2": "mlg",
+      "name": "Malagasy",
+      "nativeName": "fiteny malagasy"
+    }
+  ],
+  "latlng": [
+    -20.0,
+    47.0
+  ],
+  "name": "Madagascar",
+  "nativeName": "Madagasikara",
+  "numericCode": "450",
+  "population": 22434363,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Eastern Africa",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "topLevelDomain": [
+    ".mg"
+  ],
+  "translations": {
+    "br": "Madagascar",
+    "de": "Madagaskar",
+    "es": "Madagascar",
+    "fa": "ماداگاسکار",
+    "fr": "Madagascar",
+    "hr": "Madagaskar",
+    "it": "Madagascar",
+    "ja": "マダガスカル",
+    "nl": "Madagaskar",
+    "pt": "Madagáscar"
+  }
+}

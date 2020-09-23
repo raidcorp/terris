@@ -1,0 +1,82 @@
+{
+  "alpha2Code": "SN",
+  "alpha3Code": "SEN",
+  "altSpellings": [
+    "SN",
+    "Republic of Senegal",
+    "République du Sénégal"
+  ],
+  "area": 196722.0,
+  "borders": [
+    "GMB",
+    "GIN",
+    "GNB",
+    "MLI",
+    "MRT"
+  ],
+  "callingCodes": [
+    "221"
+  ],
+  "capital": "Dakar",
+  "cioc": "SEN",
+  "currencies": [
+    {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "Senegalese",
+  "flag": "https://restcountries.eu/data/sen.svg",
+  "gini": 39.2,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    14.0,
+    -14.0
+  ],
+  "name": "Senegal",
+  "nativeName": "Sénégal",
+  "numericCode": "686",
+  "population": 14799859,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Western Africa",
+  "timezones": [
+    "UTC"
+  ],
+  "topLevelDomain": [
+    ".sn"
+  ],
+  "translations": {
+    "br": "Senegal",
+    "de": "Senegal",
+    "es": "Senegal",
+    "fa": "سنگال",
+    "fr": "Sénégal",
+    "hr": "Senegal",
+    "it": "Senegal",
+    "ja": "セネガル",
+    "nl": "Senegal",
+    "pt": "Senegal"
+  }
+}

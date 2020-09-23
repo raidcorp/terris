@@ -1,0 +1,76 @@
+{
+  "alpha2Code": "MT",
+  "alpha3Code": "MLT",
+  "altSpellings": [
+    "MT",
+    "Republic of Malta",
+    "Repubblika ta' Malta"
+  ],
+  "area": 316.0,
+  "borders": [],
+  "callingCodes": [
+    "356"
+  ],
+  "capital": "Valletta",
+  "cioc": "MLT",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "Maltese",
+  "flag": "https://restcountries.eu/data/mlt.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "mt",
+      "iso639_2": "mlt",
+      "name": "Maltese",
+      "nativeName": "Malti"
+    },
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    35.83333333,
+    14.58333333
+  ],
+  "name": "Malta",
+  "nativeName": "Malta",
+  "numericCode": "470",
+  "population": 425384,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Southern Europe",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".mt"
+  ],
+  "translations": {
+    "br": "Malta",
+    "de": "Malta",
+    "es": "Malta",
+    "fa": "مالت",
+    "fr": "Malte",
+    "hr": "Malta",
+    "it": "Malta",
+    "ja": "マルタ",
+    "nl": "Malta",
+    "pt": "Malta"
+  }
+}

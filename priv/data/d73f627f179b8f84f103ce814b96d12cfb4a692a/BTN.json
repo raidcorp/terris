@@ -1,0 +1,77 @@
+{
+  "alpha2Code": "BT",
+  "alpha3Code": "BTN",
+  "altSpellings": [
+    "BT",
+    "Kingdom of Bhutan"
+  ],
+  "area": 38394.0,
+  "borders": [
+    "CHN",
+    "IND"
+  ],
+  "callingCodes": [
+    "975"
+  ],
+  "capital": "Thimphu",
+  "cioc": "BHU",
+  "currencies": [
+    {
+      "code": "BTN",
+      "name": "Bhutanese ngultrum",
+      "symbol": "Nu."
+    },
+    {
+      "code": "INR",
+      "name": "Indian rupee",
+      "symbol": "₹"
+    }
+  ],
+  "demonym": "Bhutanese",
+  "flag": "https://restcountries.eu/data/btn.svg",
+  "gini": 38.1,
+  "languages": [
+    {
+      "iso639_1": "dz",
+      "iso639_2": "dzo",
+      "name": "Dzongkha",
+      "nativeName": "རྫོང་ཁ"
+    }
+  ],
+  "latlng": [
+    27.5,
+    90.5
+  ],
+  "name": "Bhutan",
+  "nativeName": "ʼbrug-yul",
+  "numericCode": "064",
+  "population": 775620,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "SAARC",
+      "name": "South Asian Association for Regional Cooperation",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Southern Asia",
+  "timezones": [
+    "UTC+06:00"
+  ],
+  "topLevelDomain": [
+    ".bt"
+  ],
+  "translations": {
+    "br": "Butão",
+    "de": "Bhutan",
+    "es": "Bután",
+    "fa": "بوتان",
+    "fr": "Bhoutan",
+    "hr": "Butan",
+    "it": "Bhutan",
+    "ja": "ブータン",
+    "nl": "Bhutan",
+    "pt": "Butão"
+  }
+}

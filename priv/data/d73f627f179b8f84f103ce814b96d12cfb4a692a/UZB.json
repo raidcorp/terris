@@ -1,0 +1,76 @@
+{
+  "alpha2Code": "UZ",
+  "alpha3Code": "UZB",
+  "altSpellings": [
+    "UZ",
+    "Republic of Uzbekistan",
+    "O‘zbekiston Respublikasi",
+    "Ўзбекистон Республикаси"
+  ],
+  "area": 4.474e5,
+  "borders": [
+    "AFG",
+    "KAZ",
+    "KGZ",
+    "TJK",
+    "TKM"
+  ],
+  "callingCodes": [
+    "998"
+  ],
+  "capital": "Tashkent",
+  "cioc": "UZB",
+  "currencies": [
+    {
+      "code": "UZS",
+      "name": "Uzbekistani so'm",
+      "symbol": null
+    }
+  ],
+  "demonym": "Uzbekistani",
+  "flag": "https://restcountries.eu/data/uzb.svg",
+  "gini": 36.7,
+  "languages": [
+    {
+      "iso639_1": "uz",
+      "iso639_2": "uzb",
+      "name": "Uzbek",
+      "nativeName": "Oʻzbek"
+    },
+    {
+      "iso639_1": "ru",
+      "iso639_2": "rus",
+      "name": "Russian",
+      "nativeName": "Русский"
+    }
+  ],
+  "latlng": [
+    41.0,
+    64.0
+  ],
+  "name": "Uzbekistan",
+  "nativeName": "O‘zbekiston",
+  "numericCode": "860",
+  "population": 31576400,
+  "region": "Asia",
+  "regionalBlocs": [],
+  "subregion": "Central Asia",
+  "timezones": [
+    "UTC+05:00"
+  ],
+  "topLevelDomain": [
+    ".uz"
+  ],
+  "translations": {
+    "br": "Uzbequistão",
+    "de": "Usbekistan",
+    "es": "Uzbekistán",
+    "fa": "ازبکستان",
+    "fr": "Ouzbékistan",
+    "hr": "Uzbekistan",
+    "it": "Uzbekistan",
+    "ja": "ウズベキスタン",
+    "nl": "Oezbekistan",
+    "pt": "Usbequistão"
+  }
+}

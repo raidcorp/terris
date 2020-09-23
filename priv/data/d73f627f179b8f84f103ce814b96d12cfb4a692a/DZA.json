@@ -1,0 +1,94 @@
+{
+  "alpha2Code": "DZ",
+  "alpha3Code": "DZA",
+  "altSpellings": [
+    "DZ",
+    "Dzayer",
+    "Algérie"
+  ],
+  "area": 2381741.0,
+  "borders": [
+    "TUN",
+    "LBY",
+    "NER",
+    "ESH",
+    "MRT",
+    "MLI",
+    "MAR"
+  ],
+  "callingCodes": [
+    "213"
+  ],
+  "capital": "Algiers",
+  "cioc": "ALG",
+  "currencies": [
+    {
+      "code": "DZD",
+      "name": "Algerian dinar",
+      "symbol": "د.ج"
+    }
+  ],
+  "demonym": "Algerian",
+  "flag": "https://restcountries.eu/data/dza.svg",
+  "gini": 35.3,
+  "languages": [
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    }
+  ],
+  "latlng": [
+    28.0,
+    3.0
+  ],
+  "name": "Algeria",
+  "nativeName": "الجزائر",
+  "numericCode": "012",
+  "population": 40400000,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    },
+    {
+      "acronym": "AL",
+      "name": "Arab League",
+      "otherAcronyms": [],
+      "otherNames": [
+        "جامعة الدول العربية",
+        "Jāmiʻat ad-Duwal al-ʻArabīyah",
+        "League of Arab States"
+      ]
+    }
+  ],
+  "subregion": "Northern Africa",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".dz"
+  ],
+  "translations": {
+    "br": "Argélia",
+    "de": "Algerien",
+    "es": "Argelia",
+    "fa": "الجزایر",
+    "fr": "Algérie",
+    "hr": "Alžir",
+    "it": "Algeria",
+    "ja": "アルジェリア",
+    "nl": "Algerije",
+    "pt": "Argélia"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "alpha2Code": "ZW",
+  "alpha3Code": "ZWE",
+  "altSpellings": [
+    "ZW",
+    "Republic of Zimbabwe"
+  ],
+  "area": 390757.0,
+  "borders": [
+    "BWA",
+    "MOZ",
+    "ZAF",
+    "ZMB"
+  ],
+  "callingCodes": [
+    "263"
+  ],
+  "capital": "Harare",
+  "cioc": "ZIM",
+  "currencies": [
+    {
+      "code": "BWP",
+      "name": "Botswana pula",
+      "symbol": "P"
+    },
+    {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "£"
+    },
+    {
+      "code": "CNY",
+      "name": "Chinese yuan",
+      "symbol": "¥"
+    },
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "code": "INR",
+      "name": "Indian rupee",
+      "symbol": "₹"
+    },
+    {
+      "code": "JPY",
+      "name": "Japanese yen",
+      "symbol": "¥"
+    },
+    {
+      "code": "ZAR",
+      "name": "South African rand",
+      "symbol": "Rs"
+    },
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    {
+      "code": "(none)",
+      "name": null,
+      "symbol": null
+    }
+  ],
+  "demonym": "Zimbabwean",
+  "flag": "https://restcountries.eu/data/zwe.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "sn",
+      "iso639_2": "sna",
+      "name": "Shona",
+      "nativeName": "chiShona"
+    },
+    {
+      "iso639_1": "nd",
+      "iso639_2": "nde",
+      "name": "Northern Ndebele",
+      "nativeName": "isiNdebele"
+    }
+  ],
+  "latlng": [
+    -20.0,
+    30.0
+  ],
+  "name": "Zimbabwe",
+  "nativeName": "Zimbabwe",
+  "numericCode": "716",
+  "population": 14240168,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Eastern Africa",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".zw"
+  ],
+  "translations": {
+    "br": "Zimbabwe",
+    "de": "Simbabwe",
+    "es": "Zimbabue",
+    "fa": "زیمباوه",
+    "fr": "Zimbabwe",
+    "hr": "Zimbabve",
+    "it": "Zimbabwe",
+    "ja": "ジンバブエ",
+    "nl": "Zimbabwe",
+    "pt": "Zimbabué"
+  }
+}

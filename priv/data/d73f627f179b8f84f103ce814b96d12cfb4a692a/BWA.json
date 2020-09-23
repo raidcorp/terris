@@ -1,0 +1,87 @@
+{
+  "alpha2Code": "BW",
+  "alpha3Code": "BWA",
+  "altSpellings": [
+    "BW",
+    "Republic of Botswana",
+    "Lefatshe la Botswana"
+  ],
+  "area": 5.82e5,
+  "borders": [
+    "NAM",
+    "ZAF",
+    "ZMB",
+    "ZWE"
+  ],
+  "callingCodes": [
+    "267"
+  ],
+  "capital": "Gaborone",
+  "cioc": "BOT",
+  "currencies": [
+    {
+      "code": "BWP",
+      "name": "Botswana pula",
+      "symbol": "P"
+    }
+  ],
+  "demonym": "Motswana",
+  "flag": "https://restcountries.eu/data/bwa.svg",
+  "gini": 61.0,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "tn",
+      "iso639_2": "tsn",
+      "name": "Tswana",
+      "nativeName": "Setswana"
+    }
+  ],
+  "latlng": [
+    -22.0,
+    24.0
+  ],
+  "name": "Botswana",
+  "nativeName": "Botswana",
+  "numericCode": "072",
+  "population": 2141206,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Southern Africa",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".bw"
+  ],
+  "translations": {
+    "br": "Botsuana",
+    "de": "Botswana",
+    "es": "Botswana",
+    "fa": "بوتسوانا",
+    "fr": "Botswana",
+    "hr": "Bocvana",
+    "it": "Botswana",
+    "ja": "ボツワナ",
+    "nl": "Botswana",
+    "pt": "Botsuana"
+  }
+}

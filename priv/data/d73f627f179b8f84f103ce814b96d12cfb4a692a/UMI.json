@@ -1,0 +1,60 @@
+{
+  "alpha2Code": "UM",
+  "alpha3Code": "UMI",
+  "altSpellings": [
+    "UM"
+  ],
+  "area": null,
+  "borders": [],
+  "callingCodes": [
+    ""
+  ],
+  "capital": "",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "United States Dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "American",
+  "flag": "https://restcountries.eu/data/umi.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [],
+  "name": "United States Minor Outlying Islands",
+  "nativeName": "United States Minor Outlying Islands",
+  "numericCode": "581",
+  "population": 300,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Northern America",
+  "timezones": [
+    "UTC-11:00",
+    "UTC-10:00",
+    "UTC+12:00"
+  ],
+  "topLevelDomain": [
+    ".us"
+  ],
+  "translations": {
+    "br": "Ilhas Menores Distantes dos Estados Unidos",
+    "de": "Kleinere Inselbesitzungen der Vereinigten Staaten",
+    "es": "Islas Ultramarinas Menores de Estados Unidos",
+    "fa": "جزایر کوچک حاشیه‌ای ایالات متحده آمریکا",
+    "fr": "Îles mineures éloignées des États-Unis",
+    "hr": "Mali udaljeni otoci SAD-a",
+    "it": "Isole minori esterne degli Stati Uniti d'America",
+    "ja": "合衆国領有小離島",
+    "nl": "Kleine afgelegen eilanden van de Verenigde Staten",
+    "pt": "Ilhas Menores Distantes dos Estados Unidos"
+  }
+}

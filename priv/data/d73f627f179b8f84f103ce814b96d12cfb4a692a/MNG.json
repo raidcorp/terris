@@ -1,0 +1,65 @@
+{
+  "alpha2Code": "MN",
+  "alpha3Code": "MNG",
+  "altSpellings": [
+    "MN"
+  ],
+  "area": 1564110.0,
+  "borders": [
+    "CHN",
+    "RUS"
+  ],
+  "callingCodes": [
+    "976"
+  ],
+  "capital": "Ulan Bator",
+  "cioc": "MGL",
+  "currencies": [
+    {
+      "code": "MNT",
+      "name": "Mongolian tögrög",
+      "symbol": "₮"
+    }
+  ],
+  "demonym": "Mongolian",
+  "flag": "https://restcountries.eu/data/mng.svg",
+  "gini": 36.5,
+  "languages": [
+    {
+      "iso639_1": "mn",
+      "iso639_2": "mon",
+      "name": "Mongolian",
+      "nativeName": "Монгол хэл"
+    }
+  ],
+  "latlng": [
+    46.0,
+    105.0
+  ],
+  "name": "Mongolia",
+  "nativeName": "Монгол улс",
+  "numericCode": "496",
+  "population": 3093100,
+  "region": "Asia",
+  "regionalBlocs": [],
+  "subregion": "Eastern Asia",
+  "timezones": [
+    "UTC+07:00",
+    "UTC+08:00"
+  ],
+  "topLevelDomain": [
+    ".mn"
+  ],
+  "translations": {
+    "br": "Mongólia",
+    "de": "Mongolei",
+    "es": "Mongolia",
+    "fa": "مغولستان",
+    "fr": "Mongolie",
+    "hr": "Mongolija",
+    "it": "Mongolia",
+    "ja": "モンゴル",
+    "nl": "Mongolië",
+    "pt": "Mongólia"
+  }
+}

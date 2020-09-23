@@ -1,0 +1,61 @@
+{
+  "alpha2Code": "KY",
+  "alpha3Code": "CYM",
+  "altSpellings": [
+    "KY"
+  ],
+  "area": 264.0,
+  "borders": [],
+  "callingCodes": [
+    "1345"
+  ],
+  "capital": "George Town",
+  "cioc": "CAY",
+  "currencies": [
+    {
+      "code": "KYD",
+      "name": "Cayman Islands dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Caymanian",
+  "flag": "https://restcountries.eu/data/cym.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    19.5,
+    -80.5
+  ],
+  "name": "Cayman Islands",
+  "nativeName": "Cayman Islands",
+  "numericCode": "136",
+  "population": 58238,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "topLevelDomain": [
+    ".ky"
+  ],
+  "translations": {
+    "br": "Ilhas Cayman",
+    "de": "Kaimaninseln",
+    "es": "Islas Caimán",
+    "fa": "جزایر کیمن",
+    "fr": "Îles Caïmans",
+    "hr": "Kajmanski otoci",
+    "it": "Isole Cayman",
+    "ja": "ケイマン諸島",
+    "nl": "Caymaneilanden",
+    "pt": "Ilhas Caimão"
+  }
+}

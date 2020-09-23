@@ -1,0 +1,70 @@
+{
+  "alpha2Code": "PR",
+  "alpha3Code": "PRI",
+  "altSpellings": [
+    "PR",
+    "Commonwealth of Puerto Rico",
+    "Estado Libre Asociado de Puerto Rico"
+  ],
+  "area": 8870.0,
+  "borders": [],
+  "callingCodes": [
+    "1787",
+    "1939"
+  ],
+  "capital": "San Juan",
+  "cioc": "PUR",
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Puerto Rican",
+  "flag": "https://restcountries.eu/data/pri.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "es",
+      "iso639_2": "spa",
+      "name": "Spanish",
+      "nativeName": "Español"
+    },
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    18.25,
+    -66.5
+  ],
+  "name": "Puerto Rico",
+  "nativeName": "Puerto Rico",
+  "numericCode": "630",
+  "population": 3474182,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".pr"
+  ],
+  "translations": {
+    "br": "Porto Rico",
+    "de": "Puerto Rico",
+    "es": "Puerto Rico",
+    "fa": "پورتو ریکو",
+    "fr": "Porto Rico",
+    "hr": "Portoriko",
+    "it": "Porto Rico",
+    "ja": "プエルトリコ",
+    "nl": "Puerto Rico",
+    "pt": "Porto Rico"
+  }
+}

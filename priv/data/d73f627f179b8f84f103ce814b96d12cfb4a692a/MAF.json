@@ -1,0 +1,80 @@
+{
+  "alpha2Code": "MF",
+  "alpha3Code": "MAF",
+  "altSpellings": [
+    "MF",
+    "Collectivity of Saint Martin",
+    "Collectivité de Saint-Martin"
+  ],
+  "area": 53.0,
+  "borders": [
+    "SXM",
+    "NLD"
+  ],
+  "callingCodes": [
+    "590"
+  ],
+  "capital": "Marigot",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "Saint Martin Islander",
+  "flag": "https://restcountries.eu/data/maf.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    },
+    {
+      "iso639_1": "nl",
+      "iso639_2": "nld",
+      "name": "Dutch",
+      "nativeName": "Nederlands"
+    }
+  ],
+  "latlng": [
+    18.08333333,
+    -63.95
+  ],
+  "name": "Saint Martin (French part)",
+  "nativeName": "Saint-Martin",
+  "numericCode": "663",
+  "population": 36979,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".mf",
+    ".fr",
+    ".gp"
+  ],
+  "translations": {
+    "br": "Saint Martin",
+    "de": "Saint Martin",
+    "es": "Saint Martin",
+    "fa": "سینت مارتن",
+    "fr": "Saint-Martin",
+    "hr": "Sveti Martin",
+    "it": "Saint Martin",
+    "ja": "サン・マルタン（フランス領）",
+    "nl": "Saint-Martin",
+    "pt": "Ilha São Martinho"
+  }
+}

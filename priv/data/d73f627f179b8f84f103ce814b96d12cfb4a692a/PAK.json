@@ -1,0 +1,82 @@
+{
+  "alpha2Code": "PK",
+  "alpha3Code": "PAK",
+  "altSpellings": [
+    "PK",
+    "Pākistān",
+    "Islamic Republic of Pakistan",
+    "Islāmī Jumhūriya'eh Pākistān"
+  ],
+  "area": 881912.0,
+  "borders": [
+    "AFG",
+    "CHN",
+    "IND",
+    "IRN"
+  ],
+  "callingCodes": [
+    "92"
+  ],
+  "capital": "Islamabad",
+  "cioc": "PAK",
+  "currencies": [
+    {
+      "code": "PKR",
+      "name": "Pakistani rupee",
+      "symbol": "₨"
+    }
+  ],
+  "demonym": "Pakistani",
+  "flag": "https://restcountries.eu/data/pak.svg",
+  "gini": 30.0,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "ur",
+      "iso639_2": "urd",
+      "name": "Urdu",
+      "nativeName": "اردو"
+    }
+  ],
+  "latlng": [
+    30.0,
+    70.0
+  ],
+  "name": "Pakistan",
+  "nativeName": "Pakistan",
+  "numericCode": "586",
+  "population": 194125062,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "SAARC",
+      "name": "South Asian Association for Regional Cooperation",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Southern Asia",
+  "timezones": [
+    "UTC+05:00"
+  ],
+  "topLevelDomain": [
+    ".pk"
+  ],
+  "translations": {
+    "br": "Paquistão",
+    "de": "Pakistan",
+    "es": "Pakistán",
+    "fa": "پاکستان",
+    "fr": "Pakistan",
+    "hr": "Pakistan",
+    "it": "Pakistan",
+    "ja": "パキスタン",
+    "nl": "Pakistan",
+    "pt": "Paquistão"
+  }
+}

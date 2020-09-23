@@ -1,0 +1,78 @@
+{
+  "alpha2Code": "HN",
+  "alpha3Code": "HND",
+  "altSpellings": [
+    "HN",
+    "Republic of Honduras",
+    "República de Honduras"
+  ],
+  "area": 112492.0,
+  "borders": [
+    "GTM",
+    "SLV",
+    "NIC"
+  ],
+  "callingCodes": [
+    "504"
+  ],
+  "capital": "Tegucigalpa",
+  "cioc": "HON",
+  "currencies": [
+    {
+      "code": "HNL",
+      "name": "Honduran lempira",
+      "symbol": "L"
+    }
+  ],
+  "demonym": "Honduran",
+  "flag": "https://restcountries.eu/data/hnd.svg",
+  "gini": 57.0,
+  "languages": [
+    {
+      "iso639_1": "es",
+      "iso639_2": "spa",
+      "name": "Spanish",
+      "nativeName": "Español"
+    }
+  ],
+  "latlng": [
+    15.0,
+    -86.5
+  ],
+  "name": "Honduras",
+  "nativeName": "Honduras",
+  "numericCode": "340",
+  "population": 8576532,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "CAIS",
+      "name": "Central American Integration System",
+      "otherAcronyms": [
+        "SICA"
+      ],
+      "otherNames": [
+        "Sistema de la Integración Centroamericana,"
+      ]
+    }
+  ],
+  "subregion": "Central America",
+  "timezones": [
+    "UTC-06:00"
+  ],
+  "topLevelDomain": [
+    ".hn"
+  ],
+  "translations": {
+    "br": "Honduras",
+    "de": "Honduras",
+    "es": "Honduras",
+    "fa": "هندوراس",
+    "fr": "Honduras",
+    "hr": "Honduras",
+    "it": "Honduras",
+    "ja": "ホンジュラス",
+    "nl": "Honduras",
+    "pt": "Honduras"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "alpha2Code": "CF",
+  "alpha3Code": "CAF",
+  "altSpellings": [
+    "CF",
+    "Central African Republic",
+    "République centrafricaine"
+  ],
+  "area": 622984.0,
+  "borders": [
+    "CMR",
+    "TCD",
+    "COD",
+    "COG",
+    "SSD",
+    "SDN"
+  ],
+  "callingCodes": [
+    "236"
+  ],
+  "capital": "Bangui",
+  "cioc": "CAF",
+  "currencies": [
+    {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "Central African",
+  "flag": "https://restcountries.eu/data/caf.svg",
+  "gini": 56.3,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    },
+    {
+      "iso639_1": "sg",
+      "iso639_2": "sag",
+      "name": "Sango",
+      "nativeName": "yângâ tî sängö"
+    }
+  ],
+  "latlng": [
+    7.0,
+    21.0
+  ],
+  "name": "Central African Republic",
+  "nativeName": "Ködörösêse tî Bêafrîka",
+  "numericCode": "140",
+  "population": 4998000,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Middle Africa",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".cf"
+  ],
+  "translations": {
+    "br": "República Centro-Africana",
+    "de": "Zentralafrikanische Republik",
+    "es": "República Centroafricana",
+    "fa": "جمهوری آفریقای مرکزی",
+    "fr": "République centrafricaine",
+    "hr": "Srednjoafrička Republika",
+    "it": "Repubblica Centrafricana",
+    "ja": "中央アフリカ共和国",
+    "nl": "Centraal-Afrikaanse Republiek",
+    "pt": "República Centro-Africana"
+  }
+}

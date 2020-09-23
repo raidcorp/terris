@@ -1,0 +1,77 @@
+{
+  "alpha2Code": "BN",
+  "alpha3Code": "BRN",
+  "altSpellings": [
+    "BN",
+    "Nation of Brunei",
+    " the Abode of Peace"
+  ],
+  "area": 5765.0,
+  "borders": [
+    "MYS"
+  ],
+  "callingCodes": [
+    "673"
+  ],
+  "capital": "Bandar Seri Begawan",
+  "cioc": "BRU",
+  "currencies": [
+    {
+      "code": "BND",
+      "name": "Brunei dollar",
+      "symbol": "$"
+    },
+    {
+      "code": "SGD",
+      "name": "Singapore dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Bruneian",
+  "flag": "https://restcountries.eu/data/brn.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "ms",
+      "iso639_2": "msa",
+      "name": "Malay",
+      "nativeName": "bahasa Melayu"
+    }
+  ],
+  "latlng": [
+    4.5,
+    114.66666666
+  ],
+  "name": "Brunei Darussalam",
+  "nativeName": "Negara Brunei Darussalam",
+  "numericCode": "096",
+  "population": 411900,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "ASEAN",
+      "name": "Association of Southeast Asian Nations",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "South-Eastern Asia",
+  "timezones": [
+    "UTC+08:00"
+  ],
+  "topLevelDomain": [
+    ".bn"
+  ],
+  "translations": {
+    "br": "Brunei",
+    "de": "Brunei",
+    "es": "Brunei",
+    "fa": "برونئی",
+    "fr": "Brunei",
+    "hr": "Brunej",
+    "it": "Brunei",
+    "ja": "ブルネイ・ダルサラーム",
+    "nl": "Brunei",
+    "pt": "Brunei"
+  }
+}

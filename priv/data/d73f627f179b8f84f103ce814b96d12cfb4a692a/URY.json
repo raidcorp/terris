@@ -1,0 +1,82 @@
+{
+  "alpha2Code": "UY",
+  "alpha3Code": "URY",
+  "altSpellings": [
+    "UY",
+    "Oriental Republic of Uruguay",
+    "República Oriental del Uruguay"
+  ],
+  "area": 181034.0,
+  "borders": [
+    "ARG",
+    "BRA"
+  ],
+  "callingCodes": [
+    "598"
+  ],
+  "capital": "Montevideo",
+  "cioc": "URU",
+  "currencies": [
+    {
+      "code": "UYU",
+      "name": "Uruguayan peso",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Uruguayan",
+  "flag": "https://restcountries.eu/data/ury.svg",
+  "gini": 39.7,
+  "languages": [
+    {
+      "iso639_1": "es",
+      "iso639_2": "spa",
+      "name": "Spanish",
+      "nativeName": "Español"
+    }
+  ],
+  "latlng": [
+    -33.0,
+    -56.0
+  ],
+  "name": "Uruguay",
+  "nativeName": "Uruguay",
+  "numericCode": "858",
+  "population": 3480222,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "USAN",
+      "name": "Union of South American Nations",
+      "otherAcronyms": [
+        "UNASUR",
+        "UNASUL",
+        "UZAN"
+      ],
+      "otherNames": [
+        "Unión de Naciones Suramericanas",
+        "União de Nações Sul-Americanas",
+        "Unie van Zuid-Amerikaanse Naties",
+        "South American Union"
+      ]
+    }
+  ],
+  "subregion": "South America",
+  "timezones": [
+    "UTC-03:00"
+  ],
+  "topLevelDomain": [
+    ".uy"
+  ],
+  "translations": {
+    "br": "Uruguai",
+    "de": "Uruguay",
+    "es": "Uruguay",
+    "fa": "اروگوئه",
+    "fr": "Uruguay",
+    "hr": "Urugvaj",
+    "it": "Uruguay",
+    "ja": "ウルグアイ",
+    "nl": "Uruguay",
+    "pt": "Uruguai"
+  }
+}

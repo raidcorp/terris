@@ -1,0 +1,100 @@
+{
+  "alpha2Code": "SD",
+  "alpha3Code": "SDN",
+  "altSpellings": [
+    "SD",
+    "Republic of the Sudan",
+    "Jumhūrīyat as-Sūdān"
+  ],
+  "area": 1886068.0,
+  "borders": [
+    "CAF",
+    "TCD",
+    "EGY",
+    "ERI",
+    "ETH",
+    "LBY",
+    "SSD"
+  ],
+  "callingCodes": [
+    "249"
+  ],
+  "capital": "Khartoum",
+  "cioc": "SUD",
+  "currencies": [
+    {
+      "code": "SDG",
+      "name": "Sudanese pound",
+      "symbol": "ج.س."
+    }
+  ],
+  "demonym": "Sudanese",
+  "flag": "https://restcountries.eu/data/sdn.svg",
+  "gini": 35.3,
+  "languages": [
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    },
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    15.0,
+    30.0
+  ],
+  "name": "Sudan",
+  "nativeName": "السودان",
+  "numericCode": "729",
+  "population": 39598700,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    },
+    {
+      "acronym": "AL",
+      "name": "Arab League",
+      "otherAcronyms": [],
+      "otherNames": [
+        "جامعة الدول العربية",
+        "Jāmiʻat ad-Duwal al-ʻArabīyah",
+        "League of Arab States"
+      ]
+    }
+  ],
+  "subregion": "Northern Africa",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "topLevelDomain": [
+    ".sd"
+  ],
+  "translations": {
+    "br": "Sudão",
+    "de": "Sudan",
+    "es": "Sudán",
+    "fa": "سودان",
+    "fr": "Soudan",
+    "hr": "Sudan",
+    "it": "Sudan",
+    "ja": "スーダン",
+    "nl": "Soedan",
+    "pt": "Sudão"
+  }
+}

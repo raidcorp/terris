@@ -1,0 +1,74 @@
+{
+  "alpha2Code": "VN",
+  "alpha3Code": "VNM",
+  "altSpellings": [
+    "VN",
+    "Socialist Republic of Vietnam",
+    "Cộng hòa Xã hội chủ nghĩa Việt Nam"
+  ],
+  "area": 331212.0,
+  "borders": [
+    "KHM",
+    "CHN",
+    "LAO"
+  ],
+  "callingCodes": [
+    "84"
+  ],
+  "capital": "Hanoi",
+  "cioc": "VIE",
+  "currencies": [
+    {
+      "code": "VND",
+      "name": "Vietnamese đồng",
+      "symbol": "₫"
+    }
+  ],
+  "demonym": "Vietnamese",
+  "flag": "https://restcountries.eu/data/vnm.svg",
+  "gini": 35.6,
+  "languages": [
+    {
+      "iso639_1": "vi",
+      "iso639_2": "vie",
+      "name": "Vietnamese",
+      "nativeName": "Tiếng Việt"
+    }
+  ],
+  "latlng": [
+    16.16666666,
+    107.83333333
+  ],
+  "name": "Viet Nam",
+  "nativeName": "Việt Nam",
+  "numericCode": "704",
+  "population": 92700000,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "ASEAN",
+      "name": "Association of Southeast Asian Nations",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "South-Eastern Asia",
+  "timezones": [
+    "UTC+07:00"
+  ],
+  "topLevelDomain": [
+    ".vn"
+  ],
+  "translations": {
+    "br": "Vietnã",
+    "de": "Vietnam",
+    "es": "Vietnam",
+    "fa": "ویتنام",
+    "fr": "Viêt Nam",
+    "hr": "Vijetnam",
+    "it": "Vietnam",
+    "ja": "ベトナム",
+    "nl": "Vietnam",
+    "pt": "Vietname"
+  }
+}

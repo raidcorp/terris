@@ -1,0 +1,63 @@
+{
+  "alpha2Code": "BQ",
+  "alpha3Code": "BES",
+  "altSpellings": [
+    "BQ",
+    "Boneiru"
+  ],
+  "area": 294.0,
+  "borders": [],
+  "callingCodes": [
+    "5997"
+  ],
+  "capital": "Kralendijk",
+  "cioc": null,
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Dutch",
+  "flag": "https://restcountries.eu/data/bes.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "nl",
+      "iso639_2": "nld",
+      "name": "Dutch",
+      "nativeName": "Nederlands"
+    }
+  ],
+  "latlng": [
+    12.15,
+    -68.266667
+  ],
+  "name": "Bonaire, Sint Eustatius and Saba",
+  "nativeName": "Bonaire",
+  "numericCode": "535",
+  "population": 17408,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".an",
+    ".nl"
+  ],
+  "translations": {
+    "br": "Bonaire",
+    "de": "Bonaire, Sint Eustatius und Saba",
+    "es": null,
+    "fa": "بونیر",
+    "fr": "Bonaire, Saint-Eustache et Saba",
+    "hr": null,
+    "it": "Bonaire, Saint-Eustache e Saba",
+    "ja": null,
+    "nl": null,
+    "pt": "Bonaire"
+  }
+}

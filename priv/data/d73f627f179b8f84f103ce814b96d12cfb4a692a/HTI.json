@@ -1,0 +1,83 @@
+{
+  "alpha2Code": "HT",
+  "alpha3Code": "HTI",
+  "altSpellings": [
+    "HT",
+    "Republic of Haiti",
+    "République d'Haïti",
+    "Repiblik Ayiti"
+  ],
+  "area": 27750.0,
+  "borders": [
+    "DOM"
+  ],
+  "callingCodes": [
+    "509"
+  ],
+  "capital": "Port-au-Prince",
+  "cioc": "HAI",
+  "currencies": [
+    {
+      "code": "HTG",
+      "name": "Haitian gourde",
+      "symbol": "G"
+    }
+  ],
+  "demonym": "Haitian",
+  "flag": "https://restcountries.eu/data/hti.svg",
+  "gini": 59.2,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    },
+    {
+      "iso639_1": "ht",
+      "iso639_2": "hat",
+      "name": "Haitian",
+      "nativeName": "Kreyòl ayisyen"
+    }
+  ],
+  "latlng": [
+    19.0,
+    -72.41666666
+  ],
+  "name": "Haiti",
+  "nativeName": "Haïti",
+  "numericCode": "332",
+  "population": 11078033,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "CARICOM",
+      "name": "Caribbean Community",
+      "otherAcronyms": [],
+      "otherNames": [
+        "Comunidad del Caribe",
+        "Communauté Caribéenne",
+        "Caribische Gemeenschap"
+      ]
+    }
+  ],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "topLevelDomain": [
+    ".ht"
+  ],
+  "translations": {
+    "br": "Haiti",
+    "de": "Haiti",
+    "es": "Haiti",
+    "fa": "هائیتی",
+    "fr": "Haïti",
+    "hr": "Haiti",
+    "it": "Haiti",
+    "ja": "ハイチ",
+    "nl": "Haïti",
+    "pt": "Haiti"
+  }
+}

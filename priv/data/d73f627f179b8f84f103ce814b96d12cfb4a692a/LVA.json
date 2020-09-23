@@ -1,0 +1,75 @@
+{
+  "alpha2Code": "LV",
+  "alpha3Code": "LVA",
+  "altSpellings": [
+    "LV",
+    "Republic of Latvia",
+    "Latvijas Republika"
+  ],
+  "area": 64559.0,
+  "borders": [
+    "BLR",
+    "EST",
+    "LTU",
+    "RUS"
+  ],
+  "callingCodes": [
+    "371"
+  ],
+  "capital": "Riga",
+  "cioc": "LAT",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "Latvian",
+  "flag": "https://restcountries.eu/data/lva.svg",
+  "gini": 36.6,
+  "languages": [
+    {
+      "iso639_1": "lv",
+      "iso639_2": "lav",
+      "name": "Latvian",
+      "nativeName": "latviešu valoda"
+    }
+  ],
+  "latlng": [
+    57.0,
+    25.0
+  ],
+  "name": "Latvia",
+  "nativeName": "Latvija",
+  "numericCode": "428",
+  "population": 1961600,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Northern Europe",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".lv"
+  ],
+  "translations": {
+    "br": "Letônia",
+    "de": "Lettland",
+    "es": "Letonia",
+    "fa": "لتونی",
+    "fr": "Lettonie",
+    "hr": "Latvija",
+    "it": "Lettonia",
+    "ja": "ラトビア",
+    "nl": "Letland",
+    "pt": "Letónia"
+  }
+}

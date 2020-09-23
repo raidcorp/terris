@@ -1,0 +1,63 @@
+{
+  "alpha2Code": "WF",
+  "alpha3Code": "WLF",
+  "altSpellings": [
+    "WF",
+    "Territory of the Wallis and Futuna Islands",
+    "Territoire des îles Wallis et Futuna"
+  ],
+  "area": 142.0,
+  "borders": [],
+  "callingCodes": [
+    "681"
+  ],
+  "capital": "Mata-Utu",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "XPF",
+      "name": "CFP franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "Wallis and Futuna Islander",
+  "flag": "https://restcountries.eu/data/wlf.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    -13.3,
+    -176.2
+  ],
+  "name": "Wallis and Futuna",
+  "nativeName": "Wallis et Futuna",
+  "numericCode": "876",
+  "population": 11750,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Polynesia",
+  "timezones": [
+    "UTC+12:00"
+  ],
+  "topLevelDomain": [
+    ".wf"
+  ],
+  "translations": {
+    "br": "Wallis e Futuna",
+    "de": "Wallis und Futuna",
+    "es": "Wallis y Futuna",
+    "fa": "والیس و فوتونا",
+    "fr": "Wallis-et-Futuna",
+    "hr": "Wallis i Fortuna",
+    "it": "Wallis e Futuna",
+    "ja": "ウォリス・フツナ",
+    "nl": "Wallis en Futuna",
+    "pt": "Wallis e Futuna"
+  }
+}

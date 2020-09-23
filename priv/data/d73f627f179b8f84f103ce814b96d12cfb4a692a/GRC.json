@@ -1,0 +1,76 @@
+{
+  "alpha2Code": "GR",
+  "alpha3Code": "GRC",
+  "altSpellings": [
+    "GR",
+    "Elláda",
+    "Hellenic Republic",
+    "Ελληνική Δημοκρατία"
+  ],
+  "area": 131990.0,
+  "borders": [
+    "ALB",
+    "BGR",
+    "TUR",
+    "MKD"
+  ],
+  "callingCodes": [
+    "30"
+  ],
+  "capital": "Athens",
+  "cioc": "GRE",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "Greek",
+  "flag": "https://restcountries.eu/data/grc.svg",
+  "gini": 34.3,
+  "languages": [
+    {
+      "iso639_1": "el",
+      "iso639_2": "ell",
+      "name": "Greek (modern)",
+      "nativeName": "ελληνικά"
+    }
+  ],
+  "latlng": [
+    39.0,
+    22.0
+  ],
+  "name": "Greece",
+  "nativeName": "Ελλάδα",
+  "numericCode": "300",
+  "population": 10858018,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Southern Europe",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".gr"
+  ],
+  "translations": {
+    "br": "Grécia",
+    "de": "Griechenland",
+    "es": "Grecia",
+    "fa": "یونان",
+    "fr": "Grèce",
+    "hr": "Grčka",
+    "it": "Grecia",
+    "ja": "ギリシャ",
+    "nl": "Griekenland",
+    "pt": "Grécia"
+  }
+}

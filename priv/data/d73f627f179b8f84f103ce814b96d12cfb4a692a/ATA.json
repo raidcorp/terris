@@ -1,0 +1,77 @@
+{
+  "alpha2Code": "AQ",
+  "alpha3Code": "ATA",
+  "altSpellings": [],
+  "area": 1.4e7,
+  "borders": [],
+  "callingCodes": [
+    "672"
+  ],
+  "capital": "",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "£"
+    }
+  ],
+  "demonym": "",
+  "flag": "https://restcountries.eu/data/ata.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "ru",
+      "iso639_2": "rus",
+      "name": "Russian",
+      "nativeName": "Русский"
+    }
+  ],
+  "latlng": [
+    -74.65,
+    4.48
+  ],
+  "name": "Antarctica",
+  "nativeName": "Antarctica",
+  "numericCode": "010",
+  "population": 1000,
+  "region": "Polar",
+  "regionalBlocs": [],
+  "subregion": "",
+  "timezones": [
+    "UTC-03:00",
+    "UTC+03:00",
+    "UTC+05:00",
+    "UTC+06:00",
+    "UTC+07:00",
+    "UTC+08:00",
+    "UTC+10:00",
+    "UTC+12:00"
+  ],
+  "topLevelDomain": [
+    ".aq"
+  ],
+  "translations": {
+    "br": "Antártida",
+    "de": "Antarktika",
+    "es": "Antártida",
+    "fa": "جنوبگان",
+    "fr": "Antarctique",
+    "hr": "Antarktika",
+    "it": "Antartide",
+    "ja": "南極大陸",
+    "nl": "Antarctica",
+    "pt": "Antárctida"
+  }
+}

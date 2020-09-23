@@ -1,0 +1,83 @@
+{
+  "alpha2Code": "VE",
+  "alpha3Code": "VEN",
+  "altSpellings": [
+    "VE",
+    "Bolivarian Republic of Venezuela",
+    "República Bolivariana de Venezuela"
+  ],
+  "area": 916445.0,
+  "borders": [
+    "BRA",
+    "COL",
+    "GUY"
+  ],
+  "callingCodes": [
+    "58"
+  ],
+  "capital": "Caracas",
+  "cioc": "VEN",
+  "currencies": [
+    {
+      "code": "VEF",
+      "name": "Venezuelan bolívar",
+      "symbol": "Bs F"
+    }
+  ],
+  "demonym": "Venezuelan",
+  "flag": "https://restcountries.eu/data/ven.svg",
+  "gini": 44.8,
+  "languages": [
+    {
+      "iso639_1": "es",
+      "iso639_2": "spa",
+      "name": "Spanish",
+      "nativeName": "Español"
+    }
+  ],
+  "latlng": [
+    8.0,
+    -66.0
+  ],
+  "name": "Venezuela (Bolivarian Republic of)",
+  "nativeName": "Venezuela",
+  "numericCode": "862",
+  "population": 31028700,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "USAN",
+      "name": "Union of South American Nations",
+      "otherAcronyms": [
+        "UNASUR",
+        "UNASUL",
+        "UZAN"
+      ],
+      "otherNames": [
+        "Unión de Naciones Suramericanas",
+        "União de Nações Sul-Americanas",
+        "Unie van Zuid-Amerikaanse Naties",
+        "South American Union"
+      ]
+    }
+  ],
+  "subregion": "South America",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".ve"
+  ],
+  "translations": {
+    "br": "Venezuela",
+    "de": "Venezuela",
+    "es": "Venezuela",
+    "fa": "ونزوئلا",
+    "fr": "Venezuela",
+    "hr": "Venezuela",
+    "it": "Venezuela",
+    "ja": "ベネズエラ・ボリバル共和国",
+    "nl": "Venezuela",
+    "pt": "Venezuela"
+  }
+}

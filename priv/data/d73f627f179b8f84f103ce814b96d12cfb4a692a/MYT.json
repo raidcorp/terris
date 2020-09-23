@@ -1,0 +1,76 @@
+{
+  "alpha2Code": "YT",
+  "alpha3Code": "MYT",
+  "altSpellings": [
+    "YT",
+    "Department of Mayotte",
+    "Département de Mayotte"
+  ],
+  "area": null,
+  "borders": [],
+  "callingCodes": [
+    "262"
+  ],
+  "capital": "Mamoudzou",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "French",
+  "flag": "https://restcountries.eu/data/myt.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    -12.83333333,
+    45.16666666
+  ],
+  "name": "Mayotte",
+  "nativeName": "Mayotte",
+  "numericCode": "175",
+  "population": 226915,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Eastern Africa",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "topLevelDomain": [
+    ".yt"
+  ],
+  "translations": {
+    "br": "Mayotte",
+    "de": "Mayotte",
+    "es": "Mayotte",
+    "fa": "مایوت",
+    "fr": "Mayotte",
+    "hr": "Mayotte",
+    "it": "Mayotte",
+    "ja": "マヨット",
+    "nl": "Mayotte",
+    "pt": "Mayotte"
+  }
+}

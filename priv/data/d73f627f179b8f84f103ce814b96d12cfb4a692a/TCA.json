@@ -1,0 +1,61 @@
+{
+  "alpha2Code": "TC",
+  "alpha3Code": "TCA",
+  "altSpellings": [
+    "TC"
+  ],
+  "area": 948.0,
+  "borders": [],
+  "callingCodes": [
+    "1649"
+  ],
+  "capital": "Cockburn Town",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Turks and Caicos Islander",
+  "flag": "https://restcountries.eu/data/tca.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    21.75,
+    -71.58333333
+  ],
+  "name": "Turks and Caicos Islands",
+  "nativeName": "Turks and Caicos Islands",
+  "numericCode": "796",
+  "population": 31458,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".tc"
+  ],
+  "translations": {
+    "br": "Ilhas Turcas e Caicos",
+    "de": "Turks- und Caicosinseln",
+    "es": "Islas Turks y Caicos",
+    "fa": "جزایر تورکس و کایکوس",
+    "fr": "Îles Turques-et-Caïques",
+    "hr": "Otoci Turks i Caicos",
+    "it": "Isole Turks e Caicos",
+    "ja": "タークス・カイコス諸島",
+    "nl": "Turks- en Caicoseilanden",
+    "pt": "Ilhas Turcas e Caicos"
+  }
+}

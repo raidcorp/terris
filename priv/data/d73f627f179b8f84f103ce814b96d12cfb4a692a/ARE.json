@@ -1,0 +1,76 @@
+{
+  "alpha2Code": "AE",
+  "alpha3Code": "ARE",
+  "altSpellings": [
+    "AE",
+    "UAE"
+  ],
+  "area": 8.36e4,
+  "borders": [
+    "OMN",
+    "SAU"
+  ],
+  "callingCodes": [
+    "971"
+  ],
+  "capital": "Abu Dhabi",
+  "cioc": "UAE",
+  "currencies": [
+    {
+      "code": "AED",
+      "name": "United Arab Emirates dirham",
+      "symbol": "د.إ"
+    }
+  ],
+  "demonym": "Emirati",
+  "flag": "https://restcountries.eu/data/are.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    }
+  ],
+  "latlng": [
+    24.0,
+    54.0
+  ],
+  "name": "United Arab Emirates",
+  "nativeName": "دولة الإمارات العربية المتحدة",
+  "numericCode": "784",
+  "population": 9856000,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "AL",
+      "name": "Arab League",
+      "otherAcronyms": [],
+      "otherNames": [
+        "جامعة الدول العربية",
+        "Jāmiʻat ad-Duwal al-ʻArabīyah",
+        "League of Arab States"
+      ]
+    }
+  ],
+  "subregion": "Western Asia",
+  "timezones": [
+    "UTC+04"
+  ],
+  "topLevelDomain": [
+    ".ae"
+  ],
+  "translations": {
+    "br": "Emirados árabes Unidos",
+    "de": "Vereinigte Arabische Emirate",
+    "es": "Emiratos Árabes Unidos",
+    "fa": "امارات متحده عربی",
+    "fr": "Émirats arabes unis",
+    "hr": "Ujedinjeni Arapski Emirati",
+    "it": "Emirati Arabi Uniti",
+    "ja": "アラブ首長国連邦",
+    "nl": "Verenigde Arabische Emiraten",
+    "pt": "Emirados árabes Unidos"
+  }
+}

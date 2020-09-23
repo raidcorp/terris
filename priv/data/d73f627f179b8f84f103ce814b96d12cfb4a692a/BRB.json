@@ -1,0 +1,72 @@
+{
+  "alpha2Code": "BB",
+  "alpha3Code": "BRB",
+  "altSpellings": [
+    "BB"
+  ],
+  "area": 430.0,
+  "borders": [],
+  "callingCodes": [
+    "1246"
+  ],
+  "capital": "Bridgetown",
+  "cioc": "BAR",
+  "currencies": [
+    {
+      "code": "BBD",
+      "name": "Barbadian dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Barbadian",
+  "flag": "https://restcountries.eu/data/brb.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    13.16666666,
+    -59.53333333
+  ],
+  "name": "Barbados",
+  "nativeName": "Barbados",
+  "numericCode": "052",
+  "population": 285000,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "CARICOM",
+      "name": "Caribbean Community",
+      "otherAcronyms": [],
+      "otherNames": [
+        "Comunidad del Caribe",
+        "Communauté Caribéenne",
+        "Caribische Gemeenschap"
+      ]
+    }
+  ],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".bb"
+  ],
+  "translations": {
+    "br": "Barbados",
+    "de": "Barbados",
+    "es": "Barbados",
+    "fa": "باربادوس",
+    "fr": "Barbade",
+    "hr": "Barbados",
+    "it": "Barbados",
+    "ja": "バルバドス",
+    "nl": "Barbados",
+    "pt": "Barbados"
+  }
+}

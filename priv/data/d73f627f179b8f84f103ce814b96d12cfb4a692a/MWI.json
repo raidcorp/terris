@@ -1,0 +1,85 @@
+{
+  "alpha2Code": "MW",
+  "alpha3Code": "MWI",
+  "altSpellings": [
+    "MW",
+    "Republic of Malawi"
+  ],
+  "area": 118484.0,
+  "borders": [
+    "MOZ",
+    "TZA",
+    "ZMB"
+  ],
+  "callingCodes": [
+    "265"
+  ],
+  "capital": "Lilongwe",
+  "cioc": "MAW",
+  "currencies": [
+    {
+      "code": "MWK",
+      "name": "Malawian kwacha",
+      "symbol": "MK"
+    }
+  ],
+  "demonym": "Malawian",
+  "flag": "https://restcountries.eu/data/mwi.svg",
+  "gini": 39.0,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "ny",
+      "iso639_2": "nya",
+      "name": "Chichewa",
+      "nativeName": "chiCheŵa"
+    }
+  ],
+  "latlng": [
+    -13.5,
+    34.0
+  ],
+  "name": "Malawi",
+  "nativeName": "Malawi",
+  "numericCode": "454",
+  "population": 16832910,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Eastern Africa",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".mw"
+  ],
+  "translations": {
+    "br": "Malawi",
+    "de": "Malawi",
+    "es": "Malawi",
+    "fa": "مالاوی",
+    "fr": "Malawi",
+    "hr": "Malavi",
+    "it": "Malawi",
+    "ja": "マラウイ",
+    "nl": "Malawi",
+    "pt": "Malávi"
+  }
+}

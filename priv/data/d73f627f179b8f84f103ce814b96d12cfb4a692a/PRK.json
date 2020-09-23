@@ -1,0 +1,68 @@
+{
+  "alpha2Code": "KP",
+  "alpha3Code": "PRK",
+  "altSpellings": [
+    "KP",
+    "Democratic People's Republic of Korea",
+    "조선민주주의인민공화국",
+    "Chosŏn Minjujuŭi Inmin Konghwaguk"
+  ],
+  "area": 120538.0,
+  "borders": [
+    "CHN",
+    "KOR",
+    "RUS"
+  ],
+  "callingCodes": [
+    "850"
+  ],
+  "capital": "Pyongyang",
+  "cioc": "PRK",
+  "currencies": [
+    {
+      "code": "KPW",
+      "name": "North Korean won",
+      "symbol": "₩"
+    }
+  ],
+  "demonym": "North Korean",
+  "flag": "https://restcountries.eu/data/prk.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "ko",
+      "iso639_2": "kor",
+      "name": "Korean",
+      "nativeName": "한국어"
+    }
+  ],
+  "latlng": [
+    40.0,
+    127.0
+  ],
+  "name": "Korea (Democratic People's Republic of)",
+  "nativeName": "북한",
+  "numericCode": "408",
+  "population": 25281000,
+  "region": "Asia",
+  "regionalBlocs": [],
+  "subregion": "Eastern Asia",
+  "timezones": [
+    "UTC+09:00"
+  ],
+  "topLevelDomain": [
+    ".kp"
+  ],
+  "translations": {
+    "br": "Coreia do Norte",
+    "de": "Nordkorea",
+    "es": "Corea del Norte",
+    "fa": "کره جنوبی",
+    "fr": "Corée du Nord",
+    "hr": "Sjeverna Koreja",
+    "it": "Corea del Nord",
+    "ja": "朝鮮民主主義人民共和国",
+    "nl": "Noord-Korea",
+    "pt": "Coreia do Norte"
+  }
+}

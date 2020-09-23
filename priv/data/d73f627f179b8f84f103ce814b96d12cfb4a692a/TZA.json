@@ -1,0 +1,91 @@
+{
+  "alpha2Code": "TZ",
+  "alpha3Code": "TZA",
+  "altSpellings": [
+    "TZ",
+    "United Republic of Tanzania",
+    "Jamhuri ya Muungano wa Tanzania"
+  ],
+  "area": 945087.0,
+  "borders": [
+    "BDI",
+    "COD",
+    "KEN",
+    "MWI",
+    "MOZ",
+    "RWA",
+    "UGA",
+    "ZMB"
+  ],
+  "callingCodes": [
+    "255"
+  ],
+  "capital": "Dodoma",
+  "cioc": "TAN",
+  "currencies": [
+    {
+      "code": "TZS",
+      "name": "Tanzanian shilling",
+      "symbol": "Sh"
+    }
+  ],
+  "demonym": "Tanzanian",
+  "flag": "https://restcountries.eu/data/tza.svg",
+  "gini": 37.6,
+  "languages": [
+    {
+      "iso639_1": "sw",
+      "iso639_2": "swa",
+      "name": "Swahili",
+      "nativeName": "Kiswahili"
+    },
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    -6.0,
+    35.0
+  ],
+  "name": "Tanzania, United Republic of",
+  "nativeName": "Tanzania",
+  "numericCode": "834",
+  "population": 55155000,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Eastern Africa",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "topLevelDomain": [
+    ".tz"
+  ],
+  "translations": {
+    "br": "Tanzânia",
+    "de": "Tansania",
+    "es": "Tanzania",
+    "fa": "تانزانیا",
+    "fr": "Tanzanie",
+    "hr": "Tanzanija",
+    "it": "Tanzania",
+    "ja": "タンザニア",
+    "nl": "Tanzania",
+    "pt": "Tanzânia"
+  }
+}

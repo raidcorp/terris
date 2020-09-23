@@ -1,0 +1,76 @@
+{
+  "alpha2Code": "MK",
+  "alpha3Code": "MKD",
+  "altSpellings": [
+    "MK",
+    "Republic of Macedonia",
+    "Република Македонија"
+  ],
+  "area": 25713.0,
+  "borders": [
+    "ALB",
+    "BGR",
+    "GRC",
+    "KOS",
+    "SRB"
+  ],
+  "callingCodes": [
+    "389"
+  ],
+  "capital": "Skopje",
+  "cioc": "MKD",
+  "currencies": [
+    {
+      "code": "MKD",
+      "name": "Macedonian denar",
+      "symbol": "ден"
+    }
+  ],
+  "demonym": "Macedonian",
+  "flag": "https://restcountries.eu/data/mkd.svg",
+  "gini": 43.2,
+  "languages": [
+    {
+      "iso639_1": "mk",
+      "iso639_2": "mkd",
+      "name": "Macedonian",
+      "nativeName": "македонски јазик"
+    }
+  ],
+  "latlng": [
+    41.83333333,
+    22.0
+  ],
+  "name": "Macedonia (the former Yugoslav Republic of)",
+  "nativeName": "Македонија",
+  "numericCode": "807",
+  "population": 2058539,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "CEFTA",
+      "name": "Central European Free Trade Agreement",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Southern Europe",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".mk"
+  ],
+  "translations": {
+    "br": "Macedônia",
+    "de": "Mazedonien",
+    "es": "Macedonia",
+    "fa": "",
+    "fr": "Macédoine",
+    "hr": "Makedonija",
+    "it": "Macedonia",
+    "ja": "マケドニア旧ユーゴスラビア共和国",
+    "nl": "Macedonië",
+    "pt": "Macedónia"
+  }
+}

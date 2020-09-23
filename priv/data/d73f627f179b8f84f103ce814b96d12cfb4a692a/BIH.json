@@ -1,0 +1,86 @@
+{
+  "alpha2Code": "BA",
+  "alpha3Code": "BIH",
+  "altSpellings": [
+    "BA",
+    "Bosnia-Herzegovina",
+    "Босна и Херцеговина"
+  ],
+  "area": 51209.0,
+  "borders": [
+    "HRV",
+    "MNE",
+    "SRB"
+  ],
+  "callingCodes": [
+    "387"
+  ],
+  "capital": "Sarajevo",
+  "cioc": "BIH",
+  "currencies": [
+    {
+      "code": "BAM",
+      "name": "Bosnia and Herzegovina convertible mark",
+      "symbol": null
+    }
+  ],
+  "demonym": "Bosnian, Herzegovinian",
+  "flag": "https://restcountries.eu/data/bih.svg",
+  "gini": 36.2,
+  "languages": [
+    {
+      "iso639_1": "bs",
+      "iso639_2": "bos",
+      "name": "Bosnian",
+      "nativeName": "bosanski jezik"
+    },
+    {
+      "iso639_1": "hr",
+      "iso639_2": "hrv",
+      "name": "Croatian",
+      "nativeName": "hrvatski jezik"
+    },
+    {
+      "iso639_1": "sr",
+      "iso639_2": "srp",
+      "name": "Serbian",
+      "nativeName": "српски језик"
+    }
+  ],
+  "latlng": [
+    44.0,
+    18.0
+  ],
+  "name": "Bosnia and Herzegovina",
+  "nativeName": "Bosna i Hercegovina",
+  "numericCode": "070",
+  "population": 3531159,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "CEFTA",
+      "name": "Central European Free Trade Agreement",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Southern Europe",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".ba"
+  ],
+  "translations": {
+    "br": "Bósnia e Herzegovina",
+    "de": "Bosnien und Herzegowina",
+    "es": "Bosnia y Herzegovina",
+    "fa": "بوسنی و هرزگوین",
+    "fr": "Bosnie-Herzégovine",
+    "hr": "Bosna i Hercegovina",
+    "it": "Bosnia ed Erzegovina",
+    "ja": "ボスニア・ヘルツェゴビナ",
+    "nl": "Bosnië en Herzegovina",
+    "pt": "Bósnia e Herzegovina"
+  }
+}

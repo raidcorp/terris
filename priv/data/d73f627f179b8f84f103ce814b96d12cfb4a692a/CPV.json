@@ -1,0 +1,76 @@
+{
+  "alpha2Code": "CV",
+  "alpha3Code": "CPV",
+  "altSpellings": [
+    "CV",
+    "Republic of Cabo Verde",
+    "República de Cabo Verde"
+  ],
+  "area": 4033.0,
+  "borders": [],
+  "callingCodes": [
+    "238"
+  ],
+  "capital": "Praia",
+  "cioc": "CPV",
+  "currencies": [
+    {
+      "code": "CVE",
+      "name": "Cape Verdean escudo",
+      "symbol": "Esc"
+    }
+  ],
+  "demonym": "Cape Verdian",
+  "flag": "https://restcountries.eu/data/cpv.svg",
+  "gini": 50.5,
+  "languages": [
+    {
+      "iso639_1": "pt",
+      "iso639_2": "por",
+      "name": "Portuguese",
+      "nativeName": "Português"
+    }
+  ],
+  "latlng": [
+    16.0,
+    -24.0
+  ],
+  "name": "Cabo Verde",
+  "nativeName": "Cabo Verde",
+  "numericCode": "132",
+  "population": 531239,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Western Africa",
+  "timezones": [
+    "UTC-01:00"
+  ],
+  "topLevelDomain": [
+    ".cv"
+  ],
+  "translations": {
+    "br": "Cabo Verde",
+    "de": "Kap Verde",
+    "es": "Cabo Verde",
+    "fa": "کیپ ورد",
+    "fr": "Cap Vert",
+    "hr": "Zelenortska Republika",
+    "it": "Capo Verde",
+    "ja": "カーボベルデ",
+    "nl": "Kaapverdië",
+    "pt": "Cabo Verde"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "alpha2Code": "MX",
+  "alpha3Code": "MEX",
+  "altSpellings": [
+    "MX",
+    "Mexicanos",
+    "United Mexican States",
+    "Estados Unidos Mexicanos"
+  ],
+  "area": 1964375.0,
+  "borders": [
+    "BLZ",
+    "GTM",
+    "USA"
+  ],
+  "callingCodes": [
+    "52"
+  ],
+  "capital": "Mexico City",
+  "cioc": "MEX",
+  "currencies": [
+    {
+      "code": "MXN",
+      "name": "Mexican peso",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Mexican",
+  "flag": "https://restcountries.eu/data/mex.svg",
+  "gini": 47.0,
+  "languages": [
+    {
+      "iso639_1": "es",
+      "iso639_2": "spa",
+      "name": "Spanish",
+      "nativeName": "Español"
+    }
+  ],
+  "latlng": [
+    23.0,
+    -102.0
+  ],
+  "name": "Mexico",
+  "nativeName": "México",
+  "numericCode": "484",
+  "population": 122273473,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "PA",
+      "name": "Pacific Alliance",
+      "otherAcronyms": [],
+      "otherNames": [
+        "Alianza del Pacífico"
+      ]
+    },
+    {
+      "acronym": "NAFTA",
+      "name": "North American Free Trade Agreement",
+      "otherAcronyms": [],
+      "otherNames": [
+        "Tratado de Libre Comercio de América del Norte",
+        "Accord de Libre-échange Nord-Américain"
+      ]
+    }
+  ],
+  "subregion": "Central America",
+  "timezones": [
+    "UTC-08:00",
+    "UTC-07:00",
+    "UTC-06:00"
+  ],
+  "topLevelDomain": [
+    ".mx"
+  ],
+  "translations": {
+    "br": "México",
+    "de": "Mexiko",
+    "es": "México",
+    "fa": "مکزیک",
+    "fr": "Mexique",
+    "hr": "Meksiko",
+    "it": "Messico",
+    "ja": "メキシコ",
+    "nl": "Mexico",
+    "pt": "México"
+  }
+}

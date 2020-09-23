@@ -1,0 +1,75 @@
+{
+  "alpha2Code": "FO",
+  "alpha3Code": "FRO",
+  "altSpellings": [
+    "FO",
+    "Føroyar",
+    "Færøerne"
+  ],
+  "area": 1393.0,
+  "borders": [],
+  "callingCodes": [
+    "298"
+  ],
+  "capital": "Tórshavn",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "DKK",
+      "name": "Danish krone",
+      "symbol": "kr"
+    },
+    {
+      "code": "(none)",
+      "name": "Faroese króna",
+      "symbol": "kr"
+    }
+  ],
+  "demonym": "Faroese",
+  "flag": "https://restcountries.eu/data/fro.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "fo",
+      "iso639_2": "fao",
+      "name": "Faroese",
+      "nativeName": "føroyskt"
+    }
+  ],
+  "latlng": [
+    62.0,
+    -7.0
+  ],
+  "name": "Faroe Islands",
+  "nativeName": "Føroyar",
+  "numericCode": "234",
+  "population": 49376,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Northern Europe",
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "topLevelDomain": [
+    ".fo"
+  ],
+  "translations": {
+    "br": "Ilhas Faroé",
+    "de": "Färöer-Inseln",
+    "es": "Islas Faroe",
+    "fa": "جزایر فارو",
+    "fr": "Îles Féroé",
+    "hr": "Farski Otoci",
+    "it": "Isole Far Oer",
+    "ja": "フェロー諸島",
+    "nl": "Faeröer",
+    "pt": "Ilhas Faroé"
+  }
+}

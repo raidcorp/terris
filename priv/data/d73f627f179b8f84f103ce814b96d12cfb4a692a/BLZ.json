@@ -1,0 +1,91 @@
+{
+  "alpha2Code": "BZ",
+  "alpha3Code": "BLZ",
+  "altSpellings": [
+    "BZ"
+  ],
+  "area": 22966.0,
+  "borders": [
+    "GTM",
+    "MEX"
+  ],
+  "callingCodes": [
+    "501"
+  ],
+  "capital": "Belmopan",
+  "cioc": "BIZ",
+  "currencies": [
+    {
+      "code": "BZD",
+      "name": "Belize dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Belizean",
+  "flag": "https://restcountries.eu/data/blz.svg",
+  "gini": 53.1,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "es",
+      "iso639_2": "spa",
+      "name": "Spanish",
+      "nativeName": "Español"
+    }
+  ],
+  "latlng": [
+    17.25,
+    -88.75
+  ],
+  "name": "Belize",
+  "nativeName": "Belize",
+  "numericCode": "084",
+  "population": 370300,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "CARICOM",
+      "name": "Caribbean Community",
+      "otherAcronyms": [],
+      "otherNames": [
+        "Comunidad del Caribe",
+        "Communauté Caribéenne",
+        "Caribische Gemeenschap"
+      ]
+    },
+    {
+      "acronym": "CAIS",
+      "name": "Central American Integration System",
+      "otherAcronyms": [
+        "SICA"
+      ],
+      "otherNames": [
+        "Sistema de la Integración Centroamericana,"
+      ]
+    }
+  ],
+  "subregion": "Central America",
+  "timezones": [
+    "UTC-06:00"
+  ],
+  "topLevelDomain": [
+    ".bz"
+  ],
+  "translations": {
+    "br": "Belize",
+    "de": "Belize",
+    "es": "Belice",
+    "fa": "بلیز",
+    "fr": "Belize",
+    "hr": "Belize",
+    "it": "Belize",
+    "ja": "ベリーズ",
+    "nl": "Belize",
+    "pt": "Belize"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "alpha2Code": "LR",
+  "alpha3Code": "LBR",
+  "altSpellings": [
+    "LR",
+    "Republic of Liberia"
+  ],
+  "area": 111369.0,
+  "borders": [
+    "GIN",
+    "CIV",
+    "SLE"
+  ],
+  "callingCodes": [
+    "231"
+  ],
+  "capital": "Monrovia",
+  "cioc": "LBR",
+  "currencies": [
+    {
+      "code": "LRD",
+      "name": "Liberian dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Liberian",
+  "flag": "https://restcountries.eu/data/lbr.svg",
+  "gini": 38.2,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    6.5,
+    -9.5
+  ],
+  "name": "Liberia",
+  "nativeName": "Liberia",
+  "numericCode": "430",
+  "population": 4615000,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Western Africa",
+  "timezones": [
+    "UTC"
+  ],
+  "topLevelDomain": [
+    ".lr"
+  ],
+  "translations": {
+    "br": "Libéria",
+    "de": "Liberia",
+    "es": "Liberia",
+    "fa": "لیبریا",
+    "fr": "Liberia",
+    "hr": "Liberija",
+    "it": "Liberia",
+    "ja": "リベリア",
+    "nl": "Liberia",
+    "pt": "Libéria"
+  }
+}

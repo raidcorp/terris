@@ -1,0 +1,83 @@
+{
+  "alpha2Code": "MZ",
+  "alpha3Code": "MOZ",
+  "altSpellings": [
+    "MZ",
+    "Republic of Mozambique",
+    "República de Moçambique"
+  ],
+  "area": 801590.0,
+  "borders": [
+    "MWI",
+    "ZAF",
+    "SWZ",
+    "TZA",
+    "ZMB",
+    "ZWE"
+  ],
+  "callingCodes": [
+    "258"
+  ],
+  "capital": "Maputo",
+  "cioc": "MOZ",
+  "currencies": [
+    {
+      "code": "MZN",
+      "name": "Mozambican metical",
+      "symbol": "MT"
+    }
+  ],
+  "demonym": "Mozambican",
+  "flag": "https://restcountries.eu/data/moz.svg",
+  "gini": 45.7,
+  "languages": [
+    {
+      "iso639_1": "pt",
+      "iso639_2": "por",
+      "name": "Portuguese",
+      "nativeName": "Português"
+    }
+  ],
+  "latlng": [
+    -18.25,
+    35.0
+  ],
+  "name": "Mozambique",
+  "nativeName": "Moçambique",
+  "numericCode": "508",
+  "population": 26423700,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Eastern Africa",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".mz"
+  ],
+  "translations": {
+    "br": "Moçambique",
+    "de": "Mosambik",
+    "es": "Mozambique",
+    "fa": "موزامبیک",
+    "fr": "Mozambique",
+    "hr": "Mozambik",
+    "it": "Mozambico",
+    "ja": "モザンビーク",
+    "nl": "Mozambique",
+    "pt": "Moçambique"
+  }
+}

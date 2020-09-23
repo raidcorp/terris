@@ -1,0 +1,62 @@
+{
+  "alpha2Code": "SJ",
+  "alpha3Code": "SJM",
+  "altSpellings": [
+    "SJ",
+    "Svalbard and Jan Mayen Islands"
+  ],
+  "area": null,
+  "borders": [],
+  "callingCodes": [
+    "4779"
+  ],
+  "capital": "Longyearbyen",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "NOK",
+      "name": "Norwegian krone",
+      "symbol": "kr"
+    }
+  ],
+  "demonym": "Norwegian",
+  "flag": "https://restcountries.eu/data/sjm.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "no",
+      "iso639_2": "nor",
+      "name": "Norwegian",
+      "nativeName": "Norsk"
+    }
+  ],
+  "latlng": [
+    78.0,
+    20.0
+  ],
+  "name": "Svalbard and Jan Mayen",
+  "nativeName": "Svalbard og Jan Mayen",
+  "numericCode": "744",
+  "population": 2562,
+  "region": "Europe",
+  "regionalBlocs": [],
+  "subregion": "Northern Europe",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".sj"
+  ],
+  "translations": {
+    "br": "Svalbard",
+    "de": "Svalbard und Jan Mayen",
+    "es": "Islas Svalbard y Jan Mayen",
+    "fa": "سوالبارد و یان ماین",
+    "fr": "Svalbard et Jan Mayen",
+    "hr": "Svalbard i Jan Mayen",
+    "it": "Svalbard e Jan Mayen",
+    "ja": "スヴァールバル諸島およびヤンマイエン島",
+    "nl": "Svalbard en Jan Mayen",
+    "pt": "Svalbard"
+  }
+}

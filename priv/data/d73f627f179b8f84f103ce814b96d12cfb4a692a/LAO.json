@@ -1,0 +1,78 @@
+{
+  "alpha2Code": "LA",
+  "alpha3Code": "LAO",
+  "altSpellings": [
+    "LA",
+    "Lao",
+    "Laos",
+    "Lao People's Democratic Republic",
+    "Sathalanalat Paxathipatai Paxaxon Lao"
+  ],
+  "area": 2.368e5,
+  "borders": [
+    "MMR",
+    "KHM",
+    "CHN",
+    "THA",
+    "VNM"
+  ],
+  "callingCodes": [
+    "856"
+  ],
+  "capital": "Vientiane",
+  "cioc": "LAO",
+  "currencies": [
+    {
+      "code": "LAK",
+      "name": "Lao kip",
+      "symbol": "₭"
+    }
+  ],
+  "demonym": "Laotian",
+  "flag": "https://restcountries.eu/data/lao.svg",
+  "gini": 36.7,
+  "languages": [
+    {
+      "iso639_1": "lo",
+      "iso639_2": "lao",
+      "name": "Lao",
+      "nativeName": "ພາສາລາວ"
+    }
+  ],
+  "latlng": [
+    18.0,
+    105.0
+  ],
+  "name": "Lao People's Democratic Republic",
+  "nativeName": "ສປປລາວ",
+  "numericCode": "418",
+  "population": 6492400,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "ASEAN",
+      "name": "Association of Southeast Asian Nations",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "South-Eastern Asia",
+  "timezones": [
+    "UTC+07:00"
+  ],
+  "topLevelDomain": [
+    ".la"
+  ],
+  "translations": {
+    "br": "Laos",
+    "de": "Laos",
+    "es": "Laos",
+    "fa": "لائوس",
+    "fr": "Laos",
+    "hr": "Laos",
+    "it": "Laos",
+    "ja": "ラオス人民民主共和国",
+    "nl": "Laos",
+    "pt": "Laos"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "alpha2Code": "BJ",
+  "alpha3Code": "BEN",
+  "altSpellings": [
+    "BJ",
+    "Republic of Benin",
+    "République du Bénin"
+  ],
+  "area": 112622.0,
+  "borders": [
+    "BFA",
+    "NER",
+    "NGA",
+    "TGO"
+  ],
+  "callingCodes": [
+    "229"
+  ],
+  "capital": "Porto-Novo",
+  "cioc": "BEN",
+  "currencies": [
+    {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "Beninese",
+  "flag": "https://restcountries.eu/data/ben.svg",
+  "gini": 38.6,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    9.5,
+    2.25
+  ],
+  "name": "Benin",
+  "nativeName": "Bénin",
+  "numericCode": "204",
+  "population": 10653654,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Western Africa",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".bj"
+  ],
+  "translations": {
+    "br": "Benin",
+    "de": "Benin",
+    "es": "Benín",
+    "fa": "بنین",
+    "fr": "Bénin",
+    "hr": "Benin",
+    "it": "Benin",
+    "ja": "ベナン",
+    "nl": "Benin",
+    "pt": "Benim"
+  }
+}

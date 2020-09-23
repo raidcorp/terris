@@ -1,0 +1,77 @@
+{
+  "alpha2Code": "YE",
+  "alpha3Code": "YEM",
+  "altSpellings": [
+    "YE",
+    "Yemeni Republic",
+    "al-Jumhūriyyah al-Yamaniyyah"
+  ],
+  "area": 527968.0,
+  "borders": [
+    "OMN",
+    "SAU"
+  ],
+  "callingCodes": [
+    "967"
+  ],
+  "capital": "Sana'a",
+  "cioc": "YEM",
+  "currencies": [
+    {
+      "code": "YER",
+      "name": "Yemeni rial",
+      "symbol": "﷼"
+    }
+  ],
+  "demonym": "Yemeni",
+  "flag": "https://restcountries.eu/data/yem.svg",
+  "gini": 37.7,
+  "languages": [
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    }
+  ],
+  "latlng": [
+    15.0,
+    48.0
+  ],
+  "name": "Yemen",
+  "nativeName": "اليَمَن",
+  "numericCode": "887",
+  "population": 27478000,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "AL",
+      "name": "Arab League",
+      "otherAcronyms": [],
+      "otherNames": [
+        "جامعة الدول العربية",
+        "Jāmiʻat ad-Duwal al-ʻArabīyah",
+        "League of Arab States"
+      ]
+    }
+  ],
+  "subregion": "Western Asia",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "topLevelDomain": [
+    ".ye"
+  ],
+  "translations": {
+    "br": "Iêmen",
+    "de": "Jemen",
+    "es": "Yemen",
+    "fa": "یمن",
+    "fr": "Yémen",
+    "hr": "Jemen",
+    "it": "Yemen",
+    "ja": "イエメン",
+    "nl": "Jemen",
+    "pt": "Iémen"
+  }
+}

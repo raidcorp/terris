@@ -1,0 +1,77 @@
+{
+  "alpha2Code": "RO",
+  "alpha3Code": "ROU",
+  "altSpellings": [
+    "RO",
+    "Rumania",
+    "Roumania",
+    "România"
+  ],
+  "area": 238391.0,
+  "borders": [
+    "BGR",
+    "HUN",
+    "MDA",
+    "SRB",
+    "UKR"
+  ],
+  "callingCodes": [
+    "40"
+  ],
+  "capital": "Bucharest",
+  "cioc": "ROU",
+  "currencies": [
+    {
+      "code": "RON",
+      "name": "Romanian leu",
+      "symbol": "lei"
+    }
+  ],
+  "demonym": "Romanian",
+  "flag": "https://restcountries.eu/data/rou.svg",
+  "gini": 30.0,
+  "languages": [
+    {
+      "iso639_1": "ro",
+      "iso639_2": "ron",
+      "name": "Romanian",
+      "nativeName": "Română"
+    }
+  ],
+  "latlng": [
+    46.0,
+    25.0
+  ],
+  "name": "Romania",
+  "nativeName": "România",
+  "numericCode": "642",
+  "population": 19861408,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Eastern Europe",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".ro"
+  ],
+  "translations": {
+    "br": "Romênia",
+    "de": "Rumänien",
+    "es": "Rumania",
+    "fa": "رومانی",
+    "fr": "Roumanie",
+    "hr": "Rumunjska",
+    "it": "Romania",
+    "ja": "ルーマニア",
+    "nl": "Roemenië",
+    "pt": "Roménia"
+  }
+}

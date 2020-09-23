@@ -1,0 +1,62 @@
+{
+  "alpha2Code": "GP",
+  "alpha3Code": "GLP",
+  "altSpellings": [
+    "GP",
+    "Gwadloup"
+  ],
+  "area": null,
+  "borders": [],
+  "callingCodes": [
+    "590"
+  ],
+  "capital": "Basse-Terre",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "Guadeloupian",
+  "flag": "https://restcountries.eu/data/glp.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    16.25,
+    -61.583333
+  ],
+  "name": "Guadeloupe",
+  "nativeName": "Guadeloupe",
+  "numericCode": "312",
+  "population": 400132,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".gp"
+  ],
+  "translations": {
+    "br": "Guadalupe",
+    "de": "Guadeloupe",
+    "es": "Guadalupe",
+    "fa": "جزیره گوادلوپ",
+    "fr": "Guadeloupe",
+    "hr": "Gvadalupa",
+    "it": "Guadeloupa",
+    "ja": "グアドループ",
+    "nl": "Guadeloupe",
+    "pt": "Guadalupe"
+  }
+}

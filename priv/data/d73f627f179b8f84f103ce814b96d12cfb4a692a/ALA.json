@@ -1,0 +1,71 @@
+{
+  "alpha2Code": "AX",
+  "alpha3Code": "ALA",
+  "altSpellings": [
+    "AX",
+    "Aaland",
+    "Aland",
+    "Ahvenanmaa"
+  ],
+  "area": 1580.0,
+  "borders": [],
+  "callingCodes": [
+    "358"
+  ],
+  "capital": "Mariehamn",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "Ålandish",
+  "flag": "https://restcountries.eu/data/ala.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "sv",
+      "iso639_2": "swe",
+      "name": "Swedish",
+      "nativeName": "svenska"
+    }
+  ],
+  "latlng": [
+    60.116667,
+    19.9
+  ],
+  "name": "Åland Islands",
+  "nativeName": "Åland",
+  "numericCode": "248",
+  "population": 28875,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Northern Europe",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".ax"
+  ],
+  "translations": {
+    "br": "Ilhas de Aland",
+    "de": "Åland",
+    "es": "Alandia",
+    "fa": "جزایر الند",
+    "fr": "Åland",
+    "hr": "Ålandski otoci",
+    "it": "Isole Aland",
+    "ja": "オーランド諸島",
+    "nl": "Ålandeilanden",
+    "pt": "Ilhas de Aland"
+  }
+}

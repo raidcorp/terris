@@ -1,0 +1,61 @@
+{
+  "alpha2Code": "AI",
+  "alpha3Code": "AIA",
+  "altSpellings": [
+    "AI"
+  ],
+  "area": 91.0,
+  "borders": [],
+  "callingCodes": [
+    "1264"
+  ],
+  "capital": "The Valley",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Anguillian",
+  "flag": "https://restcountries.eu/data/aia.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    18.25,
+    -63.16666666
+  ],
+  "name": "Anguilla",
+  "nativeName": "Anguilla",
+  "numericCode": "660",
+  "population": 13452,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".ai"
+  ],
+  "translations": {
+    "br": "Anguila",
+    "de": "Anguilla",
+    "es": "Anguilla",
+    "fa": "آنگویلا",
+    "fr": "Anguilla",
+    "hr": "Angvila",
+    "it": "Anguilla",
+    "ja": "アンギラ",
+    "nl": "Anguilla",
+    "pt": "Anguila"
+  }
+}

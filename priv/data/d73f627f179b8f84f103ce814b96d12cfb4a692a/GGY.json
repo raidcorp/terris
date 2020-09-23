@@ -1,0 +1,74 @@
+{
+  "alpha2Code": "GG",
+  "alpha3Code": "GGY",
+  "altSpellings": [
+    "GG",
+    "Bailiwick of Guernsey",
+    "Bailliage de Guernesey"
+  ],
+  "area": 78.0,
+  "borders": [],
+  "callingCodes": [
+    "44"
+  ],
+  "capital": "St. Peter Port",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "£"
+    },
+    {
+      "code": "(none)",
+      "name": "Guernsey pound",
+      "symbol": "£"
+    }
+  ],
+  "demonym": "Channel Islander",
+  "flag": "https://restcountries.eu/data/ggy.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    49.46666666,
+    -2.58333333
+  ],
+  "name": "Guernsey",
+  "nativeName": "Guernsey",
+  "numericCode": "831",
+  "population": 62999,
+  "region": "Europe",
+  "regionalBlocs": [],
+  "subregion": "Northern Europe",
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "topLevelDomain": [
+    ".gg"
+  ],
+  "translations": {
+    "br": "Guernsey",
+    "de": "Guernsey",
+    "es": "Guernsey",
+    "fa": "گرنزی",
+    "fr": "Guernesey",
+    "hr": "Guernsey",
+    "it": "Guernsey",
+    "ja": "ガーンジー",
+    "nl": "Guernsey",
+    "pt": "Guernsey"
+  }
+}

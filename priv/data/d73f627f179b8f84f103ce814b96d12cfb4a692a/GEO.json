@@ -1,0 +1,67 @@
+{
+  "alpha2Code": "GE",
+  "alpha3Code": "GEO",
+  "altSpellings": [
+    "GE",
+    "Sakartvelo"
+  ],
+  "area": 6.97e4,
+  "borders": [
+    "ARM",
+    "AZE",
+    "RUS",
+    "TUR"
+  ],
+  "callingCodes": [
+    "995"
+  ],
+  "capital": "Tbilisi",
+  "cioc": "GEO",
+  "currencies": [
+    {
+      "code": "GEL",
+      "name": "Georgian Lari",
+      "symbol": "ლ"
+    }
+  ],
+  "demonym": "Georgian",
+  "flag": "https://restcountries.eu/data/geo.svg",
+  "gini": 41.3,
+  "languages": [
+    {
+      "iso639_1": "ka",
+      "iso639_2": "kat",
+      "name": "Georgian",
+      "nativeName": "ქართული"
+    }
+  ],
+  "latlng": [
+    42.0,
+    43.5
+  ],
+  "name": "Georgia",
+  "nativeName": "საქართველო",
+  "numericCode": "268",
+  "population": 3720400,
+  "region": "Asia",
+  "regionalBlocs": [],
+  "subregion": "Western Asia",
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "topLevelDomain": [
+    ".ge"
+  ],
+  "translations": {
+    "br": "Geórgia",
+    "de": "Georgien",
+    "es": "Georgia",
+    "fa": "گرجستان",
+    "fr": "Géorgie",
+    "hr": "Gruzija",
+    "it": "Georgia",
+    "ja": "グルジア",
+    "nl": "Georgië",
+    "pt": "Geórgia"
+  }
+}

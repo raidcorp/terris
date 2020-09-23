@@ -1,0 +1,92 @@
+{
+  "alpha2Code": "NA",
+  "alpha3Code": "NAM",
+  "altSpellings": [
+    "NA",
+    "Namibië",
+    "Republic of Namibia"
+  ],
+  "area": 825615.0,
+  "borders": [
+    "AGO",
+    "BWA",
+    "ZAF",
+    "ZMB"
+  ],
+  "callingCodes": [
+    "264"
+  ],
+  "capital": "Windhoek",
+  "cioc": "NAM",
+  "currencies": [
+    {
+      "code": "NAD",
+      "name": "Namibian dollar",
+      "symbol": "$"
+    },
+    {
+      "code": "ZAR",
+      "name": "South African rand",
+      "symbol": "R"
+    }
+  ],
+  "demonym": "Namibian",
+  "flag": "https://restcountries.eu/data/nam.svg",
+  "gini": 63.9,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "af",
+      "iso639_2": "afr",
+      "name": "Afrikaans",
+      "nativeName": "Afrikaans"
+    }
+  ],
+  "latlng": [
+    -22.0,
+    17.0
+  ],
+  "name": "Namibia",
+  "nativeName": "Namibia",
+  "numericCode": "516",
+  "population": 2324388,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Southern Africa",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".na"
+  ],
+  "translations": {
+    "br": "Namíbia",
+    "de": "Namibia",
+    "es": "Namibia",
+    "fa": "نامیبیا",
+    "fr": "Namibie",
+    "hr": "Namibija",
+    "it": "Namibia",
+    "ja": "ナミビア",
+    "nl": "Namibië",
+    "pt": "Namíbia"
+  }
+}

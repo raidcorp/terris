@@ -1,0 +1,83 @@
+{
+  "alpha2Code": "EC",
+  "alpha3Code": "ECU",
+  "altSpellings": [
+    "EC",
+    "Republic of Ecuador",
+    "República del Ecuador"
+  ],
+  "area": 276841.0,
+  "borders": [
+    "COL",
+    "PER"
+  ],
+  "callingCodes": [
+    "593"
+  ],
+  "capital": "Quito",
+  "cioc": "ECU",
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Ecuadorean",
+  "flag": "https://restcountries.eu/data/ecu.svg",
+  "gini": 49.3,
+  "languages": [
+    {
+      "iso639_1": "es",
+      "iso639_2": "spa",
+      "name": "Spanish",
+      "nativeName": "Español"
+    }
+  ],
+  "latlng": [
+    -2.0,
+    -77.5
+  ],
+  "name": "Ecuador",
+  "nativeName": "Ecuador",
+  "numericCode": "218",
+  "population": 16545799,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "USAN",
+      "name": "Union of South American Nations",
+      "otherAcronyms": [
+        "UNASUR",
+        "UNASUL",
+        "UZAN"
+      ],
+      "otherNames": [
+        "Unión de Naciones Suramericanas",
+        "União de Nações Sul-Americanas",
+        "Unie van Zuid-Amerikaanse Naties",
+        "South American Union"
+      ]
+    }
+  ],
+  "subregion": "South America",
+  "timezones": [
+    "UTC-06:00",
+    "UTC-05:00"
+  ],
+  "topLevelDomain": [
+    ".ec"
+  ],
+  "translations": {
+    "br": "Equador",
+    "de": "Ecuador",
+    "es": "Ecuador",
+    "fa": "اکوادور",
+    "fr": "Équateur",
+    "hr": "Ekvador",
+    "it": "Ecuador",
+    "ja": "エクアドル",
+    "nl": "Ecuador",
+    "pt": "Equador"
+  }
+}

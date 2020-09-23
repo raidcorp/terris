@@ -1,0 +1,78 @@
+{
+  "alpha2Code": "FK",
+  "alpha3Code": "FLK",
+  "altSpellings": [
+    "FK",
+    "Islas Malvinas"
+  ],
+  "area": 12173.0,
+  "borders": [],
+  "callingCodes": [
+    "500"
+  ],
+  "capital": "Stanley",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "FKP",
+      "name": "Falkland Islands pound",
+      "symbol": "£"
+    }
+  ],
+  "demonym": "Falkland Islander",
+  "flag": "https://restcountries.eu/data/flk.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    -51.75,
+    -59.0
+  ],
+  "name": "Falkland Islands (Malvinas)",
+  "nativeName": "Falkland Islands",
+  "numericCode": "238",
+  "population": 2563,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "USAN",
+      "name": "Union of South American Nations",
+      "otherAcronyms": [
+        "UNASUR",
+        "UNASUL",
+        "UZAN"
+      ],
+      "otherNames": [
+        "Unión de Naciones Suramericanas",
+        "União de Nações Sul-Americanas",
+        "Unie van Zuid-Amerikaanse Naties",
+        "South American Union"
+      ]
+    }
+  ],
+  "subregion": "South America",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".fk"
+  ],
+  "translations": {
+    "br": "Ilhas Malvinas",
+    "de": "Falklandinseln",
+    "es": "Islas Malvinas",
+    "fa": "جزایر فالکلند",
+    "fr": "Îles Malouines",
+    "hr": "Falklandski Otoci",
+    "it": "Isole Falkland o Isole Malvine",
+    "ja": "フォークランド（マルビナス）諸島",
+    "nl": "Falklandeilanden [Islas Malvinas]",
+    "pt": "Ilhas Falkland"
+  }
+}

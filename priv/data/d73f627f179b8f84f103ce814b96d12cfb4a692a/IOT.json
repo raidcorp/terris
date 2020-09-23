@@ -1,0 +1,74 @@
+{
+  "alpha2Code": "IO",
+  "alpha3Code": "IOT",
+  "altSpellings": [
+    "IO"
+  ],
+  "area": 60.0,
+  "borders": [],
+  "callingCodes": [
+    "246"
+  ],
+  "capital": "Diego Garcia",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Indian",
+  "flag": "https://restcountries.eu/data/iot.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    -6.0,
+    71.5
+  ],
+  "name": "British Indian Ocean Territory",
+  "nativeName": "British Indian Ocean Territory",
+  "numericCode": "086",
+  "population": 3000,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Eastern Africa",
+  "timezones": [
+    "UTC+06:00"
+  ],
+  "topLevelDomain": [
+    ".io"
+  ],
+  "translations": {
+    "br": "Território Britânico do Oceano íÍdico",
+    "de": "Britisches Territorium im Indischen Ozean",
+    "es": "Territorio Británico del Océano Índico",
+    "fa": "قلمرو بریتانیا در اقیانوس هند",
+    "fr": "Territoire britannique de l'océan Indien",
+    "hr": "Britanski Indijskooceanski teritorij",
+    "it": "Territorio britannico dell'oceano indiano",
+    "ja": "イギリス領インド洋地域",
+    "nl": "Britse Gebieden in de Indische Oceaan",
+    "pt": "Território Britânico do Oceano Índico"
+  }
+}

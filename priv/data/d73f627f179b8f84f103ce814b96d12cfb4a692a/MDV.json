@@ -1,0 +1,71 @@
+{
+  "alpha2Code": "MV",
+  "alpha3Code": "MDV",
+  "altSpellings": [
+    "MV",
+    "Maldive Islands",
+    "Republic of the Maldives",
+    "Dhivehi Raajjeyge Jumhooriyya"
+  ],
+  "area": 300.0,
+  "borders": [],
+  "callingCodes": [
+    "960"
+  ],
+  "capital": "Malé",
+  "cioc": "MDV",
+  "currencies": [
+    {
+      "code": "MVR",
+      "name": "Maldivian rufiyaa",
+      "symbol": ".ރ"
+    }
+  ],
+  "demonym": "Maldivan",
+  "flag": "https://restcountries.eu/data/mdv.svg",
+  "gini": 37.4,
+  "languages": [
+    {
+      "iso639_1": "dv",
+      "iso639_2": "div",
+      "name": "Divehi",
+      "nativeName": "ދިވެހި"
+    }
+  ],
+  "latlng": [
+    3.25,
+    73.0
+  ],
+  "name": "Maldives",
+  "nativeName": "Maldives",
+  "numericCode": "462",
+  "population": 344023,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "SAARC",
+      "name": "South Asian Association for Regional Cooperation",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Southern Asia",
+  "timezones": [
+    "UTC+05:00"
+  ],
+  "topLevelDomain": [
+    ".mv"
+  ],
+  "translations": {
+    "br": "Maldivas",
+    "de": "Malediven",
+    "es": "Maldivas",
+    "fa": "مالدیو",
+    "fr": "Maldives",
+    "hr": "Maldivi",
+    "it": "Maldive",
+    "ja": "モルディブ",
+    "nl": "Maldiven",
+    "pt": "Maldivas"
+  }
+}

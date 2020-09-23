@@ -1,0 +1,82 @@
+{
+  "alpha2Code": "SA",
+  "alpha3Code": "SAU",
+  "altSpellings": [
+    "SA",
+    "Kingdom of Saudi Arabia",
+    "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah"
+  ],
+  "area": 2149690.0,
+  "borders": [
+    "IRQ",
+    "JOR",
+    "KWT",
+    "OMN",
+    "QAT",
+    "ARE",
+    "YEM"
+  ],
+  "callingCodes": [
+    "966"
+  ],
+  "capital": "Riyadh",
+  "cioc": "KSA",
+  "currencies": [
+    {
+      "code": "SAR",
+      "name": "Saudi riyal",
+      "symbol": "ر.س"
+    }
+  ],
+  "demonym": "Saudi Arabian",
+  "flag": "https://restcountries.eu/data/sau.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    }
+  ],
+  "latlng": [
+    25.0,
+    45.0
+  ],
+  "name": "Saudi Arabia",
+  "nativeName": "العربية السعودية",
+  "numericCode": "682",
+  "population": 32248200,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "AL",
+      "name": "Arab League",
+      "otherAcronyms": [],
+      "otherNames": [
+        "جامعة الدول العربية",
+        "Jāmiʻat ad-Duwal al-ʻArabīyah",
+        "League of Arab States"
+      ]
+    }
+  ],
+  "subregion": "Western Asia",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "topLevelDomain": [
+    ".sa"
+  ],
+  "translations": {
+    "br": "Arábia Saudita",
+    "de": "Saudi-Arabien",
+    "es": "Arabia Saudí",
+    "fa": "عربستان سعودی",
+    "fr": "Arabie Saoudite",
+    "hr": "Saudijska Arabija",
+    "it": "Arabia Saudita",
+    "ja": "サウジアラビア",
+    "nl": "Saoedi-Arabië",
+    "pt": "Arábia Saudita"
+  }
+}

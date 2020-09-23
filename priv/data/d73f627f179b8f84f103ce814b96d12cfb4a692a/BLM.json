@@ -1,0 +1,64 @@
+{
+  "alpha2Code": "BL",
+  "alpha3Code": "BLM",
+  "altSpellings": [
+    "BL",
+    "St. Barthelemy",
+    "Collectivity of Saint Barthélemy",
+    "Collectivité de Saint-Barthélemy"
+  ],
+  "area": 21.0,
+  "borders": [],
+  "callingCodes": [
+    "590"
+  ],
+  "capital": "Gustavia",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "Saint Barthélemy Islander",
+  "flag": "https://restcountries.eu/data/blm.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    18.5,
+    -63.41666666
+  ],
+  "name": "Saint Barthélemy",
+  "nativeName": "Saint-Barthélemy",
+  "numericCode": "652",
+  "population": 9417,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".bl"
+  ],
+  "translations": {
+    "br": "São Bartolomeu",
+    "de": "Saint-Barthélemy",
+    "es": "San Bartolomé",
+    "fa": "سن-بارتلمی",
+    "fr": "Saint-Barthélemy",
+    "hr": "Saint Barthélemy",
+    "it": "Antille Francesi",
+    "ja": "サン・バルテルミー",
+    "nl": "Saint Barthélemy",
+    "pt": "São Bartolomeu"
+  }
+}

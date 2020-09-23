@@ -1,0 +1,67 @@
+{
+  "alpha2Code": "PN",
+  "alpha3Code": "PCN",
+  "altSpellings": [
+    "PN",
+    "Pitcairn Henderson Ducie and Oeno Islands"
+  ],
+  "area": 47.0,
+  "borders": [],
+  "callingCodes": [
+    "64"
+  ],
+  "capital": "Adamstown",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "NZD",
+      "name": "New Zealand dollar",
+      "symbol": "$"
+    },
+    {
+      "code": null,
+      "name": "Pitcairn Islands dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Pitcairn Islander",
+  "flag": "https://restcountries.eu/data/pcn.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    -25.06666666,
+    -130.1
+  ],
+  "name": "Pitcairn",
+  "nativeName": "Pitcairn Islands",
+  "numericCode": "612",
+  "population": 56,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Polynesia",
+  "timezones": [
+    "UTC-08:00"
+  ],
+  "topLevelDomain": [
+    ".pn"
+  ],
+  "translations": {
+    "br": "Ilhas Pitcairn",
+    "de": "Pitcairn",
+    "es": "Islas Pitcairn",
+    "fa": "پیتکرن",
+    "fr": "Îles Pitcairn",
+    "hr": "Pitcairnovo otočje",
+    "it": "Isole Pitcairn",
+    "ja": "ピトケアン",
+    "nl": "Pitcairneilanden",
+    "pt": "Ilhas Picárnia"
+  }
+}

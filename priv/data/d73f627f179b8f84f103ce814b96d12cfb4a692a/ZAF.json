@@ -1,0 +1,138 @@
+{
+  "alpha2Code": "ZA",
+  "alpha3Code": "ZAF",
+  "altSpellings": [
+    "ZA",
+    "RSA",
+    "Suid-Afrika",
+    "Republic of South Africa"
+  ],
+  "area": 1221037.0,
+  "borders": [
+    "BWA",
+    "LSO",
+    "MOZ",
+    "NAM",
+    "SWZ",
+    "ZWE"
+  ],
+  "callingCodes": [
+    "27"
+  ],
+  "capital": "Pretoria",
+  "cioc": "RSA",
+  "currencies": [
+    {
+      "code": "ZAR",
+      "name": "South African rand",
+      "symbol": "R"
+    }
+  ],
+  "demonym": "South African",
+  "flag": "https://restcountries.eu/data/zaf.svg",
+  "gini": 63.1,
+  "languages": [
+    {
+      "iso639_1": "af",
+      "iso639_2": "afr",
+      "name": "Afrikaans",
+      "nativeName": "Afrikaans"
+    },
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "nr",
+      "iso639_2": "nbl",
+      "name": "Southern Ndebele",
+      "nativeName": "isiNdebele"
+    },
+    {
+      "iso639_1": "st",
+      "iso639_2": "sot",
+      "name": "Southern Sotho",
+      "nativeName": "Sesotho"
+    },
+    {
+      "iso639_1": "ss",
+      "iso639_2": "ssw",
+      "name": "Swati",
+      "nativeName": "SiSwati"
+    },
+    {
+      "iso639_1": "tn",
+      "iso639_2": "tsn",
+      "name": "Tswana",
+      "nativeName": "Setswana"
+    },
+    {
+      "iso639_1": "ts",
+      "iso639_2": "tso",
+      "name": "Tsonga",
+      "nativeName": "Xitsonga"
+    },
+    {
+      "iso639_1": "ve",
+      "iso639_2": "ven",
+      "name": "Venda",
+      "nativeName": "Tshivenḓa"
+    },
+    {
+      "iso639_1": "xh",
+      "iso639_2": "xho",
+      "name": "Xhosa",
+      "nativeName": "isiXhosa"
+    },
+    {
+      "iso639_1": "zu",
+      "iso639_2": "zul",
+      "name": "Zulu",
+      "nativeName": "isiZulu"
+    }
+  ],
+  "latlng": [
+    -29.0,
+    24.0
+  ],
+  "name": "South Africa",
+  "nativeName": "South Africa",
+  "numericCode": "710",
+  "population": 55653654,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Southern Africa",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".za"
+  ],
+  "translations": {
+    "br": "República Sul-Africana",
+    "de": "Republik Südafrika",
+    "es": "República de Sudáfrica",
+    "fa": "آفریقای جنوبی",
+    "fr": "Afrique du Sud",
+    "hr": "Južnoafrička Republika",
+    "it": "Sud Africa",
+    "ja": "南アフリカ",
+    "nl": "Zuid-Afrika",
+    "pt": "República Sul-Africana"
+  }
+}

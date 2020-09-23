@@ -1,0 +1,84 @@
+{
+  "alpha2Code": "CA",
+  "alpha3Code": "CAN",
+  "altSpellings": [
+    "CA"
+  ],
+  "area": 9984670.0,
+  "borders": [
+    "USA"
+  ],
+  "callingCodes": [
+    "1"
+  ],
+  "capital": "Ottawa",
+  "cioc": "CAN",
+  "currencies": [
+    {
+      "code": "CAD",
+      "name": "Canadian dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Canadian",
+  "flag": "https://restcountries.eu/data/can.svg",
+  "gini": 32.6,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    60.0,
+    -95.0
+  ],
+  "name": "Canada",
+  "nativeName": "Canada",
+  "numericCode": "124",
+  "population": 36155487,
+  "region": "Americas",
+  "regionalBlocs": [
+    {
+      "acronym": "NAFTA",
+      "name": "North American Free Trade Agreement",
+      "otherAcronyms": [],
+      "otherNames": [
+        "Tratado de Libre Comercio de América del Norte",
+        "Accord de Libre-échange Nord-Américain"
+      ]
+    }
+  ],
+  "subregion": "Northern America",
+  "timezones": [
+    "UTC-08:00",
+    "UTC-07:00",
+    "UTC-06:00",
+    "UTC-05:00",
+    "UTC-04:00",
+    "UTC-03:30"
+  ],
+  "topLevelDomain": [
+    ".ca"
+  ],
+  "translations": {
+    "br": "Canadá",
+    "de": "Kanada",
+    "es": "Canadá",
+    "fa": "کانادا",
+    "fr": "Canada",
+    "hr": "Kanada",
+    "it": "Canada",
+    "ja": "カナダ",
+    "nl": "Canada",
+    "pt": "Canadá"
+  }
+}

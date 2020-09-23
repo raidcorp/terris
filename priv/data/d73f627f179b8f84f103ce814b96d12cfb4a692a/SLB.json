@@ -1,0 +1,61 @@
+{
+  "alpha2Code": "SB",
+  "alpha3Code": "SLB",
+  "altSpellings": [
+    "SB"
+  ],
+  "area": 28896.0,
+  "borders": [],
+  "callingCodes": [
+    "677"
+  ],
+  "capital": "Honiara",
+  "cioc": "SOL",
+  "currencies": [
+    {
+      "code": "SBD",
+      "name": "Solomon Islands dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Solomon Islander",
+  "flag": "https://restcountries.eu/data/slb.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    -8.0,
+    159.0
+  ],
+  "name": "Solomon Islands",
+  "nativeName": "Solomon Islands",
+  "numericCode": "090",
+  "population": 642000,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Melanesia",
+  "timezones": [
+    "UTC+11:00"
+  ],
+  "topLevelDomain": [
+    ".sb"
+  ],
+  "translations": {
+    "br": "Ilhas Salomão",
+    "de": "Salomonen",
+    "es": "Islas Salomón",
+    "fa": "جزایر سلیمان",
+    "fr": "Îles Salomon",
+    "hr": "Solomonski Otoci",
+    "it": "Isole Salomone",
+    "ja": "ソロモン諸島",
+    "nl": "Salomonseilanden",
+    "pt": "Ilhas Salomão"
+  }
+}

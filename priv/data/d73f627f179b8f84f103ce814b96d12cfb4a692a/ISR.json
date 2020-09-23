@@ -1,0 +1,74 @@
+{
+  "alpha2Code": "IL",
+  "alpha3Code": "ISR",
+  "altSpellings": [
+    "IL",
+    "State of Israel",
+    "Medīnat Yisrā'el"
+  ],
+  "area": 20770.0,
+  "borders": [
+    "EGY",
+    "JOR",
+    "LBN",
+    "SYR"
+  ],
+  "callingCodes": [
+    "972"
+  ],
+  "capital": "Jerusalem",
+  "cioc": "ISR",
+  "currencies": [
+    {
+      "code": "ILS",
+      "name": "Israeli new shekel",
+      "symbol": "₪"
+    }
+  ],
+  "demonym": "Israeli",
+  "flag": "https://restcountries.eu/data/isr.svg",
+  "gini": 39.2,
+  "languages": [
+    {
+      "iso639_1": "he",
+      "iso639_2": "heb",
+      "name": "Hebrew (modern)",
+      "nativeName": "עברית"
+    },
+    {
+      "iso639_1": "ar",
+      "iso639_2": "ara",
+      "name": "Arabic",
+      "nativeName": "العربية"
+    }
+  ],
+  "latlng": [
+    31.5,
+    34.75
+  ],
+  "name": "Israel",
+  "nativeName": "יִשְׂרָאֵל",
+  "numericCode": "376",
+  "population": 8527400,
+  "region": "Asia",
+  "regionalBlocs": [],
+  "subregion": "Western Asia",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".il"
+  ],
+  "translations": {
+    "br": "Israel",
+    "de": "Israel",
+    "es": "Israel",
+    "fa": "اسرائیل",
+    "fr": "Israël",
+    "hr": "Izrael",
+    "it": "Israele",
+    "ja": "イスラエル",
+    "nl": "Israël",
+    "pt": "Israel"
+  }
+}

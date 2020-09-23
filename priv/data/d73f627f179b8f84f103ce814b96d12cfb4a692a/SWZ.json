@@ -1,0 +1,88 @@
+{
+  "alpha2Code": "SZ",
+  "alpha3Code": "SWZ",
+  "altSpellings": [
+    "SZ",
+    "weSwatini",
+    "Swatini",
+    "Ngwane",
+    "Kingdom of Swaziland",
+    "Umbuso waseSwatini"
+  ],
+  "area": 17364.0,
+  "borders": [
+    "MOZ",
+    "ZAF"
+  ],
+  "callingCodes": [
+    "268"
+  ],
+  "capital": "Lobamba",
+  "cioc": "SWZ",
+  "currencies": [
+    {
+      "code": "SZL",
+      "name": "Swazi lilangeni",
+      "symbol": "L"
+    }
+  ],
+  "demonym": "Swazi",
+  "flag": "https://restcountries.eu/data/swz.svg",
+  "gini": 51.5,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "ss",
+      "iso639_2": "ssw",
+      "name": "Swati",
+      "nativeName": "SiSwati"
+    }
+  ],
+  "latlng": [
+    -26.5,
+    31.5
+  ],
+  "name": "Swaziland",
+  "nativeName": "Swaziland",
+  "numericCode": "748",
+  "population": 1132657,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Southern Africa",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".sz"
+  ],
+  "translations": {
+    "br": "Suazilândia",
+    "de": "Swasiland",
+    "es": "Suazilandia",
+    "fa": "سوازیلند",
+    "fr": "Swaziland",
+    "hr": "Svazi",
+    "it": "Swaziland",
+    "ja": "スワジランド",
+    "nl": "Swaziland",
+    "pt": "Suazilândia"
+  }
+}

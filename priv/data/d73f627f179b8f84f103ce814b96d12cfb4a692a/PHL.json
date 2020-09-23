@@ -1,0 +1,70 @@
+{
+  "alpha2Code": "PH",
+  "alpha3Code": "PHL",
+  "altSpellings": [
+    "PH",
+    "Republic of the Philippines",
+    "Repúblika ng Pilipinas"
+  ],
+  "area": 342353.0,
+  "borders": [],
+  "callingCodes": [
+    "63"
+  ],
+  "capital": "Manila",
+  "cioc": "PHI",
+  "currencies": [
+    {
+      "code": "PHP",
+      "name": "Philippine peso",
+      "symbol": "₱"
+    }
+  ],
+  "demonym": "Filipino",
+  "flag": "https://restcountries.eu/data/phl.svg",
+  "gini": 43.0,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    13.0,
+    122.0
+  ],
+  "name": "Philippines",
+  "nativeName": "Pilipinas",
+  "numericCode": "608",
+  "population": 103279800,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "ASEAN",
+      "name": "Association of Southeast Asian Nations",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "South-Eastern Asia",
+  "timezones": [
+    "UTC+08:00"
+  ],
+  "topLevelDomain": [
+    ".ph"
+  ],
+  "translations": {
+    "br": "Filipinas",
+    "de": "Philippinen",
+    "es": "Filipinas",
+    "fa": "جزایر الندفیلیپین",
+    "fr": "Philippines",
+    "hr": "Filipini",
+    "it": "Filippine",
+    "ja": "フィリピン",
+    "nl": "Filipijnen",
+    "pt": "Filipinas"
+  }
+}

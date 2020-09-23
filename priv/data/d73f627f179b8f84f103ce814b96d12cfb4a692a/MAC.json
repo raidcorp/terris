@@ -1,0 +1,73 @@
+{
+  "alpha2Code": "MO",
+  "alpha3Code": "MAC",
+  "altSpellings": [
+    "MO",
+    "澳门",
+    "Macao Special Administrative Region of the People's Republic of China",
+    "中華人民共和國澳門特別行政區",
+    "Região Administrativa Especial de Macau da República Popular da China"
+  ],
+  "area": 30.0,
+  "borders": [
+    "CHN"
+  ],
+  "callingCodes": [
+    "853"
+  ],
+  "capital": "",
+  "cioc": "",
+  "currencies": [
+    {
+      "code": "MOP",
+      "name": "Macanese pataca",
+      "symbol": "P"
+    }
+  ],
+  "demonym": "Chinese",
+  "flag": "https://restcountries.eu/data/mac.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "zh",
+      "iso639_2": "zho",
+      "name": "Chinese",
+      "nativeName": "中文 (Zhōngwén)"
+    },
+    {
+      "iso639_1": "pt",
+      "iso639_2": "por",
+      "name": "Portuguese",
+      "nativeName": "Português"
+    }
+  ],
+  "latlng": [
+    22.16666666,
+    113.55
+  ],
+  "name": "Macao",
+  "nativeName": "澳門",
+  "numericCode": "446",
+  "population": 649100,
+  "region": "Asia",
+  "regionalBlocs": [],
+  "subregion": "Eastern Asia",
+  "timezones": [
+    "UTC+08:00"
+  ],
+  "topLevelDomain": [
+    ".mo"
+  ],
+  "translations": {
+    "br": "Macau",
+    "de": "Macao",
+    "es": "Macao",
+    "fa": "مکائو",
+    "fr": "Macao",
+    "hr": "Makao",
+    "it": "Macao",
+    "ja": "マカオ",
+    "nl": "Macao",
+    "pt": "Macau"
+  }
+}

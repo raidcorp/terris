@@ -1,0 +1,78 @@
+{
+  "alpha2Code": "TH",
+  "alpha3Code": "THA",
+  "altSpellings": [
+    "TH",
+    "Prathet",
+    "Thai",
+    "Kingdom of Thailand",
+    "ราชอาณาจักรไทย",
+    "Ratcha Anachak Thai"
+  ],
+  "area": 513120.0,
+  "borders": [
+    "MMR",
+    "KHM",
+    "LAO",
+    "MYS"
+  ],
+  "callingCodes": [
+    "66"
+  ],
+  "capital": "Bangkok",
+  "cioc": "THA",
+  "currencies": [
+    {
+      "code": "THB",
+      "name": "Thai baht",
+      "symbol": "฿"
+    }
+  ],
+  "demonym": "Thai",
+  "flag": "https://restcountries.eu/data/tha.svg",
+  "gini": 40.0,
+  "languages": [
+    {
+      "iso639_1": "th",
+      "iso639_2": "tha",
+      "name": "Thai",
+      "nativeName": "ไทย"
+    }
+  ],
+  "latlng": [
+    15.0,
+    100.0
+  ],
+  "name": "Thailand",
+  "nativeName": "ประเทศไทย",
+  "numericCode": "764",
+  "population": 65327652,
+  "region": "Asia",
+  "regionalBlocs": [
+    {
+      "acronym": "ASEAN",
+      "name": "Association of Southeast Asian Nations",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "South-Eastern Asia",
+  "timezones": [
+    "UTC+07:00"
+  ],
+  "topLevelDomain": [
+    ".th"
+  ],
+  "translations": {
+    "br": "Tailândia",
+    "de": "Thailand",
+    "es": "Tailandia",
+    "fa": "تایلند",
+    "fr": "Thaïlande",
+    "hr": "Tajland",
+    "it": "Tailandia",
+    "ja": "タイ",
+    "nl": "Thailand",
+    "pt": "Tailândia"
+  }
+}

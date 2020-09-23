@@ -1,0 +1,70 @@
+{
+  "alpha2Code": "UA",
+  "alpha3Code": "UKR",
+  "altSpellings": [
+    "UA",
+    "Ukrayina"
+  ],
+  "area": 6.037e5,
+  "borders": [
+    "BLR",
+    "HUN",
+    "MDA",
+    "POL",
+    "ROU",
+    "RUS",
+    "SVK"
+  ],
+  "callingCodes": [
+    "380"
+  ],
+  "capital": "Kiev",
+  "cioc": "UKR",
+  "currencies": [
+    {
+      "code": "UAH",
+      "name": "Ukrainian hryvnia",
+      "symbol": "₴"
+    }
+  ],
+  "demonym": "Ukrainian",
+  "flag": "https://restcountries.eu/data/ukr.svg",
+  "gini": 26.4,
+  "languages": [
+    {
+      "iso639_1": "uk",
+      "iso639_2": "ukr",
+      "name": "Ukrainian",
+      "nativeName": "Українська"
+    }
+  ],
+  "latlng": [
+    49.0,
+    32.0
+  ],
+  "name": "Ukraine",
+  "nativeName": "Україна",
+  "numericCode": "804",
+  "population": 42692393,
+  "region": "Europe",
+  "regionalBlocs": [],
+  "subregion": "Eastern Europe",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "topLevelDomain": [
+    ".ua"
+  ],
+  "translations": {
+    "br": "Ucrânia",
+    "de": "Ukraine",
+    "es": "Ucrania",
+    "fa": "وکراین",
+    "fr": "Ukraine",
+    "hr": "Ukrajina",
+    "it": "Ucraina",
+    "ja": "ウクライナ",
+    "nl": "Oekraïne",
+    "pt": "Ucrânia"
+  }
+}

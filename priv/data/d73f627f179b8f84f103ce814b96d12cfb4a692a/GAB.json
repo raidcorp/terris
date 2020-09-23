@@ -1,0 +1,80 @@
+{
+  "alpha2Code": "GA",
+  "alpha3Code": "GAB",
+  "altSpellings": [
+    "GA",
+    "Gabonese Republic",
+    "République Gabonaise"
+  ],
+  "area": 267668.0,
+  "borders": [
+    "CMR",
+    "COG",
+    "GNQ"
+  ],
+  "callingCodes": [
+    "241"
+  ],
+  "capital": "Libreville",
+  "cioc": "GAB",
+  "currencies": [
+    {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    }
+  ],
+  "demonym": "Gabonese",
+  "flag": "https://restcountries.eu/data/gab.svg",
+  "gini": 41.5,
+  "languages": [
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    -1.0,
+    11.75
+  ],
+  "name": "Gabon",
+  "nativeName": "Gabon",
+  "numericCode": "266",
+  "population": 1802278,
+  "region": "Africa",
+  "regionalBlocs": [
+    {
+      "acronym": "AU",
+      "name": "African Union",
+      "otherAcronyms": [],
+      "otherNames": [
+        "الاتحاد الأفريقي",
+        "Union africaine",
+        "União Africana",
+        "Unión Africana",
+        "Umoja wa Afrika"
+      ]
+    }
+  ],
+  "subregion": "Middle Africa",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".ga"
+  ],
+  "translations": {
+    "br": "Gabão",
+    "de": "Gabun",
+    "es": "Gabón",
+    "fa": "گابن",
+    "fr": "Gabon",
+    "hr": "Gabon",
+    "it": "Gabon",
+    "ja": "ガボン",
+    "nl": "Gabon",
+    "pt": "Gabão"
+  }
+}

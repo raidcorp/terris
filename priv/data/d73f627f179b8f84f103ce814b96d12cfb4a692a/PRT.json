@@ -1,0 +1,74 @@
+{
+  "alpha2Code": "PT",
+  "alpha3Code": "PRT",
+  "altSpellings": [
+    "PT",
+    "Portuguesa",
+    "Portuguese Republic",
+    "República Portuguesa"
+  ],
+  "area": 92090.0,
+  "borders": [
+    "ESP"
+  ],
+  "callingCodes": [
+    "351"
+  ],
+  "capital": "Lisbon",
+  "cioc": "POR",
+  "currencies": [
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    }
+  ],
+  "demonym": "Portuguese",
+  "flag": "https://restcountries.eu/data/prt.svg",
+  "gini": 38.5,
+  "languages": [
+    {
+      "iso639_1": "pt",
+      "iso639_2": "por",
+      "name": "Portuguese",
+      "nativeName": "Português"
+    }
+  ],
+  "latlng": [
+    39.5,
+    -8.0
+  ],
+  "name": "Portugal",
+  "nativeName": "Portugal",
+  "numericCode": "620",
+  "population": 10374822,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EU",
+      "name": "European Union",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Southern Europe",
+  "timezones": [
+    "UTC-01:00",
+    "UTC"
+  ],
+  "topLevelDomain": [
+    ".pt"
+  ],
+  "translations": {
+    "br": "Portugal",
+    "de": "Portugal",
+    "es": "Portugal",
+    "fa": "پرتغال",
+    "fr": "Portugal",
+    "hr": "Portugal",
+    "it": "Portogallo",
+    "ja": "ポルトガル",
+    "nl": "Portugal",
+    "pt": "Portugal"
+  }
+}

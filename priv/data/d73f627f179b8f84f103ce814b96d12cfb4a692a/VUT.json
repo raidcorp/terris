@@ -1,0 +1,76 @@
+{
+  "alpha2Code": "VU",
+  "alpha3Code": "VUT",
+  "altSpellings": [
+    "VU",
+    "Republic of Vanuatu",
+    "Ripablik blong Vanuatu",
+    "République de Vanuatu"
+  ],
+  "area": 12189.0,
+  "borders": [],
+  "callingCodes": [
+    "678"
+  ],
+  "capital": "Port Vila",
+  "cioc": "VAN",
+  "currencies": [
+    {
+      "code": "VUV",
+      "name": "Vanuatu vatu",
+      "symbol": "Vt"
+    }
+  ],
+  "demonym": "Ni-Vanuatu",
+  "flag": "https://restcountries.eu/data/vut.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "bi",
+      "iso639_2": "bis",
+      "name": "Bislama",
+      "nativeName": "Bislama"
+    },
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    },
+    {
+      "iso639_1": "fr",
+      "iso639_2": "fra",
+      "name": "French",
+      "nativeName": "français"
+    }
+  ],
+  "latlng": [
+    -16.0,
+    167.0
+  ],
+  "name": "Vanuatu",
+  "nativeName": "Vanuatu",
+  "numericCode": "548",
+  "population": 277500,
+  "region": "Oceania",
+  "regionalBlocs": [],
+  "subregion": "Melanesia",
+  "timezones": [
+    "UTC+11:00"
+  ],
+  "topLevelDomain": [
+    ".vu"
+  ],
+  "translations": {
+    "br": "Vanuatu",
+    "de": "Vanuatu",
+    "es": "Vanuatu",
+    "fa": "وانواتو",
+    "fr": "Vanuatu",
+    "hr": "Vanuatu",
+    "it": "Vanuatu",
+    "ja": "バヌアツ",
+    "nl": "Vanuatu",
+    "pt": "Vanuatu"
+  }
+}

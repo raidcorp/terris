@@ -1,0 +1,89 @@
+{
+  "alpha2Code": "NO",
+  "alpha3Code": "NOR",
+  "altSpellings": [
+    "NO",
+    "Norge",
+    "Noreg",
+    "Kingdom of Norway",
+    "Kongeriket Norge",
+    "Kongeriket Noreg"
+  ],
+  "area": 323802.0,
+  "borders": [
+    "FIN",
+    "SWE",
+    "RUS"
+  ],
+  "callingCodes": [
+    "47"
+  ],
+  "capital": "Oslo",
+  "cioc": "NOR",
+  "currencies": [
+    {
+      "code": "NOK",
+      "name": "Norwegian krone",
+      "symbol": "kr"
+    }
+  ],
+  "demonym": "Norwegian",
+  "flag": "https://restcountries.eu/data/nor.svg",
+  "gini": 25.8,
+  "languages": [
+    {
+      "iso639_1": "no",
+      "iso639_2": "nor",
+      "name": "Norwegian",
+      "nativeName": "Norsk"
+    },
+    {
+      "iso639_1": "nb",
+      "iso639_2": "nob",
+      "name": "Norwegian Bokmål",
+      "nativeName": "Norsk bokmål"
+    },
+    {
+      "iso639_1": "nn",
+      "iso639_2": "nno",
+      "name": "Norwegian Nynorsk",
+      "nativeName": "Norsk nynorsk"
+    }
+  ],
+  "latlng": [
+    62.0,
+    10.0
+  ],
+  "name": "Norway",
+  "nativeName": "Norge",
+  "numericCode": "578",
+  "population": 5223256,
+  "region": "Europe",
+  "regionalBlocs": [
+    {
+      "acronym": "EFTA",
+      "name": "European Free Trade Association",
+      "otherAcronyms": [],
+      "otherNames": []
+    }
+  ],
+  "subregion": "Northern Europe",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "topLevelDomain": [
+    ".no"
+  ],
+  "translations": {
+    "br": "Noruega",
+    "de": "Norwegen",
+    "es": "Noruega",
+    "fa": "نروژ",
+    "fr": "Norvège",
+    "hr": "Norveška",
+    "it": "Norvegia",
+    "ja": "ノルウェー",
+    "nl": "Noorwegen",
+    "pt": "Noruega"
+  }
+}

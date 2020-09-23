@@ -1,0 +1,72 @@
+{
+  "alpha2Code": "TL",
+  "alpha3Code": "TLS",
+  "altSpellings": [
+    "TL",
+    "East Timor",
+    "Democratic Republic of Timor-Leste",
+    "República Democrática de Timor-Leste",
+    "Repúblika Demokrátika Timór-Leste"
+  ],
+  "area": 14874.0,
+  "borders": [
+    "IDN"
+  ],
+  "callingCodes": [
+    "670"
+  ],
+  "capital": "Dili",
+  "cioc": "TLS",
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    {
+      "code": null,
+      "name": null,
+      "symbol": null
+    }
+  ],
+  "demonym": "East Timorese",
+  "flag": "https://restcountries.eu/data/tls.svg",
+  "gini": 31.9,
+  "languages": [
+    {
+      "iso639_1": "pt",
+      "iso639_2": "por",
+      "name": "Portuguese",
+      "nativeName": "Português"
+    }
+  ],
+  "latlng": [
+    -8.83333333,
+    125.91666666
+  ],
+  "name": "Timor-Leste",
+  "nativeName": "Timor-Leste",
+  "numericCode": "626",
+  "population": 1167242,
+  "region": "Asia",
+  "regionalBlocs": [],
+  "subregion": "South-Eastern Asia",
+  "timezones": [
+    "UTC+09:00"
+  ],
+  "topLevelDomain": [
+    ".tl"
+  ],
+  "translations": {
+    "br": "Timor Leste",
+    "de": "Timor-Leste",
+    "es": "Timor Oriental",
+    "fa": "تیمور شرقی",
+    "fr": "Timor oriental",
+    "hr": "Istočni Timor",
+    "it": "Timor Est",
+    "ja": "東ティモール",
+    "nl": "Oost-Timor",
+    "pt": "Timor Leste"
+  }
+}

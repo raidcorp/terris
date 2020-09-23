@@ -1,0 +1,67 @@
+{
+  "alpha2Code": "AW",
+  "alpha3Code": "ABW",
+  "altSpellings": [
+    "AW"
+  ],
+  "area": 180.0,
+  "borders": [],
+  "callingCodes": [
+    "297"
+  ],
+  "capital": "Oranjestad",
+  "cioc": "ARU",
+  "currencies": [
+    {
+      "code": "AWG",
+      "name": "Aruban florin",
+      "symbol": "ƒ"
+    }
+  ],
+  "demonym": "Aruban",
+  "flag": "https://restcountries.eu/data/abw.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "nl",
+      "iso639_2": "nld",
+      "name": "Dutch",
+      "nativeName": "Nederlands"
+    },
+    {
+      "iso639_1": "pa",
+      "iso639_2": "pan",
+      "name": "(Eastern) Punjabi",
+      "nativeName": "ਪੰਜਾਬੀ"
+    }
+  ],
+  "latlng": [
+    12.5,
+    -69.96666666
+  ],
+  "name": "Aruba",
+  "nativeName": "Aruba",
+  "numericCode": "533",
+  "population": 107394,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".aw"
+  ],
+  "translations": {
+    "br": "Aruba",
+    "de": "Aruba",
+    "es": "Aruba",
+    "fa": "آروبا",
+    "fr": "Aruba",
+    "hr": "Aruba",
+    "it": "Aruba",
+    "ja": "アルバ",
+    "nl": "Aruba",
+    "pt": "Aruba"
+  }
+}

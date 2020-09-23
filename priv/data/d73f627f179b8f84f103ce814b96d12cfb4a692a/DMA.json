@@ -1,0 +1,64 @@
+{
+  "alpha2Code": "DM",
+  "alpha3Code": "DMA",
+  "altSpellings": [
+    "DM",
+    "Dominique",
+    "Wai‘tu kubuli",
+    "Commonwealth of Dominica"
+  ],
+  "area": 751.0,
+  "borders": [],
+  "callingCodes": [
+    "1767"
+  ],
+  "capital": "Roseau",
+  "cioc": "DMA",
+  "currencies": [
+    {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    }
+  ],
+  "demonym": "Dominican",
+  "flag": "https://restcountries.eu/data/dma.svg",
+  "gini": null,
+  "languages": [
+    {
+      "iso639_1": "en",
+      "iso639_2": "eng",
+      "name": "English",
+      "nativeName": "English"
+    }
+  ],
+  "latlng": [
+    15.41666666,
+    -61.33333333
+  ],
+  "name": "Dominica",
+  "nativeName": "Dominica",
+  "numericCode": "212",
+  "population": 71293,
+  "region": "Americas",
+  "regionalBlocs": [],
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "topLevelDomain": [
+    ".dm"
+  ],
+  "translations": {
+    "br": "Dominica",
+    "de": "Dominica",
+    "es": "Dominica",
+    "fa": "دومینیکا",
+    "fr": "Dominique",
+    "hr": "Dominika",
+    "it": "Dominica",
+    "ja": "ドミニカ国",
+    "nl": "Dominica",
+    "pt": "Dominica"
+  }
+}
